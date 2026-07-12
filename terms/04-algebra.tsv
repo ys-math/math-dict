@@ -1,39 +1,70 @@
 # 代数学 / Algebra
 # reading	word	pos	flags
+あーべるぐん	アーベル群	noun
+いちいぶんかいせいいき	一意分解整域	noun
 いである	イデアル	noun
+うかぐん	右加群	noun
 えんざん	演算	noun-suru
 かかいぐん	可解群	noun
 かかんかん	可換環	noun
+かかんぐん	可換群	noun
+かくだいじすう	拡大次数	noun
 かくだいたい	拡大体	noun
+かぐん	加群	noun
 かん	環	noun	common
+がろあかくだい	ガロア拡大	noun
 がろあぐん	ガロア群	noun
+がろありろん	ガロア理論	noun
+きょうやくるい	共役類	noun
 きょくだいいである	極大イデアル	noun
 ぐん	群	noun	common
+ぐんかん	群環	noun
 けつごうほうそく	結合法則	noun
+げんしげん	原始元	noun
 こうかんし	交換子	noun
 こうかんほうそく	交換法則	noun
 さよう	作用	noun-suru	common
+しょうたい	商体	noun
+じこどうけい	自己同型	noun
+じこどうけいぐん	自己同型群	noun
 じゅんかいぐん	巡回群	noun
 じゅんどうけい	準同型	noun
-しょうたい	商体	noun
+じゅんどうけいていり	準同型定理	noun
 じょうよかん	剰余環	noun
 じょうよぐん	剰余群	noun
+すいいぐん	推移群	noun
 せいいき	整域	noun
 せいき	正規	noun-adj	common
+せいきかくだい	正規拡大	noun
 せいきぶぶんぐん	正規部分群	noun
+せいすうかん	整数環	noun
 せいへいほう	整閉包	noun
 ぜんしょうかん	全商環	noun
 そいである	素イデアル	noun
 たい	体	noun	common
-だいすうてきへいほう	代数的閉包	noun
 たいしょうぐん	対称群	noun
+たいのかくだい	体の拡大	noun
 たこうしきかん	多項式環	noun
+たんこういであいき	単項イデアル整域	noun
 たんこういである	単項イデアル	noun
+だいすうてきげん	代数的元	noun
+だいすうてきどくりつ	代数的独立	noun
+だいすうてきへいほう	代数的閉包	noun
+ちかんぐん	置換群	noun
+ちゅうかんたい	中間体	noun
 ちゅうしん	中心	noun	common
+ていすうこう	定数項	noun
 どうけい	同型	noun
+どうけいていり	同型定理	noun
 にこうえんざん	二項演算	noun
+ひょうすう	標数	noun
+ふへんぶぶんぐん	不変部分群	noun
 ぶんかいたい	分解体	noun
 ぶんすうたい	分数体	noun
 ぶんぱいほうそく	分配法則	noun
-ひょうすう	標数	noun
+べきれいげん	冪零元	noun
+ゆうげんぐん	有限群	noun
+ゆうげんせい	有限生成	noun
 ゆうげんたい	有限体	noun
+るいすう	類数	noun
+れいいんし	零因子	noun

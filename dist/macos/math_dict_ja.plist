@@ -16,9 +16,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>アーベル群</string>
+		<key>shortcut</key>
+		<string>あーべるぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>一意分解整域</string>
+		<key>shortcut</key>
+		<string>いちいぶんかいせいいき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>イデアル</string>
 		<key>shortcut</key>
 		<string>いである</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>右加群</string>
+		<key>shortcut</key>
+		<string>うかぐん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -40,9 +58,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>可換群</string>
+		<key>shortcut</key>
+		<string>かかんぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>拡大次数</string>
+		<key>shortcut</key>
+		<string>かくだいじすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>拡大体</string>
 		<key>shortcut</key>
 		<string>かくだいたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>加群</string>
+		<key>shortcut</key>
+		<string>かぐん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -52,9 +88,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ガロア拡大</string>
+		<key>shortcut</key>
+		<string>がろあかくだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ガロア群</string>
 		<key>shortcut</key>
 		<string>がろあぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ガロア理論</string>
+		<key>shortcut</key>
+		<string>がろありろん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>共役類</string>
+		<key>shortcut</key>
+		<string>きょうやくるい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -70,9 +124,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>群環</string>
+		<key>shortcut</key>
+		<string>ぐんかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>結合法則</string>
 		<key>shortcut</key>
 		<string>けつごうほうそく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>原始元</string>
+		<key>shortcut</key>
+		<string>げんしげん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -100,6 +166,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>自己同型</string>
+		<key>shortcut</key>
+		<string>じこどうけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>自己同型群</string>
+		<key>shortcut</key>
+		<string>じこどうけいぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>巡回群</string>
 		<key>shortcut</key>
 		<string>じゅんかいぐん</string>
@@ -109,6 +187,12 @@
 		<string>準同型</string>
 		<key>shortcut</key>
 		<string>じゅんどうけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>準同型定理</string>
+		<key>shortcut</key>
+		<string>じゅんどうけいていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -124,6 +208,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>推移群</string>
+		<key>shortcut</key>
+		<string>すいいぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>整域</string>
 		<key>shortcut</key>
 		<string>せいいき</string>
@@ -136,9 +226,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>正規拡大</string>
+		<key>shortcut</key>
+		<string>せいきかくだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>正規部分群</string>
 		<key>shortcut</key>
 		<string>せいきぶぶんぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>整数環</string>
+		<key>shortcut</key>
+		<string>せいすうかん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -172,9 +274,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>体の拡大</string>
+		<key>shortcut</key>
+		<string>たいのかくだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>多項式環</string>
 		<key>shortcut</key>
 		<string>たこうしきかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>単項イデアル整域</string>
+		<key>shortcut</key>
+		<string>たんこういであいき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -184,9 +298,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>代数的元</string>
+		<key>shortcut</key>
+		<string>だいすうてきげん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>代数的独立</string>
+		<key>shortcut</key>
+		<string>だいすうてきどくりつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>代数的閉包</string>
 		<key>shortcut</key>
 		<string>だいすうてきへいほう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>置換群</string>
+		<key>shortcut</key>
+		<string>ちかんぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>中間体</string>
+		<key>shortcut</key>
+		<string>ちゅうかんたい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -196,9 +334,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>定数項</string>
+		<key>shortcut</key>
+		<string>ていすうこう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>同型</string>
 		<key>shortcut</key>
 		<string>どうけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>同型定理</string>
+		<key>shortcut</key>
+		<string>どうけいていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -211,6 +361,12 @@
 		<string>標数</string>
 		<key>shortcut</key>
 		<string>ひょうすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>不変部分群</string>
+		<key>shortcut</key>
+		<string>ふへんぶぶんぐん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -232,9 +388,39 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>冪零元</string>
+		<key>shortcut</key>
+		<string>べきれいげん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>有限群</string>
+		<key>shortcut</key>
+		<string>ゆうげんぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>有限生成</string>
+		<key>shortcut</key>
+		<string>ゆうげんせい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>有限体</string>
 		<key>shortcut</key>
 		<string>ゆうげんたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>類数</string>
+		<key>shortcut</key>
+		<string>るいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>零因子</string>
+		<key>shortcut</key>
+		<string>れいいんし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -250,6 +436,36 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>位相多様体</string>
+		<key>shortcut</key>
+		<string>いそうたようたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>一点コンパクト化</string>
+		<key>shortcut</key>
+		<string>いってんこんぱくとか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>オイラー標数</string>
+		<key>shortcut</key>
+		<string>おいらーひょうすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>開球</string>
+		<key>shortcut</key>
+		<string>かいきゅう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>開写像</string>
+		<key>shortcut</key>
+		<string>かいしゃぞう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>開集合</string>
 		<key>shortcut</key>
 		<string>かいしゅうごう</string>
@@ -262,9 +478,45 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>可分</string>
+		<key>shortcut</key>
+		<string>かぶん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>完備距離空間</string>
+		<key>shortcut</key>
+		<string>かんびきょりくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>基本群</string>
+		<key>shortcut</key>
+		<string>きほんぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>境界</string>
+		<key>shortcut</key>
+		<string>きょうかい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>局所コンパクト</string>
+		<key>shortcut</key>
+		<string>きょくしょこんぱくと</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>距離</string>
 		<key>shortcut</key>
 		<string>きょり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>距離空間</string>
+		<key>shortcut</key>
+		<string>きょりくうかん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -274,9 +526,93 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>弧状連結</string>
+		<key>shortcut</key>
+		<string>こじょうれんけつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>孤立点</string>
+		<key>shortcut</key>
+		<string>こりつてん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>コンパクト</string>
 		<key>shortcut</key>
 		<string>こんぱくと</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コンパクト化</string>
+		<key>shortcut</key>
+		<string>こんぱくとか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>集積点</string>
+		<key>shortcut</key>
+		<string>しゅうせきてん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>商空間</string>
+		<key>shortcut</key>
+		<string>しょうくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>正規空間</string>
+		<key>shortcut</key>
+		<string>せいきくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>正則空間</string>
+		<key>shortcut</key>
+		<string>せいそくくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>積空間</string>
+		<key>shortcut</key>
+		<string>せきくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>相対位相</string>
+		<key>shortcut</key>
+		<string>そうたいいそう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>多様体</string>
+		<key>shortcut</key>
+		<string>たようたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>単連結</string>
+		<key>shortcut</key>
+		<string>たんれんけつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>第一可算</string>
+		<key>shortcut</key>
+		<string>だいいちかさん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>第二可算</string>
+		<key>shortcut</key>
+		<string>だいにかさん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>直積位相</string>
+		<key>shortcut</key>
+		<string>ちょくせきいそう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -286,15 +622,111 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>同相写像</string>
+		<key>shortcut</key>
+		<string>どうそうしゃぞう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>内部</string>
+		<key>shortcut</key>
+		<string>ないぶ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ハウスドルフ空間</string>
+		<key>shortcut</key>
+		<string>はうすどるふくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パラコンパクト</string>
+		<key>shortcut</key>
+		<string>ぱらこんぱくと</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>被覆空間</string>
+		<key>shortcut</key>
+		<string>ひふくくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ファイバー束</string>
+		<key>shortcut</key>
+		<string>ふぁいばーそく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>普遍被覆</string>
+		<key>shortcut</key>
+		<string>ふへんひふく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>部分空間</string>
+		<key>shortcut</key>
+		<string>ぶぶんくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>分離公理</string>
+		<key>shortcut</key>
+		<string>ぶんりこうり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>閉球</string>
+		<key>shortcut</key>
+		<string>へいきゅう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>閉写像</string>
+		<key>shortcut</key>
+		<string>へいしゃぞう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>閉集合</string>
 		<key>shortcut</key>
 		<string>へいしゅうごう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>閉包</string>
+		<key>shortcut</key>
+		<string>へいほう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ホモトピー</string>
+		<key>shortcut</key>
+		<string>ほもとぴー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ホモトピー同値</string>
+		<key>shortcut</key>
+		<string>ほもとぴーどうち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>連結</string>
 		<key>shortcut</key>
 		<string>れんけつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>連結成分</string>
+		<key>shortcut</key>
+		<string>れんけつせいぶん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>連続写像</string>
+		<key>shortcut</key>
+		<string>れんぞくしゃぞう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1540,9 +1972,75 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>因数分解</string>
+		<key>shortcut</key>
+		<string>いんすうぶんかい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>エラトステネスの篩</string>
+		<key>shortcut</key>
+		<string>えらとすてねすのふるい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>オイラー関数</string>
+		<key>shortcut</key>
+		<string>おいらーかんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ガウス整数</string>
+		<key>shortcut</key>
+		<string>がうすせいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>奇数</string>
+		<key>shortcut</key>
+		<string>きすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>既約多項式</string>
+		<key>shortcut</key>
+		<string>きやくたこうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>既約分数</string>
+		<key>shortcut</key>
+		<string>きやくぶんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>逆元</string>
+		<key>shortcut</key>
+		<string>ぎゃくげん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>偶数</string>
+		<key>shortcut</key>
+		<string>ぐうすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>合同式</string>
 		<key>shortcut</key>
 		<string>ごうどうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>最小公倍数</string>
+		<key>shortcut</key>
+		<string>さいしょうこうばいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>最大公約数</string>
+		<key>shortcut</key>
+		<string>さいだいこうやくすう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1558,9 +2056,45 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>数論</string>
+		<key>shortcut</key>
+		<string>すうろん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>整数</string>
+		<key>shortcut</key>
+		<string>せいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ゼータ関数</string>
+		<key>shortcut</key>
+		<string>ぜーたかんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>素因数</string>
+		<key>shortcut</key>
+		<string>そいんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>素因数分解</string>
+		<key>shortcut</key>
+		<string>そいんすうぶんかい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>素数</string>
 		<key>shortcut</key>
 		<string>そすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>素数定理</string>
+		<key>shortcut</key>
+		<string>そすうていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1570,9 +2104,321 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>代数体</string>
+		<key>shortcut</key>
+		<string>だいすうたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>代数的整数</string>
+		<key>shortcut</key>
+		<string>だいすうてきせいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>中国剰余定理</string>
+		<key>shortcut</key>
+		<string>ちゅうごくじょうよていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ディリクレ級数</string>
+		<key>shortcut</key>
+		<string>でぃりくれきゅうすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>倍数</string>
+		<key>shortcut</key>
+		<string>ばいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>フェルマーの小定理</string>
+		<key>shortcut</key>
+		<string>ふぇるまーのしょうていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>不定方程式</string>
+		<key>shortcut</key>
+		<string>ふていほうていしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>平方剰余</string>
+		<key>shortcut</key>
+		<string>へいほうじょうよ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>法</string>
 		<key>shortcut</key>
 		<string>ほう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>無理数</string>
+		<key>shortcut</key>
+		<string>むりすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>約数</string>
+		<key>shortcut</key>
+		<string>やくすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>有理数</string>
+		<key>shortcut</key>
+		<string>ゆうりすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ユークリッドの互除法</string>
+		<key>shortcut</key>
+		<string>ゆーくりっどのごじょほう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>リーマンゼータ関数</string>
+		<key>shortcut</key>
+		<string>りーまんぜーたかんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>リーマン予想</string>
+		<key>shortcut</key>
+		<string>りーまんよそう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>連分数</string>
+		<key>shortcut</key>
+		<string>れんぶんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>一様分布</string>
+		<key>shortcut</key>
+		<string>いちようぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>回帰分析</string>
+		<key>shortcut</key>
+		<string>かいきぶんせき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>確率</string>
+		<key>shortcut</key>
+		<string>かくりつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>確率過程</string>
+		<key>shortcut</key>
+		<string>かくりつかてい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>確率空間</string>
+		<key>shortcut</key>
+		<string>かくりつくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>確率測度</string>
+		<key>shortcut</key>
+		<string>かくりつそくど</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>確率分布</string>
+		<key>shortcut</key>
+		<string>かくりつぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>確率変数</string>
+		<key>shortcut</key>
+		<string>かくりつへんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>確率密度関数</string>
+		<key>shortcut</key>
+		<string>かくりつみつどかんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>仮説検定</string>
+		<key>shortcut</key>
+		<string>かせつけんてい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>幾何分布</string>
+		<key>shortcut</key>
+		<string>きかぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>期待値</string>
+		<key>shortcut</key>
+		<string>きたいち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>共分散</string>
+		<key>shortcut</key>
+		<string>きょうぶんさん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>最尤推定</string>
+		<key>shortcut</key>
+		<string>さいゆうすいてい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>指数分布</string>
+		<key>shortcut</key>
+		<string>しすうぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>指標関数</string>
+		<key>shortcut</key>
+		<string>しひょうかんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>事象</string>
+		<key>shortcut</key>
+		<string>じしょう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>条件付き確率</string>
+		<key>shortcut</key>
+		<string>じょうけんつきかくりつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>推定</string>
+		<key>shortcut</key>
+		<string>すいてい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>推定量</string>
+		<key>shortcut</key>
+		<string>すいていりょう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>正規分布</string>
+		<key>shortcut</key>
+		<string>せいきぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>相関係数</string>
+		<key>shortcut</key>
+		<string>そうかんけいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>大数の法則</string>
+		<key>shortcut</key>
+		<string>たいすうのほうそく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>中心極限定理</string>
+		<key>shortcut</key>
+		<string>ちゅうしんきょくげんていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>独立</string>
+		<key>shortcut</key>
+		<string>どくりつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>二項分布</string>
+		<key>shortcut</key>
+		<string>にこうぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>標準偏差</string>
+		<key>shortcut</key>
+		<string>ひょうじゅんへんさ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>標本</string>
+		<key>shortcut</key>
+		<string>ひょうほん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ブラウン運動</string>
+		<key>shortcut</key>
+		<string>ぶらうんうんどう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>分散</string>
+		<key>shortcut</key>
+		<string>ぶんさん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ベイズの定理</string>
+		<key>shortcut</key>
+		<string>べいずのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ポアソン分布</string>
+		<key>shortcut</key>
+		<string>ぽあそんぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>マルコフ連鎖</string>
+		<key>shortcut</key>
+		<string>まるこふれんさ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>マルチンゲール</string>
+		<key>shortcut</key>
+		<string>まるちんげーる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>無作為抽出</string>
+		<key>shortcut</key>
+		<string>むさくいちゅうしゅつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>有意</string>
+		<key>shortcut</key>
+		<string>ゆうい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>尤度</string>
+		<key>shortcut</key>
+		<string>ゆうど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1732,15 +2578,111 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>エルミート行列</string>
+		<key>shortcut</key>
+		<string>えるみーとぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>解空間</string>
+		<key>shortcut</key>
+		<string>かいくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>階数</string>
+		<key>shortcut</key>
+		<string>かいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>階段行列</string>
+		<key>shortcut</key>
+		<string>かいだんぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>可逆行列</string>
+		<key>shortcut</key>
+		<string>かぎゃくぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>拡大係数行列</string>
+		<key>shortcut</key>
+		<string>かくだいけいすうぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>下三角行列</string>
+		<key>shortcut</key>
+		<string>かさんかくぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>基底</string>
 		<key>shortcut</key>
 		<string>きてい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>基底変換</string>
+		<key>shortcut</key>
+		<string>きていへんかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>共役転置</string>
+		<key>shortcut</key>
+		<string>きょうやくてんち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>行基本変形</string>
+		<key>shortcut</key>
+		<string>ぎょうきほんへんけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>行ベクトル</string>
+		<key>shortcut</key>
+		<string>ぎょうべくとる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>行列</string>
+		<key>shortcut</key>
+		<string>ぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>行列式</string>
 		<key>shortcut</key>
 		<string>ぎょうれつしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>クラメルの公式</string>
+		<key>shortcut</key>
+		<string>くらめるのこうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>計量</string>
+		<key>shortcut</key>
+		<string>けいりょう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>固有空間</string>
+		<key>shortcut</key>
+		<string>こゆうくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>固有多項式</string>
+		<key>shortcut</key>
+		<string>こゆうたこうしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1756,6 +2698,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>固有方程式</string>
+		<key>shortcut</key>
+		<string>こゆうほうていしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>三角行列</string>
+		<key>shortcut</key>
+		<string>さんかくぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>射影</string>
 		<key>shortcut</key>
 		<string>しゃえい</string>
@@ -1768,9 +2722,69 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>自己随伴</string>
+		<key>shortcut</key>
+		<string>じこずいはん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>上三角行列</string>
+		<key>shortcut</key>
+		<string>じょうさんかくぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ジョルダン標準形</string>
+		<key>shortcut</key>
+		<string>じょるだんひょうじゅんけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>スカラー</string>
+		<key>shortcut</key>
+		<string>すからー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>正規直交</string>
+		<key>shortcut</key>
+		<string>せいきちょっこう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>正規直交基底</string>
+		<key>shortcut</key>
+		<string>せいきちょっこうきてい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>正則行列</string>
+		<key>shortcut</key>
+		<string>せいそくぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>正定値</string>
+		<key>shortcut</key>
+		<string>せいていち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>線形</string>
 		<key>shortcut</key>
 		<string>せんけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>線形結合</string>
+		<key>shortcut</key>
+		<string>せんけいけつごう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>線形写像</string>
+		<key>shortcut</key>
+		<string>せんけいしゃぞう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1786,6 +2800,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>線形変換</string>
+		<key>shortcut</key>
+		<string>せんけいへんかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>双対</string>
 		<key>shortcut</key>
 		<string>そうつい</string>
@@ -1795,6 +2815,78 @@
 		<string>双対空間</string>
 		<key>shortcut</key>
 		<string>そうついくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>対角</string>
+		<key>shortcut</key>
+		<string>たいかく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>対角化</string>
+		<key>shortcut</key>
+		<string>たいかくか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>対角化可能</string>
+		<key>shortcut</key>
+		<string>たいかくかのう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>対角行列</string>
+		<key>shortcut</key>
+		<string>たいかくぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>対角成分</string>
+		<key>shortcut</key>
+		<string>たいかくせいぶん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>対称行列</string>
+		<key>shortcut</key>
+		<string>たいしょうぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>単位行列</string>
+		<key>shortcut</key>
+		<string>たんいぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>直和</string>
+		<key>shortcut</key>
+		<string>ちょくわ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>直和分解</string>
+		<key>shortcut</key>
+		<string>ちょくわぶんかい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>直交</string>
+		<key>shortcut</key>
+		<string>ちょっこう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>直交行列</string>
+		<key>shortcut</key>
+		<string>ちょっこうぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>直交補空間</string>
+		<key>shortcut</key>
+		<string>ちょっこうほきくうかん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1810,6 +2902,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>転置</string>
+		<key>shortcut</key>
+		<string>てんち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>転置行列</string>
+		<key>shortcut</key>
+		<string>てんちぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>トレース</string>
 		<key>shortcut</key>
 		<string>とれーす</string>
@@ -1822,9 +2926,63 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>内積空間</string>
+		<key>shortcut</key>
+		<string>ないせきくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ノルム</string>
 		<key>shortcut</key>
 		<string>のるむ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>反対称行列</string>
+		<key>shortcut</key>
+		<string>はんたいしょうぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>冪零行列</string>
+		<key>shortcut</key>
+		<string>べきれいぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ベクトル</string>
+		<key>shortcut</key>
+		<string>べくとる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ベクトル空間</string>
+		<key>shortcut</key>
+		<string>べくとるくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ユニタリ行列</string>
+		<key>shortcut</key>
+		<string>ゆにたりぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>零行列</string>
+		<key>shortcut</key>
+		<string>れいぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>列ベクトル</string>
+		<key>shortcut</key>
+		<string>れつべくとる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>連立方程式</string>
+		<key>shortcut</key>
+		<string>れんりつほうていしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

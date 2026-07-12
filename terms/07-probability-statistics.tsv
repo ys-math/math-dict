@@ -1,0 +1,39 @@
+# 確率論・統計学 / Probability and statistics
+# reading	word	pos	flags
+いちようぶんぷ	一様分布	noun
+かいきぶんせき	回帰分析	noun
+かくりつ	確率	noun
+かくりつかてい	確率過程	noun
+かくりつくうかん	確率空間	noun
+かくりつそくど	確率測度	noun
+かくりつぶんぷ	確率分布	noun
+かくりつへんすう	確率変数	noun
+かくりつみつどかんすう	確率密度関数	noun
+かせつけんてい	仮説検定	noun
+きかぶんぷ	幾何分布	noun
+きたいち	期待値	noun
+きょうぶんさん	共分散	noun
+さいゆうすいてい	最尤推定	noun
+しすうぶんぷ	指数分布	noun
+しひょうかんすう	指標関数	noun
+じしょう	事象	noun
+じょうけんつきかくりつ	条件付き確率	noun
+すいてい	推定	noun-suru
+すいていりょう	推定量	noun
+せいきぶんぷ	正規分布	noun
+そうかんけいすう	相関係数	noun
+たいすうのほうそく	大数の法則	noun
+ちゅうしんきょくげんていり	中心極限定理	noun
+どくりつ	独立	noun-adj	common
+にこうぶんぷ	二項分布	noun
+ひょうじゅんへんさ	標準偏差	noun
+ひょうほん	標本	noun
+ぶらうんうんどう	ブラウン運動	noun
+ぶんさん	分散	noun	common
+べいずのていり	ベイズの定理	noun
+ぽあそんぶんぷ	ポアソン分布	noun
+まるこふれんさ	マルコフ連鎖	noun
+まるちんげーる	マルチンゲール	noun
+むさくいちゅうしゅつ	無作為抽出	noun
+ゆうい	有意	noun-adj
+ゆうど	尤度	noun
