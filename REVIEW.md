@@ -7,35 +7,21 @@ but each is worth a human glance.
 ordinary Japanese word, so this entry will crowd the candidate list when you write
 normal prose. They are kept per the completeness decision; delete any that annoy you.
 
-**164 flagged / 1076 entries**
+**70 flagged / 1076 entries**
 
 | reading | word | source | why |
 |---|---|---|---|
-| あてぃや | アティヤ | `21-people.tsv:4` | IMEが自前で変換できる（この項目は働かない） |
-| あふぃんすきーむ | アフィンスキーム | `19-algebraic-geometry.tsv:3` | IMEが自前で変換できる（この項目は働かない） |
-| あるきめです | アルキメデス | `21-people.tsv:6` | IMEが自前で変換できる（この項目は働かない） |
-| あるてぃん | アルティン | `21-people.tsv:8` | IMEが自前で変換できる（この項目は働かない） |
-| あーべる | アーベル | `21-people.tsv:10` | IMEが自前で変換できる（この項目は働かない） |
 | いか | ≤ | `20-symbols.tsv:34` | collides with everyday Japanese |
 | いこーる | = | `20-symbols.tsv:5` | collides with everyday Japanese |
-| いである | イデアル | `04-algebra.tsv:5` | IMEが自前で変換できる（この項目は働かない） |
 | いふ | iff | `22-latin.tsv:3` | collides with everyday Japanese |
-| うぃってん | ウィッテン | `21-people.tsv:12` | IMEが自前で変換できる（この項目は働かない） |
-| うぇいと | ウェイト | `15-representation-theory.tsv:3` | IMEが自前で変換できる（この項目は働かない） |
 | うぇいゆ | ヴェイユ | `21-people.tsv:14` | ヴ — check the reading you'd type |
-| えたーる | エタール | `08-category-theory.tsv:4` | IMEが自前で変換できる（この項目は働かない） |
 | えぬ | ℕ | `20-symbols.tsv:24` | collides with everyday Japanese |
 | えん | 円 | `06-geometry.tsv:5` | collides with everyday Japanese |
 | えんちょう | 延長 | `00-logic-set.tsv:3` | collides with everyday Japanese |
-| おいらー | オイラー | `21-people.tsv:16` | IMEが自前で変換できる（この項目は働かない） |
 | かい | χ | `20-symbols.tsv:47` | collides with everyday Japanese |
 | かく | 核 | `00-logic-set.tsv:4` | collides with everyday Japanese |
 | かける | × | `20-symbols.tsv:76` | collides with everyday Japanese |
-| かるたん | カルタン | `21-people.tsv:18` | IMEが自前で変換できる（この項目は働かない） |
 | かん | 環 | `04-algebra.tsv:14` | collides with everyday Japanese |
-| かんとーる | カントール | `21-people.tsv:20` | IMEが自前で変換できる（この項目は働かない） |
-| がうす | ガウス | `21-people.tsv:22` | IMEが自前で変換できる（この項目は働かない） |
-| がろあ | ガロア | `21-people.tsv:24` | IMEが自前で変換できる（この項目は働かない） |
 | き | 木 | `18-combinatorics.tsv:6` | collides with everyday Japanese |
 | きか | 幾何 | `06-geometry.tsv:10` | collides with everyday Japanese |
 | きゅー | ℚ | `20-symbols.tsv:20` | collides with everyday Japanese |
@@ -43,26 +29,13 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | きょく | 極 | `14-complex-analysis.tsv:7` | collides with everyday Japanese |
 | きょぶ | 虚部 | `14-complex-analysis.tsv:10` | collides with everyday Japanese |
 | きょり | 距離 | `03-topology.tsv:16` | collides with everyday Japanese |
-| きりんぐ | キリング | `21-people.tsv:26` | IMEが自前で変換できる（この項目は働かない） |
 | くき | 茎 | `19-algebraic-geometry.tsv:9` | collides with everyday Japanese |
-| くらいん | クライン | `21-people.tsv:28` | IMEが自前で変換できる（この項目は働かない） |
-| くんまー | クンマー | `21-people.tsv:30` | IMEが自前で変換できる（この項目は働かない） |
-| ぐらふ | グラフ | `18-combinatorics.tsv:8` | IMEが自前で変換できる（この項目は働かない） |
-| ぐろたんでぃーく | グロタンディーク | `21-people.tsv:32` | IMEが自前で変換できる（この項目は働かない） |
 | ぐん | 群 | `04-algebra.tsv:20` | collides with everyday Japanese |
 | けい | 系 | `00-logic-set.tsv:10` | collides with everyday Japanese |
 | けん | 圏 | `08-category-theory.tsv:13` | collides with everyday Japanese |
-| けーりー | ケーリー | `21-people.tsv:34` | IMEが自前で変換できる（この項目は働かない） |
-| げーでる | ゲーデル | `21-people.tsv:37` | IMEが自前で変換できる（この項目は働かない） |
-| こどめいん | コドメイン | `08-category-theory.tsv:14` | IMEが自前で変換できる（この項目は働かない） |
-| こほもろじー | コホモロジー | `16-homological-algebra.tsv:6` | IMEが自前で変換できる（この項目は働かない） |
-| こるもごろふ | コルモゴロフ | `21-people.tsv:39` | IMEが自前で変換できる（この項目は働かない） |
 | こん | 根 | `10-arithmetic.tsv:7` | collides with everyday Japanese |
-| こんぱくと | コンパクト | `03-topology.tsv:21` | IMEが自前で変換できる（この項目は働かない） |
-| こーしー | コーシー | `21-people.tsv:41` | IMEが自前で変換できる（この項目は働かない） |
 | さよう | 作用 | `04-algebra.tsv:26` | collides with everyday Japanese |
 | さんかっけい | △ | `20-symbols.tsv:98` | collides with everyday Japanese |
-| ざりすき | ザリスキ | `21-people.tsv:43` | IMEが自前で変換できる（この項目は働かない） |
 | しすう | 指数 | `10-arithmetic.tsv:11` | collides with everyday Japanese |
 | しゃ | 射 | `08-category-theory.tsv:20` | collides with everyday Japanese |
 | しゅばるつ | シュヴァルツ | `21-people.tsv:45` | ヴ — check the reading you'd type |
@@ -71,107 +44,147 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | しー | ℂ | `20-symbols.tsv:23` | collides with everyday Japanese |
 | じゅんじょ | 順序 | `00-logic-set.tsv:47` | collides with everyday Japanese |
 | じょう | 乗 | `10-arithmetic.tsv:13` | collides with everyday Japanese |
-| じょるだん | ジョルダン | `21-people.tsv:47` | IMEが自前で変換できる（この項目は働かない） |
 | すう | ∑ | `20-symbols.tsv:27` | collides with everyday Japanese |
-| すからー | スカラー | `01-linear-algebra.tsv:29` | IMEが自前で変換できる（この項目は働かない） |
-| すきーむ | スキーム | `19-algebraic-geometry.tsv:15` | IMEが自前で変換できる（この項目は働かない） |
-| すぺくとらむ | スペクトラム | `09-commutative-algebra.tsv:13` | IMEが自前で変換できる（この項目は働かない） |
-| すぺくとる | スペクトル | `11-functional-analysis.tsv:12` | IMEが自前で変換できる（この項目は働かない） |
 | せい | 正 | `10-arithmetic.tsv:10` | collides with everyday Japanese |
 | せいき | 正規 | `04-algebra.tsv:38` | collides with everyday Japanese |
 | せいげん | 制限 | `00-logic-set.tsv:19` | collides with everyday Japanese |
-| せるばーぐ | セルバーグ | `21-people.tsv:49` | IMEが自前で変換できる（この項目は働かない） |
-| せーる | セール | `21-people.tsv:51` | IMEが自前で変換できる（この項目は働かない） |
 | ぜろ | 零 | `10-arithmetic.tsv:9` | collides with everyday Japanese |
 | そう | 層 | `08-category-theory.tsv:27` | collides with everyday Japanese |
-| そぼれふ | ソボレフ | `21-people.tsv:53` | IMEが自前で変換できる（この項目は働かない） |
 | ぞう | 像 | `00-logic-set.tsv:21` | collides with everyday Japanese |
 | ぞく | 族 | `00-logic-set.tsv:22` | collides with everyday Japanese |
 | たい | 体 | `04-algebra.tsv:45` | collides with everyday Japanese |
 | たいしょう | 対象 | `08-category-theory.tsv:29` | collides with everyday Japanese |
 | たう | τ | `20-symbols.tsv:30` | collides with everyday Japanese |
-| だいそん | ダイソン | `21-people.tsv:59` | IMEが自前で変換できる（この項目は働かない） |
 | だいなり | > | `20-symbols.tsv:31` | collides with everyday Japanese |
-| ちぇびしぇふ | チェビシェフ | `21-people.tsv:61` | IMEが自前で変換できる（この項目は働かない） |
 | ちゅうしん | 中心 | `04-algebra.tsv:56` | collides with everyday Japanese |
-| ちゅーりんぐましん | チューリングマシン | `17-logic-foundations.tsv:32` | IMEが自前で変換できる（この項目は働かない） |
-| つぇるめろ | ツェルメロ | `21-people.tsv:63` | IMEが自前で変換できる（この項目は働かない） |
-| つぉるん | ツォルン | `21-people.tsv:65` | IMEが自前で変換できる（この項目は働かない） |
 | てい | 底 | `10-arithmetic.tsv:18` | collides with everyday Japanese |
 | てんかい | 展開 | `02-analysis.tsv:50` | collides with everyday Japanese |
-| てんそる | テンソル | `01-linear-algebra.tsv:55` | IMEが自前で変換できる（この項目は働かない） |
-| でぃりくれ | ディリクレ | `21-people.tsv:67` | IMEが自前で変換できる（この項目は働かない） |
-| でかると | デカルト | `21-people.tsv:69` | IMEが自前で変換できる（この項目は働かない） |
-| でできんと | デデキント | `21-people.tsv:71` | IMEが自前で変換できる（この項目は働かない） |
-| とぽす | トポス | `08-category-theory.tsv:31` | IMEが自前で変換できる（この項目は働かない） |
-| とれーす | トレース | `01-linear-algebra.tsv:59` | IMEが自前で変換できる（この項目は働かない） |
-| とーとろじー | トートロジー | `17-logic-foundations.tsv:35` | IMEが自前で変換できる（この項目は働かない） |
-| とーらす | トーラス | `06-geometry.tsv:40` | IMEが自前で変換できる（この項目は働かない） |
 | どくりつ | 独立 | `07-probability-statistics.tsv:27` | collides with everyday Japanese |
-| どりーにゅ | ドリーニュ | `21-people.tsv:73` | IMEが自前で変換できる（この項目は働かない） |
 | ないぶ | 内部 | `03-topology.tsv:36` | collides with everyday Japanese |
 | にゅー | ν | `20-symbols.tsv:37` | collides with everyday Japanese |
-| にゅーとん | ニュートン | `21-people.tsv:75` | IMEが自前で変換できる（この項目は働かない） |
-| ねーたー | ネーター | `21-people.tsv:77` | IMEが自前で変換できる（この項目は働かない） |
-| のいまん | ノイマン | `21-people.tsv:79` | IMEが自前で変換できる（この項目は働かない） |
 | のうど | 濃度 | `00-logic-set.tsv:33` | collides with everyday Japanese |
-| のるむ | ノルム | `01-linear-algebra.tsv:62` | IMEが自前で変換できる（この項目は働かない） |
-| はうすどるふ | ハウスドルフ | `21-people.tsv:81` | IMEが自前で変換できる（この項目は働かない） |
-| はみるとん | ハミルトン | `21-people.tsv:83` | IMEが自前で変換できる（この項目は働かない） |
-| ばなっは | バナッハ | `21-people.tsv:85` | IMEが自前で変換できる（この項目は働かない） |
 | ぱい | π | `20-symbols.tsv:38` | collides with everyday Japanese |
-| ぱらこんぱくと | パラコンパクト | `03-topology.tsv:38` | IMEが自前で変換できる（この項目は働かない） |
 | ひょうげん | 表現 | `15-representation-theory.tsv:22` | collides with everyday Japanese |
-| ひるべると | ヒルベルト | `21-people.tsv:87` | IMEが自前で変換できる（この項目は働かない） |
 | ふぁい | φ | `20-symbols.tsv:39` | collides with everyday Japanese |
-| ふぇるまー | フェルマー | `21-people.tsv:89` | IMEが自前で変換できる（この項目は働かない） |
-| ふろべにうす | フロベニウス | `21-people.tsv:91` | IMEが自前で変換できる（この項目は働かない） |
-| ふろー | フロー | `18-combinatorics.tsv:26` | IMEが自前で変換できる（この項目は働かない） |
-| ふーりえ | フーリエ | `21-people.tsv:93` | IMEが自前で変換できる（この項目は働かない） |
-| ぶるばき | ブルバキ | `21-people.tsv:95` | IMEが自前で変換できる（この項目は働かない） |
-| ぶろーあっぷ | ブローアップ | `19-algebraic-geometry.tsv:26` | IMEが自前で変換できる（この項目は働かない） |
 | ぶんかつ | 分割 | `00-logic-set.tsv:38` | collides with everyday Japanese |
 | ぶんさん | 分散 | `07-probability-statistics.tsv:32` | collides with everyday Japanese |
 | へん | 辺 | `06-geometry.tsv:45` | collides with everyday Japanese |
 | べき | 冪 | `10-arithmetic.tsv:22` | collides with everyday Japanese |
-| べくとる | ベクトル | `01-linear-algebra.tsv:65` | IMEが自前で変換できる（この項目は働かない） |
-| ぺあの | ペアノ | `21-people.tsv:97` | IMEが自前で変換できる（この項目は働かない） |
 | ほう | 法 | `05-number-theory.tsv:33` | collides with everyday Japanese |
 | ほむ | Hom | `22-latin.tsv:21` | collides with everyday Japanese |
-| ほもとぴー | ホモトピー | `03-topology.tsv:48` | IMEが自前で変換できる（この項目は働かない） |
-| ほもろじー | ホモロジー | `12-differential-geometry.tsv:29` | IMEが自前で変換できる（この項目は働かない） |
-| ぼれる | ボレル | `21-people.tsv:99` | IMEが自前で変換できる（この項目は働かない） |
-| ぽあんかれ | ポアンカレ | `21-people.tsv:102` | IMEが自前で変換できる（この項目は働かない） |
-| まくろーりん | マクローリン | `21-people.tsv:104` | IMEが自前で変換できる（この項目は働かない） |
-| まっちんぐ | マッチング | `18-combinatorics.tsv:33` | IMEが自前で変換できる（この項目は働かない） |
-| まるちんげーる | マルチンゲール | `07-probability-statistics.tsv:36` | IMEが自前で変換できる（この項目は働かない） |
-| まんふぉーど | マンフォード | `21-people.tsv:106` | IMEが自前で変換できる（この項目は働かない） |
 | みゅー | μ | `20-symbols.tsv:42` | collides with everyday Japanese |
-| みるなー | ミルナー | `21-people.tsv:108` | IMEが自前で変換できる（この項目は働かない） |
-| みんこふすきー | ミンコフスキー | `21-people.tsv:110` | IMEが自前で変換できる（この項目は働かない） |
-| もなど | モナド | `08-category-theory.tsv:40` | IMEが自前で変換できる（この項目は働かない） |
-| やこび | ヤコビ | `21-people.tsv:112` | IMEが自前で変換できる（この項目は働かない） |
-| やこびあん | ヤコビアン | `02-analysis.tsv:69` | IMEが自前で変換できる（この項目は働かない） |
 | やじるし | → | `20-symbols.tsv:79` | collides with everyday Japanese |
-| らぐらんじゅ | ラグランジュ | `21-people.tsv:116` | IMEが自前で変換できる（この項目は働かない） |
-| らぷらしあん | ラプラシアン | `02-analysis.tsv:73` | IMEが自前で変換できる（この項目は働かない） |
-| らまぬじゃん | ラマヌジャン | `21-people.tsv:118` | IMEが自前で変換できる（この項目は働かない） |
-| らんだう | ランダウ | `21-people.tsv:120` | IMEが自前で変換できる（この項目は働かない） |
-| りぷしっつ | リプシッツ | `21-people.tsv:122` | IMEが自前で変換できる（この項目は働かない） |
 | りむ | lim | `22-latin.tsv:24` | collides with everyday Japanese |
 | りー | Lie | `21-people.tsv:123` | collides with everyday Japanese |
-| りー | リー | `21-people.tsv:124` | IMEが自前で変換できる（この項目は働かない） |
 | りー | リー | `21-people.tsv:124` | collides with everyday Japanese |
-| りーす | リース | `21-people.tsv:126` | IMEが自前で変換できる（この項目は働かない） |
-| りーまん | リーマン | `21-people.tsv:128` | IMEが自前で変換できる（この項目は働かない） |
-| るじゃんどる | ルジャンドル | `21-people.tsv:130` | IMEが自前で変換できる（この項目は働かない） |
-| るべーぐ | ルベーグ | `21-people.tsv:132` | IMEが自前で変換できる（この項目は働かない） |
 | れい | 零 | `10-arithmetic.tsv:28` | collides with everyday Japanese |
-| れぞるべんと | レゾルベント | `11-functional-analysis.tsv:37` | IMEが自前で変換できる（この項目は働かない） |
-| れふしぇっつ | レフシェッツ | `21-people.tsv:134` | IMEが自前で変換できる（この項目は働かない） |
 | れんぞく | 連続 | `02-analysis.tsv:77` | collides with everyday Japanese |
-| ろぴたる | ロピタル | `21-people.tsv:137` | IMEが自前で変換できる（この項目は働かない） |
 | ろー | ρ | `20-symbols.tsv:44` | collides with everyday Japanese |
-| わいえるしゅとらす | ワイエルシュトラス | `21-people.tsv:139` | IMEが自前で変換できる（この項目は働かない） |
-| わいる | ワイル | `21-people.tsv:141` | IMEが自前で変換できる（この項目は働かない） |
 | わる | ÷ | `20-symbols.tsv:77` | collides with everyday Japanese |
+
+## IMEが自前で変換できる項目
+
+**94 entries.** The word is exactly its own reading in katakana, so the
+IME already offers that string and the entry adds no new candidate. Nothing to decide
+here — they are listed only so the count stays visible.
+
+<details><summary>Show all</summary>
+
+| reading | word | source |
+|---|---|---|
+| あてぃや | アティヤ | `21-people.tsv:4` |
+| あふぃんすきーむ | アフィンスキーム | `19-algebraic-geometry.tsv:3` |
+| あるきめです | アルキメデス | `21-people.tsv:6` |
+| あるてぃん | アルティン | `21-people.tsv:8` |
+| あーべる | アーベル | `21-people.tsv:10` |
+| いである | イデアル | `04-algebra.tsv:5` |
+| うぃってん | ウィッテン | `21-people.tsv:12` |
+| うぇいと | ウェイト | `15-representation-theory.tsv:3` |
+| えたーる | エタール | `08-category-theory.tsv:4` |
+| おいらー | オイラー | `21-people.tsv:16` |
+| かるたん | カルタン | `21-people.tsv:18` |
+| かんとーる | カントール | `21-people.tsv:20` |
+| がうす | ガウス | `21-people.tsv:22` |
+| がろあ | ガロア | `21-people.tsv:24` |
+| きりんぐ | キリング | `21-people.tsv:26` |
+| くらいん | クライン | `21-people.tsv:28` |
+| くんまー | クンマー | `21-people.tsv:30` |
+| ぐらふ | グラフ | `18-combinatorics.tsv:8` |
+| ぐろたんでぃーく | グロタンディーク | `21-people.tsv:32` |
+| けーりー | ケーリー | `21-people.tsv:34` |
+| げーでる | ゲーデル | `21-people.tsv:37` |
+| こどめいん | コドメイン | `08-category-theory.tsv:14` |
+| こほもろじー | コホモロジー | `16-homological-algebra.tsv:6` |
+| こるもごろふ | コルモゴロフ | `21-people.tsv:39` |
+| こんぱくと | コンパクト | `03-topology.tsv:21` |
+| こーしー | コーシー | `21-people.tsv:41` |
+| ざりすき | ザリスキ | `21-people.tsv:43` |
+| じょるだん | ジョルダン | `21-people.tsv:47` |
+| すからー | スカラー | `01-linear-algebra.tsv:29` |
+| すきーむ | スキーム | `19-algebraic-geometry.tsv:15` |
+| すぺくとらむ | スペクトラム | `09-commutative-algebra.tsv:13` |
+| すぺくとる | スペクトル | `11-functional-analysis.tsv:12` |
+| せるばーぐ | セルバーグ | `21-people.tsv:49` |
+| せーる | セール | `21-people.tsv:51` |
+| そぼれふ | ソボレフ | `21-people.tsv:53` |
+| だいそん | ダイソン | `21-people.tsv:59` |
+| ちぇびしぇふ | チェビシェフ | `21-people.tsv:61` |
+| ちゅーりんぐましん | チューリングマシン | `17-logic-foundations.tsv:32` |
+| つぇるめろ | ツェルメロ | `21-people.tsv:63` |
+| つぉるん | ツォルン | `21-people.tsv:65` |
+| てんそる | テンソル | `01-linear-algebra.tsv:55` |
+| でぃりくれ | ディリクレ | `21-people.tsv:67` |
+| でかると | デカルト | `21-people.tsv:69` |
+| でできんと | デデキント | `21-people.tsv:71` |
+| とぽす | トポス | `08-category-theory.tsv:31` |
+| とれーす | トレース | `01-linear-algebra.tsv:59` |
+| とーとろじー | トートロジー | `17-logic-foundations.tsv:35` |
+| とーらす | トーラス | `06-geometry.tsv:40` |
+| どりーにゅ | ドリーニュ | `21-people.tsv:73` |
+| にゅーとん | ニュートン | `21-people.tsv:75` |
+| ねーたー | ネーター | `21-people.tsv:77` |
+| のいまん | ノイマン | `21-people.tsv:79` |
+| のるむ | ノルム | `01-linear-algebra.tsv:62` |
+| はうすどるふ | ハウスドルフ | `21-people.tsv:81` |
+| はみるとん | ハミルトン | `21-people.tsv:83` |
+| ばなっは | バナッハ | `21-people.tsv:85` |
+| ぱらこんぱくと | パラコンパクト | `03-topology.tsv:38` |
+| ひるべると | ヒルベルト | `21-people.tsv:87` |
+| ふぇるまー | フェルマー | `21-people.tsv:89` |
+| ふろべにうす | フロベニウス | `21-people.tsv:91` |
+| ふろー | フロー | `18-combinatorics.tsv:26` |
+| ふーりえ | フーリエ | `21-people.tsv:93` |
+| ぶるばき | ブルバキ | `21-people.tsv:95` |
+| ぶろーあっぷ | ブローアップ | `19-algebraic-geometry.tsv:26` |
+| べくとる | ベクトル | `01-linear-algebra.tsv:65` |
+| ぺあの | ペアノ | `21-people.tsv:97` |
+| ほもとぴー | ホモトピー | `03-topology.tsv:48` |
+| ほもろじー | ホモロジー | `12-differential-geometry.tsv:29` |
+| ぼれる | ボレル | `21-people.tsv:99` |
+| ぽあんかれ | ポアンカレ | `21-people.tsv:102` |
+| まくろーりん | マクローリン | `21-people.tsv:104` |
+| まっちんぐ | マッチング | `18-combinatorics.tsv:33` |
+| まるちんげーる | マルチンゲール | `07-probability-statistics.tsv:36` |
+| まんふぉーど | マンフォード | `21-people.tsv:106` |
+| みるなー | ミルナー | `21-people.tsv:108` |
+| みんこふすきー | ミンコフスキー | `21-people.tsv:110` |
+| もなど | モナド | `08-category-theory.tsv:40` |
+| やこび | ヤコビ | `21-people.tsv:112` |
+| やこびあん | ヤコビアン | `02-analysis.tsv:69` |
+| らぐらんじゅ | ラグランジュ | `21-people.tsv:116` |
+| らぷらしあん | ラプラシアン | `02-analysis.tsv:73` |
+| らまぬじゃん | ラマヌジャン | `21-people.tsv:118` |
+| らんだう | ランダウ | `21-people.tsv:120` |
+| りぷしっつ | リプシッツ | `21-people.tsv:122` |
+| りー | リー | `21-people.tsv:124` |
+| りーす | リース | `21-people.tsv:126` |
+| りーまん | リーマン | `21-people.tsv:128` |
+| るじゃんどる | ルジャンドル | `21-people.tsv:130` |
+| るべーぐ | ルベーグ | `21-people.tsv:132` |
+| れぞるべんと | レゾルベント | `11-functional-analysis.tsv:37` |
+| れふしぇっつ | レフシェッツ | `21-people.tsv:134` |
+| ろぴたる | ロピタル | `21-people.tsv:137` |
+| わいえるしゅとらす | ワイエルシュトラス | `21-people.tsv:139` |
+| わいる | ワイル | `21-people.tsv:141` |
+
+</details>
