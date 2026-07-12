@@ -23,6 +23,8 @@ FLAGS = {"common", "low-confidence"}
 NON_MORAIC = set("ゃゅょぁぃぅぇぉゎ")
 KANA = set("ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとど"
            "なにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんー")
+KATAKANA = set("ァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトド"
+               "ナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴー")
 
 
 def is_kanji(ch: str) -> bool:
@@ -72,6 +74,20 @@ def main() -> int:
         if kanji and morae(reading) < kanji:
             errors.append(f"{where}: {reading}→{word} looks like an abbreviation, not a "
                           f"reading ({morae(reading)} morae for {kanji} kanji)")
+
+        # A pure-katakana word has exactly one possible reading: itself, in hiragana.
+        # No judgment involved, so a mismatch is always a typo — この規則が
+        # ぷあんかれ→ポアンカレ の類のミスを機械的に潰す。
+        # ヴ is the exception: Japanese typing accepts both the v-row and the b-row
+        # (ヴェイユ is typed うぇいゆ as often as ゔぇいゆ), so it gets a warning, not an error.
+        if word and all(c in KATAKANA for c in word):
+            expect = "".join(chr(ord(c) - 0x60) if "ァ" <= c <= "ヶ" else c for c in word)
+            if reading != expect:
+                if "ヴ" in word:
+                    warnings.append((reading, word, where, "ヴ — check the reading you'd type"))
+                else:
+                    errors.append(f"{where}: {reading}→{word} — katakana word must be read "
+                                  f"exactly as written ({expect})")
 
         key = (reading, word)
         if key in seen:

@@ -1,0 +1,116 @@
+# 数学記号 / Mathematical symbols
+# reading	word	pos	flags
+あーる	ℝ	symbol
+あるふぁ	α	symbol
+いこーる	=	symbol	common
+いぷしろん	ε	symbol
+うぇっじ	∧	symbol
+おめが	ω	symbol
+おおもじおめが	Ω	symbol
+おおもじがんま	Γ	symbol
+おおもじしぐま	Σ	symbol
+おおもじでるた	Δ	symbol
+おおもじらむだ	Λ	symbol
+おおもじぱい	Π	symbol
+おおもじふぁい	Φ	symbol
+おおもじぷさい	Ψ	symbol
+おおもじしーた	Θ	symbol
+かっぱ	κ	symbol
+がんま	γ	symbol
+きゅー	ℚ	symbol
+くうしゅうごう	∅	symbol
+ぜっと	ℤ	symbol
+しー	ℂ	symbol
+えぬ	ℕ	symbol
+しぐま	σ	symbol
+しーた	θ	symbol
+すう	∑	symbol
+そうわ	∑	symbol
+そうせき	∏	symbol
+たう	τ	symbol
+だいなり	>	symbol	common
+しょうなり	<	symbol	common
+いじょう	≥	symbol
+いか	≤	symbol
+でるた	δ	symbol
+なぶら	∇	symbol
+にゅー	ν	symbol
+ぱい	π	symbol
+ふぁい	φ	symbol
+ぷさい	ψ	symbol
+べーた	β	symbol
+みゅー	μ	symbol
+らむだ	λ	symbol
+ろー	ρ	symbol
+ぜーた	ζ	symbol
+えーた	η	symbol
+かい	χ	symbol
+くしー	ξ	symbol
+おみくろん	ο	symbol
+いおた	ι	symbol
+ぜんしょう	∀	symbol
+そんざい	∃	symbol
+ぞくする	∈	symbol
+ぞくさない	∉	symbol
+ぶぶんしゅうごう	⊂	symbol
+ふくむ	⊃	symbol
+ぶぶんしゅうごうまたはひとしい	⊆	symbol
+わしゅうごう	∪	symbol
+きょうつうぶぶん	∩	symbol
+てんそる	⊗	symbol
+ちょくわ	⊕	symbol
+どうけい	≅	symbol
+どうち	≡	symbol
+ごうどう	≡	symbol
+ごうせい	∘	symbol
+せきぶん	∫	symbol
+しゅうせん	∮	symbol
+へんびぶん	∂	symbol
+むげんだい	∞	symbol
+るーと	√	symbol
+ひとしくない	≠	symbol
+ほぼひとしい	≈	symbol
+ひれい	∝	symbol
+すいちょく	⊥	symbol
+ぷらすまいなす	±	symbol
+かける	×	symbol	common
+わる	÷	symbol	common
+ちゅうてん	·	symbol
+やじるし	→	symbol	common
+ひだりやじるし	←	symbol
+りょうむきやじるし	↔	symbol
+うつる	↦	symbol
+ならば	⇒	symbol
+どうちならば	⇔	symbol
+ろんりせき	∧	symbol
+ろんりわ	∨	symbol
+ひてい	¬	symbol
+すいそく	⊢	symbol
+みたす	⊨	symbol
+かどしかっこ	⟨⟩	symbol
+てんてんてん	⋯	symbol
+たててんてん	⋮	symbol
+ななめてんてん	⋱	symbol
+ゆえに	∴	symbol
+なぜならば	∵	symbol
+きゅーいーでぃー	∎	symbol
+かくど	∠	symbol
+さんかっけい	△	symbol	common
+えんしゅうりつ	π	symbol
+きょくげん	lim	symbol
+うわきょくげん	limsup	symbol
+したきょくげん	liminf	symbol
+しゃぞうのぞう	Im	symbol
+かく	Ker	symbol
+ほむ	Hom	symbol
+えんど	End	symbol
+おーと	Aut	symbol
+らんく	rank	symbol
+とれーす	tr	symbol
+ぎょうれつしき	det	symbol
+すぱん	span	symbol
+さぽーと	supp	symbol
+じょうげん	sup	symbol
+かげん	inf	symbol
+さいだい	max	symbol	common
+さいしょう	min	symbol	common

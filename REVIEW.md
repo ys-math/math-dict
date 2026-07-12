@@ -7,23 +7,38 @@ but each is worth a human glance.
 ordinary Japanese word, so this entry will crowd the candidate list when you write
 normal prose. They are kept per the completeness decision; delete any that annoy you.
 
-**30 flagged / 185 entries**
+**57 flagged / 430 entries**
 
 | reading | word | source | why |
 |---|---|---|---|
+| いか | ≤ | `20-symbols.tsv:34` | collides with everyday Japanese |
+| いこーる | = | `20-symbols.tsv:5` | collides with everyday Japanese |
+| うぇいゆ | ヴェイユ | `21-people.tsv:8` | ヴ — check the reading you'd type |
+| えぬ | ℕ | `20-symbols.tsv:24` | collides with everyday Japanese |
 | えんちょう | 延長 | `00-logic-set.tsv:3` | collides with everyday Japanese |
+| かい | χ | `20-symbols.tsv:47` | collides with everyday Japanese |
+| かく | Ker | `20-symbols.tsv:104` | collides with everyday Japanese |
 | かく | 核 | `00-logic-set.tsv:4` | collides with everyday Japanese |
+| かける | × | `20-symbols.tsv:76` | collides with everyday Japanese |
 | かん | 環 | `04-algebra.tsv:8` | collides with everyday Japanese |
+| きゅー | ℚ | `20-symbols.tsv:20` | collides with everyday Japanese |
 | きょり | 距離 | `03-topology.tsv:7` | collides with everyday Japanese |
 | ぐん | 群 | `04-algebra.tsv:11` | collides with everyday Japanese |
 | けい | 系 | `00-logic-set.tsv:10` | collides with everyday Japanese |
 | けん | 圏 | `08-category-theory.tsv:9` | collides with everyday Japanese |
 | こん | 根 | `10-arithmetic.tsv:7` | collides with everyday Japanese |
+| さいしょう | min | `20-symbols.tsv:116` | collides with everyday Japanese |
+| さいだい | max | `20-symbols.tsv:115` | collides with everyday Japanese |
 | さよう | 作用 | `04-algebra.tsv:15` | collides with everyday Japanese |
+| さんかっけい | △ | `20-symbols.tsv:98` | collides with everyday Japanese |
 | しすう | 指数 | `10-arithmetic.tsv:11` | collides with everyday Japanese |
 | しゃ | 射 | `08-category-theory.tsv:13` | collides with everyday Japanese |
+| しゅばるつ | シュヴァルツ | `21-people.tsv:23` | ヴ — check the reading you'd type |
+| しょうなり | < | `20-symbols.tsv:32` | collides with everyday Japanese |
+| しー | ℂ | `20-symbols.tsv:23` | collides with everyday Japanese |
 | じゅんじょ | 順序 | `00-logic-set.tsv:47` | collides with everyday Japanese |
 | じょう | 乗 | `10-arithmetic.tsv:13` | collides with everyday Japanese |
+| すう | ∑ | `20-symbols.tsv:27` | collides with everyday Japanese |
 | せい | 正 | `10-arithmetic.tsv:10` | collides with everyday Japanese |
 | せいき | 正規 | `04-algebra.tsv:22` | collides with everyday Japanese |
 | せいげん | 制限 | `00-logic-set.tsv:19` | collides with everyday Japanese |
@@ -33,11 +48,23 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | ぞく | 族 | `00-logic-set.tsv:22` | collides with everyday Japanese |
 | たい | 体 | `04-algebra.tsv:27` | collides with everyday Japanese |
 | たいしょう | 対象 | `08-category-theory.tsv:18` | collides with everyday Japanese |
+| たう | τ | `20-symbols.tsv:30` | collides with everyday Japanese |
+| だいなり | > | `20-symbols.tsv:31` | collides with everyday Japanese |
 | ちゅうしん | 中心 | `04-algebra.tsv:32` | collides with everyday Japanese |
 | てい | 底 | `10-arithmetic.tsv:18` | collides with everyday Japanese |
+| てんかい | 展開 | `02-analysis.tsv:50` | collides with everyday Japanese |
+| にゅー | ν | `20-symbols.tsv:37` | collides with everyday Japanese |
 | のうど | 濃度 | `00-logic-set.tsv:33` | collides with everyday Japanese |
+| ぱい | π | `20-symbols.tsv:38` | collides with everyday Japanese |
+| ふぁい | φ | `20-symbols.tsv:39` | collides with everyday Japanese |
 | ぶんかつ | 分割 | `00-logic-set.tsv:38` | collides with everyday Japanese |
 | べき | 冪 | `10-arithmetic.tsv:22` | collides with everyday Japanese |
 | ほう | 法 | `05-number-theory.tsv:8` | collides with everyday Japanese |
+| ほむ | Hom | `20-symbols.tsv:105` | collides with everyday Japanese |
+| みゅー | μ | `20-symbols.tsv:42` | collides with everyday Japanese |
+| やじるし | → | `20-symbols.tsv:79` | collides with everyday Japanese |
+| りー | リー | `21-people.tsv:62` | collides with everyday Japanese |
 | れい | 零 | `10-arithmetic.tsv:28` | collides with everyday Japanese |
-| れんぞく | 連続 | `02-analysis.tsv:12` | collides with everyday Japanese |
+| れんぞく | 連続 | `02-analysis.tsv:77` | collides with everyday Japanese |
+| ろー | ρ | `20-symbols.tsv:44` | collides with everyday Japanese |
+| わる | ÷ | `20-symbols.tsv:77` | collides with everyday Japanese |
