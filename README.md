@@ -18,10 +18,14 @@ Grab the file for your IME from [`dist/`](dist/) — no cloning or building requ
 | **Microsoft IME** | [`dist/msime/math_dict_ja.txt`](dist/msime/math_dict_ja.txt) | 単語の登録 → ユーザー辞書ツール → ツール → テキストファイルからの登録 |
 | **ATOK** | [`dist/atok/math_dict_ja.txt`](dist/atok/math_dict_ja.txt) | 辞書ユーティリティ → ツール → ファイルから登録・削除 |
 
-**Tested honestly:** only the macOS build has been import-tested end to end. The Google, MS-IME,
-and ATOK builds are verified *structurally* — correct encoding, BOM, line endings, and POS names
-drawn from each vendor's documented list — but nobody has run them through a Windows or ATOK
-install. If one fails to import, that is a bug and an issue is welcome.
+**1,003 entries** across 23 topics — logic, algebra, topology, analysis, category theory,
+commutative algebra, algebraic geometry, and so on, plus 97 symbols, 68 mathematician names, and
+24 Latin-script terms.
+
+**Tested honestly:** *no* build has been import-tested end to end. All four are verified
+structurally — correct encoding, BOM, line endings, POS names from each vendor's documented list,
+and the macOS plist confirmed against Apple's `phrase`/`shortcut` schema. But no one has yet
+dragged these into an actual IME. If one fails to import, that is a bug and an issue is welcome.
 
 ## What's in it, and what isn't
 
@@ -61,8 +65,14 @@ nobody notices until their import silently lacks the new terms.
 term has kanji. It is a floor, not a proof — it catches `きのう→数学的帰納法` (3 morae, 6 kanji)
 but not `こゆう→固有値` (3 for 3). Read the diff; don't just trust the green check.
 
-See [REVIEW.md](REVIEW.md) for entries flagged as collision-prone or unverified. They ship — a
-wrong reading merely never fires, which costs nothing — but they are worth a glance.
+See [REVIEW.md](REVIEW.md) for entries flagged as collision-prone or unverified.
+
+**A caveat worth stating plainly.** These entries were drafted by a language model and checked
+mechanically. The mechanical checks catch structural errors — bad kana, duplicates, katakana
+readings that don't match their word — and they caught many. What they *cannot* catch is a term
+that is well-formed but **not a real word**. If you find one, it is a bug: open an issue or delete
+the line. A wrong *reading* is harmless (the entry just never fires), but a fabricated *term* will
+happily insert itself into your mathematics, which is worse. Trust the diff, not the green check.
 
 ## License
 

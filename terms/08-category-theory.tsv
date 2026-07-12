@@ -1,27 +1,45 @@
 # 圏論 / Category theory
 # reading	word	pos	flags
+あーべるけん	アーベル圏	noun
 えたーる	エタール	noun
 えぴしゃ	エピ射	noun
 おしだし	押し出し	noun
+かほうけん	加法圏	noun
 かんかくちょう	Kan拡張	noun
 かんしゅ	関手	noun
+かんしゅけん	関手圏	noun
 きょうへん	共変	noun
+きょうへんかんしゅ	共変関手	noun
 けん	圏	noun	common
 こどめいん	コドメイン	noun
 さかく	差核	noun
 しいき	始域	noun
+しぜんどうけい	自然同型	noun
+しぜんへんかん	自然変換	noun
+したいしょう	始対象	noun
 しゃ	射	noun	common
 しゅういき	終域	noun
-しぜんへんかん	自然変換	noun
+しゅうたいしょう	終対象	noun
+じゆうかんしゅ	自由関手	noun
 ずいはん	随伴	noun
+ずいはんかんしゅ	随伴関手	noun
+ぜんそう	前層	noun
 そう	層	noun	common
+そうついけん	双対圏	noun
 たいしょう	対象	noun	common
 とうかし	等化子	noun
+とぽす	トポス	noun
 どうけいしゃ	同型射	noun
+はんたいけん	反対圏	noun
 はんぺん	反変	noun
+はんぺんかんしゅ	反変関手	noun
 ひきもどし	引き戻し	noun
-ものしゃ	モノ射	noun
+ひょうげんかのうかんしゅ	表現可能関手	noun
+ふぁいばーせき	ファイバー積	noun
+ぼうきゃくかんしゅ	忘却関手	noun
 もなど	モナド	noun
+ものしゃ	モノ射	noun
 よきょくげん	余極限	noun
+よねだうめこみ	米田埋め込み	noun
 よねだのほだい	米田の補題	noun
 れいしゃ	零射	noun

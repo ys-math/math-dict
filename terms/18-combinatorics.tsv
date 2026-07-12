@@ -1,0 +1,36 @@
+# 組合せ論・グラフ理論 / Combinatorics and graph theory
+# reading	word	pos	flags
+おいらーろ	オイラー路	noun
+かたらんすう	カタラン数	noun
+かんぜんぐらふ	完全グラフ	noun
+き	木	noun	common
+くみあわせ	組合せ	noun
+ぐらふ	グラフ	noun
+けいろ	経路	noun
+さいしょく	彩色	noun
+さいたんけいろもんだい	最短経路問題	noun
+さいしょくすう	彩色数	noun
+じすう	次数	noun
+じゅんれつ	順列	noun
+すたーりんぐすう	スターリング数	noun
+ぜんいきき	全域木	noun
+ぜんかしき	漸化式	noun
+ちょうてんしゅうごう	頂点集合	noun
+にこうけいすう	二項係数	noun
+にこうていり	二項定理	noun
+にぶぐらふ	二部グラフ	noun
+はとのすげんり	鳩の巣原理	noun
+はみるとんろ	ハミルトン路	noun
+ぱすかるのさんかっけい	パスカルの三角形	noun
+ふぃぼなっちすう	フィボナッチ数	noun
+ふろー	フロー	noun
+ぶんかつすう	分割数	noun
+へいめんぐらふ	平面グラフ	noun
+へいろ	閉路	noun
+へんしゅうごう	辺集合	noun
+ほうじょげんり	包除原理	noun
+ぼかんすう	母関数	noun
+まっちんぐ	マッチング	noun
+むこうぐらふ	無向グラフ	noun
+ゆうこうぐらふ	有向グラフ	noun
+よんしょくていり	四色定理	noun
