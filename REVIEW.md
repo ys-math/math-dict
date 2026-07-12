@@ -7,14 +7,14 @@ but each is worth a human glance.
 ordinary Japanese word, so this entry will crowd the candidate list when you write
 normal prose. They are kept per the completeness decision; delete any that annoy you.
 
-**69 flagged / 1003 entries**
+**70 flagged / 1074 entries**
 
 | reading | word | source | why |
 |---|---|---|---|
 | いか | ≤ | `20-symbols.tsv:34` | collides with everyday Japanese |
 | いこーる | = | `20-symbols.tsv:5` | collides with everyday Japanese |
 | いふ | iff | `22-latin.tsv:3` | collides with everyday Japanese |
-| うぇいゆ | ヴェイユ | `21-people.tsv:8` | ヴ — check the reading you'd type |
+| うぇいゆ | ヴェイユ | `21-people.tsv:14` | ヴ — check the reading you'd type |
 | えぬ | ℕ | `20-symbols.tsv:24` | collides with everyday Japanese |
 | えん | 円 | `06-geometry.tsv:5` | collides with everyday Japanese |
 | えんちょう | 延長 | `00-logic-set.tsv:3` | collides with everyday Japanese |
@@ -38,7 +38,7 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | さんかっけい | △ | `20-symbols.tsv:98` | collides with everyday Japanese |
 | しすう | 指数 | `10-arithmetic.tsv:11` | collides with everyday Japanese |
 | しゃ | 射 | `08-category-theory.tsv:20` | collides with everyday Japanese |
-| しゅばるつ | シュヴァルツ | `21-people.tsv:23` | ヴ — check the reading you'd type |
+| しゅばるつ | シュヴァルツ | `21-people.tsv:45` | ヴ — check the reading you'd type |
 | しゅばるつちょうかんすう | シュワルツ超関数 | `11-functional-analysis.tsv:9` | reading unverified |
 | しょうなり | < | `20-symbols.tsv:32` | collides with everyday Japanese |
 | しー | ℂ | `20-symbols.tsv:23` | collides with everyday Japanese |
@@ -75,7 +75,8 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | みゅー | μ | `20-symbols.tsv:42` | collides with everyday Japanese |
 | やじるし | → | `20-symbols.tsv:79` | collides with everyday Japanese |
 | りむ | lim | `22-latin.tsv:24` | collides with everyday Japanese |
-| りー | リー | `21-people.tsv:62` | collides with everyday Japanese |
+| りー | Lie | `21-people.tsv:123` | collides with everyday Japanese |
+| りー | リー | `21-people.tsv:124` | collides with everyday Japanese |
 | れい | 零 | `10-arithmetic.tsv:28` | collides with everyday Japanese |
 | れんぞく | 連続 | `02-analysis.tsv:77` | collides with everyday Japanese |
 | ろー | ρ | `20-symbols.tsv:44` | collides with everyday Japanese |

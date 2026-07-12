@@ -2086,9 +2086,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Atiyah</string>
+		<key>shortcut</key>
+		<string>あてぃや</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>アティヤ</string>
 		<key>shortcut</key>
 		<string>あてぃや</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Archimedes</string>
+		<key>shortcut</key>
+		<string>あるきめです</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2098,9 +2110,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Artin</string>
+		<key>shortcut</key>
+		<string>あるてぃん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>アルティン</string>
 		<key>shortcut</key>
 		<string>あるてぃん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Abel</string>
+		<key>shortcut</key>
+		<string>あーべる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2110,9 +2134,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Witten</string>
+		<key>shortcut</key>
+		<string>うぃってん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ウィッテン</string>
 		<key>shortcut</key>
 		<string>うぃってん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Weil</string>
+		<key>shortcut</key>
+		<string>うぇいゆ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2122,9 +2158,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Euler</string>
+		<key>shortcut</key>
+		<string>おいらー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>オイラー</string>
 		<key>shortcut</key>
 		<string>おいらー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Cartan</string>
+		<key>shortcut</key>
+		<string>かるたん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2134,9 +2182,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Cantor</string>
+		<key>shortcut</key>
+		<string>かんとーる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>カントール</string>
 		<key>shortcut</key>
 		<string>かんとーる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Gauss</string>
+		<key>shortcut</key>
+		<string>がうす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2146,9 +2206,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Galois</string>
+		<key>shortcut</key>
+		<string>がろあ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ガロア</string>
 		<key>shortcut</key>
 		<string>がろあ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Killing</string>
+		<key>shortcut</key>
+		<string>きりんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2158,9 +2230,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Klein</string>
+		<key>shortcut</key>
+		<string>くらいん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>クライン</string>
 		<key>shortcut</key>
 		<string>くらいん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Kummer</string>
+		<key>shortcut</key>
+		<string>くんまー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2170,9 +2254,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Grothendieck</string>
+		<key>shortcut</key>
+		<string>ぐろたんでぃーく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>グロタンディーク</string>
 		<key>shortcut</key>
 		<string>ぐろたんでぃーく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Cayley</string>
+		<key>shortcut</key>
+		<string>けーりー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2182,9 +2278,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Godel</string>
+		<key>shortcut</key>
+		<string>げーでる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Gödel</string>
+		<key>shortcut</key>
+		<string>げーでる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ゲーデル</string>
 		<key>shortcut</key>
 		<string>げーでる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Kolmogorov</string>
+		<key>shortcut</key>
+		<string>こるもごろふ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2194,9 +2308,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Cauchy</string>
+		<key>shortcut</key>
+		<string>こーしー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>コーシー</string>
 		<key>shortcut</key>
 		<string>こーしー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Zariski</string>
+		<key>shortcut</key>
+		<string>ざりすき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2206,9 +2332,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Schwartz</string>
+		<key>shortcut</key>
+		<string>しゅばるつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>シュヴァルツ</string>
 		<key>shortcut</key>
 		<string>しゅばるつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Jordan</string>
+		<key>shortcut</key>
+		<string>じょるだん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2218,9 +2356,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Selberg</string>
+		<key>shortcut</key>
+		<string>せるばーぐ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>セルバーグ</string>
 		<key>shortcut</key>
 		<string>せるばーぐ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Serre</string>
+		<key>shortcut</key>
+		<string>せーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2230,9 +2380,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Sobolev</string>
+		<key>shortcut</key>
+		<string>そぼれふ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ソボレフ</string>
 		<key>shortcut</key>
 		<string>そぼれふ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Takeuchi</string>
+		<key>shortcut</key>
+		<string>たけうち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2242,9 +2404,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Taniyama</string>
+		<key>shortcut</key>
+		<string>たにやま</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>谷山</string>
 		<key>shortcut</key>
 		<string>たにやま</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Dyson</string>
+		<key>shortcut</key>
+		<string>だいそん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2254,9 +2428,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Chebyshev</string>
+		<key>shortcut</key>
+		<string>ちぇびしぇふ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>チェビシェフ</string>
 		<key>shortcut</key>
 		<string>ちぇびしぇふ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Zermelo</string>
+		<key>shortcut</key>
+		<string>つぇるめろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2266,9 +2452,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Zorn</string>
+		<key>shortcut</key>
+		<string>つぉるん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ツォルン</string>
 		<key>shortcut</key>
 		<string>つぉるん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Dirichlet</string>
+		<key>shortcut</key>
+		<string>でぃりくれ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2278,9 +2476,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Descartes</string>
+		<key>shortcut</key>
+		<string>でかると</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>デカルト</string>
 		<key>shortcut</key>
 		<string>でかると</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Dedekind</string>
+		<key>shortcut</key>
+		<string>でできんと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2290,9 +2500,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Deligne</string>
+		<key>shortcut</key>
+		<string>どりーにゅ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ドリーニュ</string>
 		<key>shortcut</key>
 		<string>どりーにゅ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Newton</string>
+		<key>shortcut</key>
+		<string>にゅーとん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2302,9 +2524,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Noether</string>
+		<key>shortcut</key>
+		<string>ねーたー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ネーター</string>
 		<key>shortcut</key>
 		<string>ねーたー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Neumann</string>
+		<key>shortcut</key>
+		<string>のいまん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2314,9 +2548,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Hausdorff</string>
+		<key>shortcut</key>
+		<string>はうすどるふ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ハウスドルフ</string>
 		<key>shortcut</key>
 		<string>はうすどるふ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Hamilton</string>
+		<key>shortcut</key>
+		<string>はみるとん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2326,9 +2572,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Banach</string>
+		<key>shortcut</key>
+		<string>ばなっは</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>バナッハ</string>
 		<key>shortcut</key>
 		<string>ばなっは</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Hilbert</string>
+		<key>shortcut</key>
+		<string>ひるべると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2338,9 +2596,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Fermat</string>
+		<key>shortcut</key>
+		<string>ふぇるまー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>フェルマー</string>
 		<key>shortcut</key>
 		<string>ふぇるまー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Frobenius</string>
+		<key>shortcut</key>
+		<string>ふろべにうす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2350,9 +2620,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Fourier</string>
+		<key>shortcut</key>
+		<string>ふーりえ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>フーリエ</string>
 		<key>shortcut</key>
 		<string>ふーりえ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Bourbaki</string>
+		<key>shortcut</key>
+		<string>ぶるばき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2362,9 +2644,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Peano</string>
+		<key>shortcut</key>
+		<string>ぺあの</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ペアノ</string>
 		<key>shortcut</key>
 		<string>ぺあの</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Borel</string>
+		<key>shortcut</key>
+		<string>ぼれる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2374,9 +2668,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Poincare</string>
+		<key>shortcut</key>
+		<string>ぽあんかれ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Poincaré</string>
+		<key>shortcut</key>
+		<string>ぽあんかれ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ポアンカレ</string>
 		<key>shortcut</key>
 		<string>ぽあんかれ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Maclaurin</string>
+		<key>shortcut</key>
+		<string>まくろーりん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2386,9 +2698,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Mumford</string>
+		<key>shortcut</key>
+		<string>まんふぉーど</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>マンフォード</string>
 		<key>shortcut</key>
 		<string>まんふぉーど</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Milnor</string>
+		<key>shortcut</key>
+		<string>みるなー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2398,9 +2722,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Minkowski</string>
+		<key>shortcut</key>
+		<string>みんこふすきー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ミンコフスキー</string>
 		<key>shortcut</key>
 		<string>みんこふすきー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Jacobi</string>
+		<key>shortcut</key>
+		<string>やこび</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2410,9 +2746,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Yoneda</string>
+		<key>shortcut</key>
+		<string>よねだ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>米田</string>
 		<key>shortcut</key>
 		<string>よねだ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Lagrange</string>
+		<key>shortcut</key>
+		<string>らぐらんじゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2422,9 +2770,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Ramanujan</string>
+		<key>shortcut</key>
+		<string>らまぬじゃん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ラマヌジャン</string>
 		<key>shortcut</key>
 		<string>らまぬじゃん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Landau</string>
+		<key>shortcut</key>
+		<string>らんだう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2434,9 +2794,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Lipschitz</string>
+		<key>shortcut</key>
+		<string>りぷしっつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>リプシッツ</string>
 		<key>shortcut</key>
 		<string>りぷしっつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Lie</string>
+		<key>shortcut</key>
+		<string>りー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2446,9 +2818,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Riesz</string>
+		<key>shortcut</key>
+		<string>りーす</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>リース</string>
 		<key>shortcut</key>
 		<string>りーす</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Riemann</string>
+		<key>shortcut</key>
+		<string>りーまん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2458,9 +2842,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Legendre</string>
+		<key>shortcut</key>
+		<string>るじゃんどる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ルジャンドル</string>
 		<key>shortcut</key>
 		<string>るじゃんどる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Lebesgue</string>
+		<key>shortcut</key>
+		<string>るべーぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2470,9 +2866,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Lefschetz</string>
+		<key>shortcut</key>
+		<string>れふしぇっつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>レフシェッツ</string>
 		<key>shortcut</key>
 		<string>れふしぇっつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>L'Hopital</string>
+		<key>shortcut</key>
+		<string>ろぴたる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>L'Hôpital</string>
+		<key>shortcut</key>
+		<string>ろぴたる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2482,9 +2896,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Weierstrass</string>
+		<key>shortcut</key>
+		<string>わいえるしゅとらす</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ワイエルシュトラス</string>
 		<key>shortcut</key>
 		<string>わいえるしゅとらす</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Weyl</string>
+		<key>shortcut</key>
+		<string>わいる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
