@@ -45,7 +45,7 @@ def read_entries():
 
 
 def main() -> int:
-    errors, warnings, seen = [], [], {}
+    errors, warnings, inert, seen = [], [], [], {}
 
     for path, lineno, cols in read_entries():
         where = f"{path.name}:{lineno}"
@@ -96,11 +96,15 @@ def main() -> int:
             seen[key] = where
 
         # The IME transliterates any kana input to katakana by itself, so an entry whose
-        # word is exactly its own reading in katakana can never fire — it is merged into
-        # the katakana candidate the IME was going to offer anyway. Harmless, but inert.
+        # word is exactly its own reading in katakana adds no candidate string the IME
+        # was not going to offer anyway. Harmless, but it does no work either.
+        #
+        # These are tracked apart from the warnings table on purpose. They are numerous —
+        # every katakana mathematician is one — and they need no decision, so listing them
+        # alongside the collisions would bury the entries that do need a human call.
         if word and all(c in KATAKANA for c in word) and reading == "".join(
                 chr(ord(c) - 0x60) if "ァ" <= c <= "ヶ" else c for c in word):
-            warnings.append((reading, word, where, "IMEが自前で変換できる（この項目は働かない）"))
+            inert.append((reading, word, where))
 
         if "common" in flags or morae(reading) <= 2:
             warnings.append((reading, word, where, "collides with everyday Japanese"))
@@ -116,11 +120,23 @@ def main() -> int:
              "", f"**{len(warnings)} flagged / {len(seen)} entries**", "",
              "| reading | word | source | why |", "|---|---|---|---|"]
     lines += [f"| {r} | {w} | `{src}` | {why} |" for r, w, src, why in sorted(warnings)]
+
+    # Inert entries need no decision, so they sit below the fold rather than in the table.
+    lines += ["", "## IMEが自前で変換できる項目", "",
+              f"**{len(inert)} entries.** The word is exactly its own reading in katakana, so the",
+              "IME already offers that string and the entry adds no new candidate. Nothing to decide",
+              "here — they are listed only so the count stays visible.", "",
+              "<details><summary>Show all</summary>", "",
+              "| reading | word | source |", "|---|---|---|"]
+    lines += [f"| {r} | {w} | `{src}` |" for r, w, src in sorted(inert)]
+    lines += ["", "</details>"]
+
     REVIEW.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     for e in errors:
         print(f"ERROR {e}", file=sys.stderr)
-    print(f"{len(seen)} entries, {len(errors)} errors, {len(warnings)} flagged → REVIEW.md")
+    print(f"{len(seen)} entries, {len(errors)} errors, "
+          f"{len(warnings)} flagged, {len(inert)} inert → REVIEW.md")
     return 1 if errors else 0
 
 

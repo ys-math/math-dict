@@ -47,12 +47,19 @@ mathematicians (ガロア, グロタンディーク), and Latin-script terms (we
 If you type `こほもろじー` and get `コホモロジー`, that is **not** this dictionary at work. Japanese
 IMEs already convert kana input straight to katakana, and `こほもろじー` transliterates one-to-one
 into `コホモロジー` — so **pressing the space bar is all you need**. The dictionary entry produces
-exactly the same string the IME would have offered on its own, so it gets merged away and never
-surfaces.
+exactly the same string the IME would have offered on its own, so it adds no candidate that was
+not already there. (Whether registering it nudges that candidate up the ranking is not something
+we have measured; assume it does nothing.)
 
 **94 entries** fall into this category, 63 of them katakana spellings of mathematicians' names.
-They do no harm, but they do no work either. They are listed in `REVIEW.md` under
-「IMEが自前で変換できる」.
+They are kept for completeness — a dictionary of mathematicians that omitted アーベル because the
+IME can spell it would be a strange dictionary — and they are counted, but not itemized, in
+`REVIEW.md` under 「IMEが自前で変換できる項目」.
+
+The line is finer than it looks. `シュヴァレー` is **not** in this category: it is typed
+`しゅばれー`, and no IME turns a b-row kana into ヴ on its own. So ヴ-spelled names — ヴェイユ,
+シュヴァルツ, シュヴァレー, ローヴェア — are real entries that do real work, even though they look
+like plain katakana.
 
 Where the dictionary genuinely helps is with terms the IME cannot produce by itself: kanji
 compounds like 準同型写像, 冪零元, and 極大イデアル, but also `コホモロジー群` (a katakana–kanji
