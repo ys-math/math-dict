@@ -1,79 +1,80 @@
 # math-dict
 
-日本語IME用の数学用語辞書 — a Japanese IME dictionary of mathematical terminology.
+日本語IME用の数学用語辞書です。
 
-Japanese IMEs are good at everyday Japanese and bad at mathematics. They will not give you
-準同型写像, they will not give you 冪零元, and they have no idea what ⊗ or グロタンディーク are.
-This is a dictionary that fixes that, published for **Google 日本語入力 / Mozc, macOS 日本語入力,
-Microsoft IME, and ATOK**.
+日本語IMEは日常語には強い一方、数学には弱く、準同型写像も冪零元も出てきませんし、⊗ や
+グロタンディークに至っては手も足も出ません。それを埋めるための辞書で、**Google 日本語入力 /
+Mozc、macOS 日本語入力、Microsoft IME、ATOK** の4つの形式で配布しています。
 
-## Install
+## インストール
 
-Grab the file for your IME from [`dist/`](dist/) — no cloning or building required.
+[`dist/`](dist/) から自分のIME用のファイルを取得してください。クローンもビルドも不要です。
 
-| IME | file | how |
+| IME | ファイル | 取り込み方 |
 |---|---|---|
 | **Google 日本語入力 / Mozc** | [`dist/google/math_dict_ja.txt`](dist/google/math_dict_ja.txt) | 辞書ツール → 管理 → 新規辞書にインポート |
 | **macOS 日本語入力** | [`dist/macos/math_dict_ja.plist`](dist/macos/math_dict_ja.plist) | システム設定 → キーボード → ユーザ辞書 にドラッグ＆ドロップ |
 | **Microsoft IME** | [`dist/msime/math_dict_ja.txt`](dist/msime/math_dict_ja.txt) | 単語の登録 → ユーザー辞書ツール → ツール → テキストファイルからの登録 |
 | **ATOK** | [`dist/atok/math_dict_ja.txt`](dist/atok/math_dict_ja.txt) | 辞書ユーティリティ → ツール → ファイルから登録・削除 |
 
-**1,003 entries** across 23 topics — logic, algebra, topology, analysis, category theory,
-commutative algebra, algebraic geometry, and so on, plus 97 symbols, 68 mathematician names, and
-24 Latin-script terms.
+収録は **1,074語**、23分野（論理・集合、代数、位相、解析、圏論、可換環論、代数幾何 ほか）に
+加えて、数学記号97、数学者名68、ラテン文字表記24を含みます。数学者名は
+`がろあ → ガロア / Galois` のように、カタカナとラテン文字の両方が候補に出ます。
 
-**Tested honestly:** *no* build has been import-tested end to end. All four are verified
-structurally — correct encoding, BOM, line endings, POS names from each vendor's documented list,
-and the macOS plist confirmed against Apple's `phrase`/`shortcut` schema. But no one has yet
-dragged these into an actual IME. If one fails to import, that is a bug and an issue is welcome.
+**検証状況について正直に書きます。** 4形式とも、まだ実際のIMEへの取り込みテストは通していません。
+検証できているのは構造だけです（文字コード、BOM、改行コード、各ベンダーの文書に載っている品詞名、
+macOS plist が Apple の `phrase`/`shortcut` 形式に合致すること）。実際にIMEへ読み込んだ人はまだ
+いません。取り込みに失敗するようであればそれはバグですので、Issue を歓迎します。
 
-## What's in it, and what isn't
+## 収録するもの・しないもの
 
-Entries are **true readings**, not abbreviations. 数学的帰納法 is keyed `すうがくてききのうほう`,
-not `きのう`. Short triggers that expand to long terms are explicitly *not* what this is: they
-collide with everyday words (`きのう` is 昨日) and quietly degrade ordinary typing.
+登録されているのは **正しい読み** であって、略語ではありません。数学的帰納法の読みは
+`すうがくてききのうほう` であり、`きのう` ではありません。短い読みで長い語を呼び出す方式は
+意図的に採用していません。日常語と衝突し（`きのう` は「昨日」です）、普段の入力を静かに劣化させる
+からです。
 
-Included: kanji compounds (準同型写像, 極大イデアル), symbols (∀ ⊗ ℝ α), サ変 nouns, mathematician
-names (ガロア, グロタンディーク), and Latin-script terms (well-defined, mod).
+収録対象は、漢字熟語（準同型写像、極大イデアル）、記号（∀ ⊗ ℝ α）、サ変名詞、数学者名
+（ガロア、グロタンディーク）、ラテン文字表記の用語（well-defined、mod）です。
 
-## Contributing a term
+## 語を追加するには
 
-Edit the right file in [`terms/`](terms/) — that is the source of truth. `dist/` is generated.
+[`terms/`](terms/) の該当ファイルを編集してください。ここが唯一の情報源であり、`dist/` は
+生成物です。
 
 ```
-reading <TAB> word <TAB> pos <TAB> flags?
+読み <TAB> 単語 <TAB> 品詞 <TAB> フラグ(任意)
 じゅんどうけい	準同型	noun
 ```
 
-`pos` is IME-neutral — `noun`, `noun-suru` (takes する), `noun-adj` (takes な), `person`, `symbol`,
-`latin` — and the build maps it to each IME's vocabulary. Category comes from the filename; never
-repeat it per row. `flags` is optional and comma-separated: `common` (the reading is also an
-everyday word), `low-confidence` (the reading wants a second pair of eyes).
+品詞はIME非依存の値を使います（`noun`、`noun-suru`（する接続）、`noun-adj`（な接続）、`person`、
+`symbol`、`latin`）。各IMEの品詞体系への変換はビルドが行います。分野はファイル名から決まるので、
+行ごとに書く必要はありません。フラグは任意でカンマ区切り、`common`（読みが日常語と衝突する）と
+`low-confidence`（読みに確認が必要）が使えます。
 
-Then:
+編集したら：
 
 ```sh
-python3 validate.py   # invariants; regenerates REVIEW.md
+python3 validate.py   # 不変条件の検査。REVIEW.md を再生成する
 python3 build.py      # terms/ -> dist/
 ```
 
-Both run in CI, and CI additionally asserts that the committed `dist/` matches what `terms/`
-actually builds to. That check exists because a stale generated file is the one failure mode
-nobody notices until their import silently lacks the new terms.
+どちらもCIで実行され、さらにCIは「コミットされた `dist/` が `terms/` から実際に生成されるものと
+一致するか」も検査します。生成物が古いまま放置される事故は、誰かが取り込んでも新しい語が入って
+いない、という形でしか表面化せず、それまで誰も気づけないからです。
 
-`validate.py` rejects abbreviations by requiring a reading to have at least as many morae as the
-term has kanji. It is a floor, not a proof — it catches `きのう→数学的帰納法` (3 morae, 6 kanji)
-but not `こゆう→固有値` (3 for 3). Read the diff; don't just trust the green check.
+`validate.py` は「読みのモーラ数は単語の漢字数以上でなければならない」という規則で略語を弾きます。
+ただしこれは下限であって証明ではありません。`きのう→数学的帰納法`（3モーラ / 6漢字）は捕まえますが、
+`こゆう→固有値`（3対3）はすり抜けます。緑のチェックではなく、差分を読んでください。
 
-See [REVIEW.md](REVIEW.md) for entries flagged as collision-prone or unverified.
+衝突しやすい語・未確認の語は [REVIEW.md](REVIEW.md) に一覧があります。
 
-**A caveat worth stating plainly.** These entries were drafted by a language model and checked
-mechanically. The mechanical checks catch structural errors — bad kana, duplicates, katakana
-readings that don't match their word — and they caught many. What they *cannot* catch is a term
-that is well-formed but **not a real word**. If you find one, it is a bug: open an issue or delete
-the line. A wrong *reading* is harmless (the entry just never fires), but a fabricated *term* will
-happily insert itself into your mathematics, which is worse. Trust the diff, not the green check.
+**はっきり書いておきたい注意点。** これらの語は言語モデルが起草し、機械的に検査したものです。
+機械検査が捕まえられるのは構造的な誤り（不正な仮名、重複、カタカナ語と読みの不一致）で、実際に
+多くを捕まえました。しかし **「形は正しいが実在しない語」は検査では捕まえられません。**
+見つけたらそれはバグですので、Issue を立てるか、その行を削除してください。読みの誤りは無害です
+（その項目が変換に出てこないだけです）が、**捏造された語は普通に変換されて文章に紛れ込みます。**
+そちらのほうが有害です。緑のチェックではなく、差分を信用してください。
 
-## License
+## ライセンス
 
-[CC0 1.0](LICENSE) — public domain. It is a list of words and how they are read.
+[CC0 1.0](LICENSE)（パブリックドメイン）。語とその読みの一覧に、権利を主張する理由はありません。
