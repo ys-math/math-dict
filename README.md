@@ -20,7 +20,7 @@ Download the file for your IME from [`dist/`](dist/). No cloning or building req
 | **Microsoft IME** | [`dist/msime/math_dict_ja.txt`](dist/msime/math_dict_ja.txt) | 単語の登録 → ユーザー辞書ツール → ツール → テキストファイルからの登録 |
 | **ATOK** | [`dist/atok/math_dict_ja.txt`](dist/atok/math_dict_ja.txt) | 辞書ユーティリティ → ツール → ファイルから登録・削除 |
 
-The dictionary contains **1,074 entries** spanning 23 fields (logic and set theory, algebra,
+The dictionary contains **1,076 entries** spanning 23 fields (logic and set theory, algebra,
 topology, analysis, category theory, commutative algebra, algebraic geometry, and others), plus
 97 mathematical symbols, 68 mathematicians, and 24 Latin-script terms. Mathematicians are
 registered under both spellings, so `がろあ` offers ガロア and Galois alike.
@@ -57,7 +57,7 @@ They do no harm, but they do no work either. They are listed in `REVIEW.md` unde
 Where the dictionary genuinely helps is with terms the IME cannot produce by itself: kanji
 compounds like 準同型写像, 冪零元, and 極大イデアル, but also `コホモロジー群` (a katakana–kanji
 mix, so not a straight transliteration), `層コホモロジー`, and Latin spellings such as Galois and
-Grothendieck. That accounts for the remaining 980 entries.
+Grothendieck. That accounts for the remaining 982 entries.
 
 ## Adding a term
 

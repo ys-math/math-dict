@@ -7,7 +7,7 @@ but each is worth a human glance.
 ordinary Japanese word, so this entry will crowd the candidate list when you write
 normal prose. They are kept per the completeness decision; delete any that annoy you.
 
-**164 flagged / 1074 entries**
+**164 flagged / 1076 entries**
 
 | reading | word | source | why |
 |---|---|---|---|
@@ -78,7 +78,7 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | すぺくとらむ | スペクトラム | `09-commutative-algebra.tsv:13` | IMEが自前で変換できる（この項目は働かない） |
 | すぺくとる | スペクトル | `11-functional-analysis.tsv:12` | IMEが自前で変換できる（この項目は働かない） |
 | せい | 正 | `10-arithmetic.tsv:10` | collides with everyday Japanese |
-| せいき | 正規 | `04-algebra.tsv:37` | collides with everyday Japanese |
+| せいき | 正規 | `04-algebra.tsv:38` | collides with everyday Japanese |
 | せいげん | 制限 | `00-logic-set.tsv:19` | collides with everyday Japanese |
 | せるばーぐ | セルバーグ | `21-people.tsv:49` | IMEが自前で変換できる（この項目は働かない） |
 | せーる | セール | `21-people.tsv:51` | IMEが自前で変換できる（この項目は働かない） |
@@ -87,13 +87,13 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | そぼれふ | ソボレフ | `21-people.tsv:53` | IMEが自前で変換できる（この項目は働かない） |
 | ぞう | 像 | `00-logic-set.tsv:21` | collides with everyday Japanese |
 | ぞく | 族 | `00-logic-set.tsv:22` | collides with everyday Japanese |
-| たい | 体 | `04-algebra.tsv:44` | collides with everyday Japanese |
+| たい | 体 | `04-algebra.tsv:45` | collides with everyday Japanese |
 | たいしょう | 対象 | `08-category-theory.tsv:29` | collides with everyday Japanese |
 | たう | τ | `20-symbols.tsv:30` | collides with everyday Japanese |
 | だいそん | ダイソン | `21-people.tsv:59` | IMEが自前で変換できる（この項目は働かない） |
 | だいなり | > | `20-symbols.tsv:31` | collides with everyday Japanese |
 | ちぇびしぇふ | チェビシェフ | `21-people.tsv:61` | IMEが自前で変換できる（この項目は働かない） |
-| ちゅうしん | 中心 | `04-algebra.tsv:55` | collides with everyday Japanese |
+| ちゅうしん | 中心 | `04-algebra.tsv:56` | collides with everyday Japanese |
 | ちゅーりんぐましん | チューリングマシン | `17-logic-foundations.tsv:32` | IMEが自前で変換できる（この項目は働かない） |
 | つぇるめろ | ツェルメロ | `21-people.tsv:63` | IMEが自前で変換できる（この項目は働かない） |
 | つぉるん | ツォルン | `21-people.tsv:65` | IMEが自前で変換できる（この項目は働かない） |

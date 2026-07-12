@@ -460,6 +460,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>準同型写像</string>
+		<key>shortcut</key>
+		<string>じゅんどうけいしゃぞう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>準同型定理</string>
 		<key>shortcut</key>
 		<string>じゅんどうけいていり</string>
@@ -613,6 +619,12 @@
 		<string>同型</string>
 		<key>shortcut</key>
 		<string>どうけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>同型写像</string>
+		<key>shortcut</key>
+		<string>どうけいしゃぞう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
