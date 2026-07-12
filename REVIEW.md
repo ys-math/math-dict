@@ -7,20 +7,22 @@ but each is worth a human glance.
 ordinary Japanese word, so this entry will crowd the candidate list when you write
 normal prose. They are kept per the completeness decision; delete any that annoy you.
 
-**70 flagged / 1076 entries**
+**139 flagged / 1754 entries**
 
 | reading | word | source | why |
 |---|---|---|---|
 | いか | ≤ | `20-symbols.tsv:34` | collides with everyday Japanese |
 | いこーる | = | `20-symbols.tsv:5` | collides with everyday Japanese |
 | いふ | iff | `22-latin.tsv:3` | collides with everyday Japanese |
-| うぇいゆ | ヴェイユ | `21-people.tsv:14` | ヴ — check the reading you'd type |
+| うぇいゆ | ヴェイユ | `21-people.tsv:70` | ヴ — check the reading you'd type |
 | えぬ | ℕ | `20-symbols.tsv:24` | collides with everyday Japanese |
 | えん | 円 | `06-geometry.tsv:5` | collides with everyday Japanese |
 | えんちょう | 延長 | `00-logic-set.tsv:3` | collides with everyday Japanese |
 | かい | χ | `20-symbols.tsv:47` | collides with everyday Japanese |
 | かく | 核 | `00-logic-set.tsv:4` | collides with everyday Japanese |
 | かける | × | `20-symbols.tsv:76` | collides with everyday Japanese |
+| かりー | Curry | `21-people.tsv:126` | collides with everyday Japanese |
+| かりー | カリー | `21-people.tsv:127` | collides with everyday Japanese |
 | かん | 環 | `04-algebra.tsv:14` | collides with everyday Japanese |
 | き | 木 | `18-combinatorics.tsv:6` | collides with everyday Japanese |
 | きか | 幾何 | `06-geometry.tsv:10` | collides with everyday Japanese |
@@ -30,21 +32,32 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | きょぶ | 虚部 | `14-complex-analysis.tsv:10` | collides with everyday Japanese |
 | きょり | 距離 | `03-topology.tsv:16` | collides with everyday Japanese |
 | くき | 茎 | `19-algebraic-geometry.tsv:9` | collides with everyday Japanese |
+| くらびうす | クラヴィウス | `21-people.tsv:168` | ヴ — check the reading you'd type |
+| ぐらむ | Gram | `21-people.tsv:190` | collides with everyday Japanese |
+| ぐらむ | グラム | `21-people.tsv:191` | collides with everyday Japanese |
+| ぐりーん | Green | `21-people.tsv:192` | collides with everyday Japanese |
+| ぐりーん | グリーン | `21-people.tsv:193` | collides with everyday Japanese |
 | ぐん | 群 | `04-algebra.tsv:20` | collides with everyday Japanese |
 | けい | 系 | `00-logic-set.tsv:10` | collides with everyday Japanese |
 | けん | 圏 | `08-category-theory.tsv:13` | collides with everyday Japanese |
 | こん | 根 | `10-arithmetic.tsv:7` | collides with everyday Japanese |
 | さよう | 作用 | `04-algebra.tsv:26` | collides with everyday Japanese |
+| さりばん | サリヴァン | `21-people.tsv:243` | ヴ — check the reading you'd type |
 | さんかっけい | △ | `20-symbols.tsv:98` | collides with everyday Japanese |
 | しすう | 指数 | `10-arithmetic.tsv:11` | collides with everyday Japanese |
 | しゃ | 射 | `08-category-theory.tsv:20` | collides with everyday Japanese |
-| しゅばるつ | シュヴァルツ | `21-people.tsv:45` | ヴ — check the reading you'd type |
+| しゅばるつ | シュヴァルツ | `21-people.tsv:263` | ヴ — check the reading you'd type |
 | しゅばるつちょうかんすう | シュワルツ超関数 | `11-functional-analysis.tsv:9` | reading unverified |
+| しゅばれー | シュヴァレー | `21-people.tsv:265` | ヴ — check the reading you'd type |
 | しょうなり | < | `20-symbols.tsv:32` | collides with everyday Japanese |
 | しー | ℂ | `20-symbols.tsv:23` | collides with everyday Japanese |
 | じゅんじょ | 順序 | `00-logic-set.tsv:47` | collides with everyday Japanese |
 | じょう | 乗 | `10-arithmetic.tsv:13` | collides with everyday Japanese |
 | すう | ∑ | `20-symbols.tsv:27` | collides with everyday Japanese |
+| すちゅーでんと | Student | `21-people.tsv:295` | collides with everyday Japanese |
+| すちゅーでんと | スチューデント | `21-people.tsv:296` | collides with everyday Japanese |
+| すとーん | Stone | `21-people.tsv:303` | collides with everyday Japanese |
+| すとーん | ストーン | `21-people.tsv:304` | collides with everyday Japanese |
 | せい | 正 | `10-arithmetic.tsv:10` | collides with everyday Japanese |
 | せいき | 正規 | `04-algebra.tsv:38` | collides with everyday Japanese |
 | せいげん | 制限 | `00-logic-set.tsv:19` | collides with everyday Japanese |
@@ -55,36 +68,92 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | たい | 体 | `04-algebra.tsv:45` | collides with everyday Japanese |
 | たいしょう | 対象 | `08-category-theory.tsv:29` | collides with everyday Japanese |
 | たう | τ | `20-symbols.tsv:30` | collides with everyday Japanese |
+| たお | Tao | `21-people.tsv:322` | collides with everyday Japanese |
+| たお | タオ | `21-people.tsv:323` | collides with everyday Japanese |
 | だいなり | > | `20-symbols.tsv:31` | collides with everyday Japanese |
+| ちぇば | Ceva | `21-people.tsv:349` | collides with everyday Japanese |
+| ちぇば | チェバ | `21-people.tsv:350` | collides with everyday Japanese |
+| ちゃう | Chau | `21-people.tsv:357` | collides with everyday Japanese |
+| ちゃう | Châu | `21-people.tsv:358` | collides with everyday Japanese |
+| ちゃう | チャウ | `21-people.tsv:359` | collides with everyday Japanese |
+| ちゃーち | Church | `21-people.tsv:360` | collides with everyday Japanese |
+| ちゃーち | チャーチ | `21-people.tsv:361` | collides with everyday Japanese |
 | ちゅうしん | 中心 | `04-algebra.tsv:56` | collides with everyday Japanese |
 | てい | 底 | `10-arithmetic.tsv:18` | collides with everyday Japanese |
 | てんかい | 展開 | `02-analysis.tsv:50` | collides with everyday Japanese |
+| とむ | Thom | `21-people.tsv:405` | collides with everyday Japanese |
+| とむ | トム | `21-people.tsv:406` | collides with everyday Japanese |
 | どくりつ | 独立 | `07-probability-statistics.tsv:27` | collides with everyday Japanese |
 | ないぶ | 内部 | `03-topology.tsv:36` | collides with everyday Japanese |
 | にゅー | ν | `20-symbols.tsv:37` | collides with everyday Japanese |
 | のうど | 濃度 | `00-logic-set.tsv:33` | collides with everyday Japanese |
+| はわーど | Howard | `21-people.tsv:472` | collides with everyday Japanese |
+| はわーど | ハワード | `21-people.tsv:473` | collides with everyday Japanese |
+| ばらだん | ヴァラダン | `21-people.tsv:481` | ヴ — check the reading you'd type |
+| ばるがば | バルガヴァ | `21-people.tsv:483` | ヴ — check the reading you'd type |
+| ばんでるもんど | ヴァンデルモンド | `21-people.tsv:485` | ヴ — check the reading you'd type |
+| ばーま | ヴァーマ | `21-people.tsv:487` | ヴ — check the reading you'd type |
 | ぱい | π | `20-symbols.tsv:38` | collides with everyday Japanese |
+| ぱんるべ | パンルヴェ | `21-people.tsv:496` | ヴ — check the reading you'd type |
 | ひょうげん | 表現 | `15-representation-theory.tsv:22` | collides with everyday Japanese |
+| びぐだーそん | ヴィグダーソン | `21-people.tsv:512` | ヴ — check the reading you'd type |
+| びたり | ヴィタリ | `21-people.tsv:514` | ヴ — check the reading you'd type |
+| びっと | ヴィット | `21-people.tsv:516` | ヴ — check the reading you'd type |
+| びやぞふすか | ヴィヤゾフスカ | `21-people.tsv:518` | ヴ — check the reading you'd type |
+| びらに | ヴィラニ | `21-people.tsv:520` | ヴ — check the reading you'd type |
 | ふぁい | φ | `20-symbols.tsv:39` | collides with everyday Japanese |
+| ふぁとぅ | Fatou | `21-people.tsv:531` | collides with everyday Japanese |
+| ふぁとぅ | ファトゥ | `21-people.tsv:532` | collides with everyday Japanese |
+| ふぃっしゃー | Fisher | `21-people.tsv:539` | collides with everyday Japanese |
+| ふぃっしゃー | フィッシャー | `21-people.tsv:540` | collides with everyday Japanese |
 | ぶんかつ | 分割 | `00-logic-set.tsv:38` | collides with everyday Japanese |
 | ぶんさん | 分散 | `07-probability-statistics.tsv:32` | collides with everyday Japanese |
 | へん | 辺 | `06-geometry.tsv:45` | collides with everyday Japanese |
+| べいゆ | ヴェイユ | `21-people.tsv:587` | ヴ — check the reading you'd type |
 | べき | 冪 | `10-arithmetic.tsv:22` | collides with everyday Japanese |
+| べっく | Beck | `21-people.tsv:591` | collides with everyday Japanese |
+| べっく | ベック | `21-people.tsv:592` | collides with everyday Japanese |
+| べんかてしゅ | ヴェンカテシュ | `21-people.tsv:600` | ヴ — check the reading you'd type |
+| ぺる | Pell | `21-people.tsv:603` | collides with everyday Japanese |
+| ぺる | ペル | `21-people.tsv:604` | collides with everyday Japanese |
 | ほう | 法 | `05-number-theory.tsv:33` | collides with everyday Japanese |
+| ほっぷ | Hopf | `21-people.tsv:615` | collides with everyday Japanese |
+| ほっぷ | ホップ | `21-people.tsv:616` | collides with everyday Japanese |
 | ほむ | Hom | `22-latin.tsv:21` | collides with everyday Japanese |
+| ほーる | Hall | `21-people.tsv:621` | collides with everyday Japanese |
+| ほーる | ホール | `21-people.tsv:622` | collides with everyday Japanese |
+| まーだば | マーダヴァ | `21-people.tsv:665` | ヴ — check the reading you'd type |
 | みゅー | μ | `20-symbols.tsv:42` | collides with everyday Japanese |
+| むーあ | Moore | `21-people.tsv:688` | collides with everyday Japanese |
+| むーあ | ムーア | `21-people.tsv:689` | collides with everyday Japanese |
+| やう | Yau | `21-people.tsv:723` | collides with everyday Japanese |
+| やう | ヤウ | `21-people.tsv:724` | collides with everyday Japanese |
 | やじるし | → | `20-symbols.tsv:79` | collides with everyday Japanese |
+| やんぐ | Young | `21-people.tsv:729` | collides with everyday Japanese |
+| やんぐ | ヤング | `21-people.tsv:730` | collides with everyday Japanese |
+| らお | Rao | `21-people.tsv:737` | collides with everyday Japanese |
+| らお | ラオ | `21-people.tsv:738` | collides with everyday Japanese |
+| りうびる | リウヴィル | `21-people.tsv:760` | ヴ — check the reading you'd type |
 | りむ | lim | `22-latin.tsv:24` | collides with everyday Japanese |
-| りー | Lie | `21-people.tsv:123` | collides with everyday Japanese |
-| りー | リー | `21-people.tsv:124` | collides with everyday Japanese |
+| りー | Lie | `21-people.tsv:773` | collides with everyday Japanese |
+| りー | リー | `21-people.tsv:774` | collides with everyday Japanese |
 | れい | 零 | `10-arithmetic.tsv:28` | collides with everyday Japanese |
+| れび | Levy | `21-people.tsv:788` | collides with everyday Japanese |
+| れび | Lévy | `21-people.tsv:789` | collides with everyday Japanese |
+| れび | レヴィ | `21-people.tsv:790` | collides with everyday Japanese |
+| れび | レヴィ | `21-people.tsv:790` | ヴ — check the reading you'd type |
 | れんぞく | 連続 | `02-analysis.tsv:77` | collides with everyday Japanese |
+| れーべんはいむ | レーヴェンハイム | `21-people.tsv:797` | ヴ — check the reading you'd type |
+| ろばーす | ロヴァース | `21-people.tsv:802` | ヴ — check the reading you'd type |
+| ろる | Rolle | `21-people.tsv:806` | collides with everyday Japanese |
+| ろる | ロル | `21-people.tsv:807` | collides with everyday Japanese |
 | ろー | ρ | `20-symbols.tsv:44` | collides with everyday Japanese |
+| ろーべあ | ローヴェア | `21-people.tsv:809` | ヴ — check the reading you'd type |
 | わる | ÷ | `20-symbols.tsv:77` | collides with everyday Japanese |
 
 ## IMEが自前で変換できる項目
 
-**94 entries.** The word is exactly its own reading in katakana, so the
+**301 entries.** The word is exactly its own reading in katakana, so the
 IME already offers that string and the entry adds no new candidate. Nothing to decide
 here — they are listed only so the count stays visible.
 
@@ -92,99 +161,306 @@ here — they are listed only so the count stays visible.
 
 | reading | word | source |
 |---|---|---|
-| あてぃや | アティヤ | `21-people.tsv:4` |
+| あいぜんしゅたいん | アイゼンシュタイン | `21-people.tsv:4` |
+| あいれんべるく | アイレンベルク | `21-people.tsv:6` |
+| あいれんべるぐ | アイレンベルグ | `21-people.tsv:8` |
+| あいんしゅたいん | アインシュタイン | `21-people.tsv:10` |
+| あすこり | アスコリ | `21-people.tsv:16` |
+| あだまーる | アダマール | `21-people.tsv:20` |
+| あてぃや | アティヤ | `21-people.tsv:24` |
+| あびら | アビラ | `21-people.tsv:26` |
 | あふぃんすきーむ | アフィンスキーム | `19-algebraic-geometry.tsv:3` |
-| あるきめです | アルキメデス | `21-people.tsv:6` |
-| あるてぃん | アルティン | `21-people.tsv:8` |
-| あーべる | アーベル | `21-people.tsv:10` |
+| あらおぐる | アラオグル | `21-people.tsv:28` |
+| あるきめです | アルキメデス | `21-people.tsv:34` |
+| あるつぇら | アルツェラ | `21-people.tsv:37` |
+| あるてぃん | アルティン | `21-people.tsv:39` |
+| あーべる | アーベル | `21-people.tsv:41` |
+| あーるやばた | アールヤバタ | `21-people.tsv:43` |
+| あーれんべっく | アーレンベック | `21-people.tsv:45` |
+| いぇんせん | イェンセン | `21-people.tsv:49` |
 | いである | イデアル | `04-algebra.tsv:5` |
-| うぃってん | ウィッテン | `21-people.tsv:12` |
+| うぃってん | ウィッテン | `21-people.tsv:66` |
+| うぃーなー | ウィーナー | `21-people.tsv:68` |
 | うぇいと | ウェイト | `15-representation-theory.tsv:3` |
+| うぇるなー | ウェルナー | `21-people.tsv:72` |
+| うぇーばー | ウェーバー | `21-people.tsv:74` |
+| うりぞーん | ウリゾーン | `21-people.tsv:80` |
+| えうくれいです | エウクレイデス | `21-people.tsv:82` |
+| えごろふ | エゴロフ | `21-people.tsv:84` |
 | えたーる | エタール | `08-category-theory.tsv:4` |
-| おいらー | オイラー | `21-people.tsv:16` |
-| かるたん | カルタン | `21-people.tsv:18` |
-| かんとーる | カントール | `21-people.tsv:20` |
-| がうす | ガウス | `21-people.tsv:22` |
-| がろあ | ガロア | `21-people.tsv:24` |
-| きりんぐ | キリング | `21-people.tsv:26` |
-| くらいん | クライン | `21-people.tsv:28` |
-| くんまー | クンマー | `21-people.tsv:30` |
+| えらとすてねす | エラトステネス | `21-people.tsv:86` |
+| えるみーと | エルミート | `21-people.tsv:88` |
+| おいらー | オイラー | `21-people.tsv:90` |
+| おくんこふ | オクンコフ | `21-people.tsv:102` |
+| かそらてぃ | カソラティ | `21-people.tsv:114` |
+| からておどり | カラテオドリ | `21-people.tsv:123` |
+| からび | カラビ | `21-people.tsv:125` |
+| かりー | カリー | `21-people.tsv:127` |
+| かるたん | カルタン | `21-people.tsv:129` |
+| かるだーの | カルダーノ | `21-people.tsv:131` |
+| かるれそん | カルレソン | `21-people.tsv:133` |
+| かんてり | カンテリ | `21-people.tsv:141` |
+| かんとーる | カントール | `21-people.tsv:143` |
+| がうす | ガウス | `21-people.tsv:145` |
+| がろあ | ガロア | `21-people.tsv:147` |
+| きゅねす | キュネス | `21-people.tsv:154` |
+| きりんぐ | キリング | `21-people.tsv:156` |
+| ぎゅるだん | ギュルダン | `21-people.tsv:158` |
+| くらいん | クライン | `21-people.tsv:162` |
+| くらとふすきー | クラトフスキー | `21-people.tsv:164` |
+| くらめーる | クラメール | `21-people.tsv:171` |
+| くりすとっふぇる | クリストッフェル | `21-people.tsv:173` |
+| くりーね | クリーネ | `21-people.tsv:175` |
+| くるる | クルル | `21-people.tsv:177` |
+| くれいん | クレイン | `21-people.tsv:179` |
+| くれぶしゅ | クレブシュ | `21-people.tsv:181` |
+| くろねっかー | クロネッカー | `21-people.tsv:185` |
+| くんまー | クンマー | `21-people.tsv:187` |
+| ぐらすまん | グラスマン | `21-people.tsv:189` |
 | ぐらふ | グラフ | `18-combinatorics.tsv:8` |
-| ぐろたんでぃーく | グロタンディーク | `21-people.tsv:32` |
-| けーりー | ケーリー | `21-people.tsv:34` |
-| げーでる | ゲーデル | `21-people.tsv:37` |
+| ぐらむ | グラム | `21-people.tsv:191` |
+| ぐりーん | グリーン | `21-people.tsv:193` |
+| ぐろたんでぃーく | グロタンディーク | `21-people.tsv:195` |
+| ぐろもふ | グロモフ | `21-people.tsv:197` |
+| けーにひ | ケーニヒ | `21-people.tsv:200` |
+| けーりー | ケーリー | `21-people.tsv:202` |
+| げるふぁんと | ゲルファント | `21-people.tsv:204` |
+| げーでる | ゲーデル | `21-people.tsv:207` |
 | こどめいん | コドメイン | `08-category-theory.tsv:14` |
 | こほもろじー | コホモロジー | `16-homological-algebra.tsv:6` |
-| こるもごろふ | コルモゴロフ | `21-people.tsv:39` |
+| こるもごろふ | コルモゴロフ | `21-people.tsv:215` |
+| こわれふすかや | コワレフスカヤ | `21-people.tsv:217` |
+| こんぬ | コンヌ | `21-people.tsv:219` |
 | こんぱくと | コンパクト | `03-topology.tsv:21` |
-| こーしー | コーシー | `21-people.tsv:41` |
-| ざりすき | ザリスキ | `21-people.tsv:43` |
-| じょるだん | ジョルダン | `21-people.tsv:47` |
+| こーえん | コーエン | `21-people.tsv:221` |
+| こーしー | コーシー | `21-people.tsv:223` |
+| ごるだん | ゴルダン | `21-people.tsv:225` |
+| ごれんしゅたいん | ゴレンシュタイン | `21-people.tsv:227` |
+| ごーるどばっは | ゴールドバッハ | `21-people.tsv:229` |
+| さーすとん | サーストン | `21-people.tsv:245` |
+| ざいふぇると | ザイフェルト | `21-people.tsv:247` |
+| ざりすき | ザリスキ | `21-people.tsv:249` |
+| しない | シナイ | `21-people.tsv:255` |
+| しゃのん | シャノン | `21-people.tsv:259` |
+| しゅてぃーふぇる | シュティーフェル | `21-people.tsv:261` |
+| しゅみっと | シュミット | `21-people.tsv:267` |
+| しゅらいあー | シュライアー | `21-people.tsv:269` |
+| しゅれーだー | シュレーダー | `21-people.tsv:272` |
+| しゅーあ | シューア | `21-people.tsv:274` |
+| しょるつ | ショルツ | `21-people.tsv:278` |
+| しるべすたー | シルベスター | `21-people.tsv:280` |
+| しろー | シロー | `21-people.tsv:282` |
+| しんがー | シンガー | `21-people.tsv:284` |
+| じょるだん | ジョルダン | `21-people.tsv:286` |
 | すからー | スカラー | `01-linear-algebra.tsv:29` |
 | すきーむ | スキーム | `19-algebraic-geometry.tsv:15` |
+| すこーれむ | スコーレム | `21-people.tsv:292` |
+| すちゅーでんと | スチューデント | `21-people.tsv:296` |
+| すてぃるちぇす | スティルチェス | `21-people.tsv:298` |
+| すてぃーんろっど | スティーンロッド | `21-people.tsv:300` |
+| すとーくす | ストークス | `21-people.tsv:302` |
+| すとーん | ストーン | `21-people.tsv:304` |
 | すぺくとらむ | スペクトラム | `09-commutative-algebra.tsv:13` |
 | すぺくとる | スペクトル | `11-functional-analysis.tsv:12` |
-| せるばーぐ | セルバーグ | `21-people.tsv:49` |
-| せーる | セール | `21-people.tsv:51` |
-| そぼれふ | ソボレフ | `21-people.tsv:53` |
-| だいそん | ダイソン | `21-people.tsv:59` |
-| ちぇびしぇふ | チェビシェフ | `21-people.tsv:61` |
+| すみるのふ | スミルノフ | `21-people.tsv:308` |
+| すめいる | スメイル | `21-people.tsv:310` |
+| せめれでぃ | セメレディ | `21-people.tsv:313` |
+| せるばーく | セルバーク | `21-people.tsv:315` |
+| せるばーぐ | セルバーグ | `21-people.tsv:317` |
+| せーる | セール | `21-people.tsv:319` |
+| そぼれふ | ソボレフ | `21-people.tsv:321` |
+| たお | タオ | `21-people.tsv:323` |
+| たるすき | タルスキ | `21-people.tsv:337` |
+| たれす | タレス | `21-people.tsv:339` |
+| だいそん | ダイソン | `21-people.tsv:341` |
+| だらんべーる | ダランベール | `21-people.tsv:343` |
+| だるぶー | ダルブー | `21-people.tsv:345` |
+| ちぇっく | チェック | `21-people.tsv:348` |
+| ちぇば | チェバ | `21-people.tsv:350` |
+| ちぇびしぇふ | チェビシェフ | `21-people.tsv:352` |
+| ちこのふ | チコノフ | `21-people.tsv:354` |
+| ちゃう | チャウ | `21-people.tsv:359` |
+| ちゃーち | チャーチ | `21-people.tsv:361` |
+| ちゃーん | チャーン | `21-people.tsv:363` |
+| ちゅーりんぐ | チューリング | `21-people.tsv:365` |
 | ちゅーりんぐましん | チューリングマシン | `17-logic-foundations.tsv:32` |
-| つぇるめろ | ツェルメロ | `21-people.tsv:63` |
-| つぉるん | ツォルン | `21-people.tsv:65` |
+| つぇるめろ | ツェルメロ | `21-people.tsv:367` |
+| つぉるん | ツォルン | `21-people.tsv:369` |
+| てぃっつ | ティッツ | `21-people.tsv:373` |
+| ていと | テイト | `21-people.tsv:375` |
+| ていらー | テイラー | `21-people.tsv:377` |
 | てんそる | テンソル | `01-linear-algebra.tsv:55` |
-| でぃりくれ | ディリクレ | `21-people.tsv:67` |
-| でかると | デカルト | `21-people.tsv:69` |
-| でできんと | デデキント | `21-people.tsv:71` |
+| でぃらっく | ディラック | `21-people.tsv:385` |
+| でぃりくれ | ディリクレ | `21-people.tsv:387` |
+| でぃるわーす | ディルワース | `21-people.tsv:389` |
+| でかると | デカルト | `21-people.tsv:391` |
+| でざるぐ | デザルグ | `21-people.tsv:393` |
+| でできんと | デデキント | `21-people.tsv:395` |
+| でーできんと | デーデキント | `21-people.tsv:399` |
+| とぅらーん | トゥラーン | `21-people.tsv:402` |
+| とねり | トネリ | `21-people.tsv:404` |
 | とぽす | トポス | `08-category-theory.tsv:31` |
+| とむ | トム | `21-people.tsv:406` |
 | とれーす | トレース | `01-linear-algebra.tsv:59` |
+| とんぷそん | トンプソン | `21-people.tsv:408` |
 | とーとろじー | トートロジー | `17-logic-foundations.tsv:35` |
+| とーぷりっつ | トープリッツ | `21-people.tsv:410` |
 | とーらす | トーラス | `06-geometry.tsv:40` |
-| どりーにゅ | ドリーニュ | `21-people.tsv:73` |
-| にゅーとん | ニュートン | `21-people.tsv:75` |
-| ねーたー | ネーター | `21-people.tsv:77` |
-| のいまん | ノイマン | `21-people.tsv:79` |
+| どりーにゅ | ドリーニュ | `21-people.tsv:412` |
+| どろねー | ドロネー | `21-people.tsv:414` |
+| ないまるく | ナイマルク | `21-people.tsv:416` |
+| なっしゅ | ナッシュ | `21-people.tsv:430` |
+| にこでぃむ | ニコディム | `21-people.tsv:432` |
+| にゅーとん | ニュートン | `21-people.tsv:438` |
+| にーれんばーぐ | ニーレンバーグ | `21-people.tsv:440` |
+| ねいぴあ | ネイピア | `21-people.tsv:442` |
+| ねいまん | ネイマン | `21-people.tsv:444` |
+| ねろん | ネロン | `21-people.tsv:447` |
+| ねーたー | ネーター | `21-people.tsv:449` |
+| のいまん | ノイマン | `21-people.tsv:451` |
 | のるむ | ノルム | `01-linear-algebra.tsv:62` |
-| はうすどるふ | ハウスドルフ | `21-people.tsv:81` |
-| はみるとん | ハミルトン | `21-people.tsv:83` |
-| ばなっは | バナッハ | `21-people.tsv:85` |
+| はいね | ハイネ | `21-people.tsv:455` |
+| はいやーむ | ハイヤーム | `21-people.tsv:457` |
+| はいらー | ハイラー | `21-people.tsv:459` |
+| はうすどるふ | ハウスドルフ | `21-people.tsv:461` |
+| はっせ | ハッセ | `21-people.tsv:463` |
+| はみるとん | ハミルトン | `21-people.tsv:467` |
+| はわーど | ハワード | `21-people.tsv:473` |
+| はーでぃ | ハーディ | `21-people.tsv:475` |
+| ばなっは | バナッハ | `21-people.tsv:477` |
+| ばなふ | バナフ | `21-people.tsv:479` |
+| ぱすかる | パスカル | `21-people.tsv:489` |
+| ぱちょーり | パチョーリ | `21-people.tsv:491` |
+| ぱっぷす | パップス | `21-people.tsv:493` |
 | ぱらこんぱくと | パラコンパクト | `03-topology.tsv:38` |
-| ひるべると | ヒルベルト | `21-people.tsv:87` |
-| ふぇるまー | フェルマー | `21-people.tsv:89` |
-| ふろべにうす | フロベニウス | `21-people.tsv:91` |
+| ぱーせばる | パーセバル | `21-people.tsv:498` |
+| ひゅぱてぃあ | ヒュパティア | `21-people.tsv:502` |
+| ひるべると | ヒルベルト | `21-people.tsv:506` |
+| びあんき | ビアンキ | `21-people.tsv:510` |
+| びるかー | ビルカー | `21-people.tsv:522` |
+| ぴあそん | ピアソン | `21-people.tsv:524` |
+| ぴかーる | ピカール | `21-people.tsv:526` |
+| ぴたごらす | ピタゴラス | `21-people.tsv:528` |
+| ふぁすてんばーぐ | ファステンバーグ | `21-people.tsv:530` |
+| ふぁとぅ | ファトゥ | `21-people.tsv:532` |
+| ふぁるてぃんぐす | ファルティングス | `21-people.tsv:534` |
+| ふぃがり | フィガリ | `21-people.tsv:538` |
+| ふぃっしゃー | フィッシャー | `21-people.tsv:540` |
+| ふぃぼなっち | フィボナッチ | `21-people.tsv:542` |
+| ふぃーるず | フィールズ | `21-people.tsv:544` |
+| ふぇふぁーまん | フェファーマン | `21-people.tsv:546` |
+| ふぇらーり | フェラーリ | `21-people.tsv:548` |
+| ふぇるまー | フェルマー | `21-people.tsv:550` |
+| ふびに | フビニ | `21-people.tsv:560` |
+| ふれどほるむ | フレドホルム | `21-people.tsv:562` |
+| ふろいど | フロイド | `21-people.tsv:564` |
+| ふろべにうす | フロベニウス | `21-people.tsv:566` |
 | ふろー | フロー | `18-combinatorics.tsv:26` |
-| ふーりえ | フーリエ | `21-people.tsv:93` |
-| ぶるばき | ブルバキ | `21-people.tsv:95` |
+| ふわーりずみー | フワーリズミー | `21-people.tsv:568` |
+| ふーりえ | フーリエ | `21-people.tsv:570` |
+| ぶらうあー | ブラウアー | `21-people.tsv:572` |
+| ぶらうわー | ブラウワー | `21-people.tsv:574` |
+| ぶらーまぐぷた | ブラーマグプタ | `21-people.tsv:576` |
+| ぶるばき | ブルバキ | `21-people.tsv:578` |
 | ぶろーあっぷ | ブローアップ | `19-algebraic-geometry.tsv:26` |
+| ぶーる | ブール | `21-people.tsv:580` |
+| へるだー | ヘルダー | `21-people.tsv:583` |
+| へろん | ヘロン | `21-people.tsv:585` |
 | べくとる | ベクトル | `01-linear-algebra.tsv:65` |
-| ぺあの | ペアノ | `21-people.tsv:97` |
+| べずー | ベズー | `21-people.tsv:590` |
+| べっく | ベック | `21-people.tsv:592` |
+| べっせる | ベッセル | `21-people.tsv:594` |
+| べるぬーい | ベルヌーイ | `21-people.tsv:596` |
+| べるんしゅたいん | ベルンシュタイン | `21-people.tsv:598` |
+| ぺあの | ペアノ | `21-people.tsv:602` |
+| ぺる | ペル | `21-people.tsv:604` |
+| ぺれるまん | ペレルマン | `21-people.tsv:606` |
+| ぺんろーず | ペンローズ | `21-people.tsv:608` |
+| ほいっとにー | ホイットニー | `21-people.tsv:610` |
+| ほっじ | ホッジ | `21-people.tsv:614` |
+| ほっぷ | ホップ | `21-people.tsv:616` |
+| ほっほしると | ホッホシルト | `21-people.tsv:618` |
 | ほもとぴー | ホモトピー | `03-topology.tsv:48` |
 | ほもろじー | ホモロジー | `12-differential-geometry.tsv:29` |
-| ぼれる | ボレル | `21-people.tsv:99` |
-| ぽあんかれ | ポアンカレ | `21-people.tsv:102` |
-| まくろーりん | マクローリン | `21-people.tsv:104` |
+| ほわいとへっど | ホワイトヘッド | `21-people.tsv:620` |
+| ほーる | ホール | `21-people.tsv:622` |
+| ぼやい | ボヤイ | `21-people.tsv:624` |
+| ぼるつぁーの | ボルツァーノ | `21-people.tsv:626` |
+| ぼれる | ボレル | `21-people.tsv:628` |
+| ぼろのい | ボロノイ | `21-people.tsv:630` |
+| ぼんね | ボンネ | `21-people.tsv:632` |
+| ぼんびえり | ボンビエリ | `21-people.tsv:634` |
+| ぼーちゃーず | ボーチャーズ | `21-people.tsv:636` |
+| ぽあそん | ポアソン | `21-people.tsv:638` |
+| ぽあんかれ | ポアンカレ | `21-people.tsv:641` |
+| ぽんすれ | ポンスレ | `21-people.tsv:643` |
+| ぽんとりゃーぎん | ポントリャーギン | `21-people.tsv:645` |
+| まくれーん | マクレーン | `21-people.tsv:649` |
+| まくろーりん | マクローリン | `21-people.tsv:651` |
+| まこーれー | マコーレー | `21-people.tsv:653` |
+| まっくれーん | マックレーン | `21-people.tsv:655` |
 | まっちんぐ | マッチング | `18-combinatorics.tsv:33` |
+| まるぐりす | マルグリス | `21-people.tsv:659` |
+| まるこふ | マルコフ | `21-people.tsv:661` |
 | まるちんげーる | マルチンゲール | `07-probability-statistics.tsv:36` |
-| まんふぉーど | マンフォード | `21-people.tsv:106` |
-| みるなー | ミルナー | `21-people.tsv:108` |
-| みんこふすきー | ミンコフスキー | `21-people.tsv:110` |
+| まんふぉーど | マンフォード | `21-people.tsv:663` |
+| みるざはに | ミルザハニ | `21-people.tsv:677` |
+| みるなー | ミルナー | `21-people.tsv:679` |
+| みるまん | ミルマン | `21-people.tsv:681` |
+| みんこふすきー | ミンコフスキー | `21-people.tsv:685` |
+| むーあ | ムーア | `21-people.tsv:689` |
+| めいえ | メイエ | `21-people.tsv:691` |
+| めいざー | メイザー | `21-people.tsv:693` |
+| めいなーど | メイナード | `21-people.tsv:695` |
+| めねらうす | メネラウス | `21-people.tsv:697` |
+| めびうす | メビウス | `21-people.tsv:700` |
+| めるせんぬ | メルセンヌ | `21-people.tsv:702` |
+| めんがー | メンガー | `21-people.tsv:704` |
+| もあぶる | モアブル | `21-people.tsv:706` |
 | もなど | モナド | `08-category-theory.tsv:40` |
-| やこび | ヤコビ | `21-people.tsv:112` |
+| もるがん | モルガン | `21-people.tsv:716` |
+| もれら | モレラ | `21-people.tsv:718` |
+| もんじゅ | モンジュ | `21-people.tsv:720` |
+| もーでる | モーデル | `21-people.tsv:722` |
+| やう | ヤウ | `21-people.tsv:724` |
+| やこび | ヤコビ | `21-people.tsv:726` |
 | やこびあん | ヤコビアン | `02-analysis.tsv:69` |
-| らぐらんじゅ | ラグランジュ | `21-people.tsv:116` |
+| やこぶそん | ヤコブソン | `21-people.tsv:728` |
+| やんぐ | ヤング | `21-people.tsv:730` |
+| らいぷにっつ | ライプニッツ | `21-people.tsv:736` |
+| らお | ラオ | `21-people.tsv:738` |
+| らぐらんじゅ | ラグランジュ | `21-people.tsv:740` |
+| らっくす | ラックス | `21-people.tsv:742` |
+| らっせる | ラッセル | `21-people.tsv:744` |
+| らどん | ラドン | `21-people.tsv:746` |
+| らふぉるぐ | ラフォルグ | `21-people.tsv:748` |
 | らぷらしあん | ラプラシアン | `02-analysis.tsv:73` |
-| らまぬじゃん | ラマヌジャン | `21-people.tsv:118` |
-| らんだう | ランダウ | `21-people.tsv:120` |
-| りぷしっつ | リプシッツ | `21-people.tsv:122` |
-| りー | リー | `21-people.tsv:124` |
-| りーす | リース | `21-people.tsv:126` |
-| りーまん | リーマン | `21-people.tsv:128` |
-| るじゃんどる | ルジャンドル | `21-people.tsv:130` |
-| るべーぐ | ルベーグ | `21-people.tsv:132` |
+| らぷらす | ラプラス | `21-people.tsv:750` |
+| らまぬじゃん | ラマヌジャン | `21-people.tsv:752` |
+| らむぜー | ラムゼー | `21-people.tsv:754` |
+| らんぐらんず | ラングランズ | `21-people.tsv:756` |
+| らんだう | ランダウ | `21-people.tsv:758` |
+| りちゃーどそん | リチャードソン | `21-people.tsv:762` |
+| りとるうっど | リトルウッド | `21-people.tsv:764` |
+| りのう | リノウ | `21-people.tsv:766` |
+| りぷしっつ | リプシッツ | `21-people.tsv:768` |
+| りんでまん | リンデマン | `21-people.tsv:770` |
+| りんでんしゅとらうす | リンデンシュトラウス | `21-people.tsv:772` |
+| りー | リー | `21-people.tsv:774` |
+| りーす | リース | `21-people.tsv:776` |
+| りーまん | リーマン | `21-people.tsv:778` |
+| るじゃんどる | ルジャンドル | `21-people.tsv:780` |
+| るじん | ルジン | `21-people.tsv:782` |
+| るべーぐ | ルベーグ | `21-people.tsv:784` |
+| るーしぇ | ルーシェ | `21-people.tsv:787` |
 | れぞるべんと | レゾルベント | `11-functional-analysis.tsv:37` |
-| れふしぇっつ | レフシェッツ | `21-people.tsv:134` |
-| ろぴたる | ロピタル | `21-people.tsv:137` |
-| わいえるしゅとらす | ワイエルシュトラス | `21-people.tsv:139` |
-| わいる | ワイル | `21-people.tsv:141` |
+| れふしぇっつ | レフシェッツ | `21-people.tsv:792` |
+| れらい | レライ | `21-people.tsv:794` |
+| ろばちぇふすきー | ロバチェフスキー | `21-people.tsv:799` |
+| ろぴたる | ロピタル | `21-people.tsv:805` |
+| ろる | ロル | `21-people.tsv:807` |
+| わいえるしゅとらす | ワイエルシュトラス | `21-people.tsv:811` |
+| わいる | ワイル | `21-people.tsv:813` |
+| わいるず | ワイルズ | `21-people.tsv:815` |
 
 </details>
