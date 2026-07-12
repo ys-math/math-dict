@@ -1,0 +1,49 @@
+# 幾何学 / Geometry
+# reading	word	pos	flags
+あふぃんくうかん	アフィン空間	noun
+あふぃんへんかん	アフィン変換	noun
+えん	円	noun	common
+えんすいきょくせん	円錐曲線	noun
+かくど	角度	noun
+がいしん	外心	noun
+がいせつえん	外接円	noun
+きか	幾何	noun
+きかがく	幾何学	noun
+きゅうめん	球面	noun
+きょくせん	曲線	noun
+きょくめん	曲面	noun
+くらいんのつぼ	クラインの壺	noun
+ごうどう	合同	noun-adj
+ごうどうへんかん	合同変換	noun
+さんへいほうのていり	三平方の定理	noun
+しゃえいきか	射影幾何	noun
+しゃえいくうかん	射影空間	noun
+しゃえいへいめん	射影平面	noun
+しゅうちょう	周長	noun
+じゅうしん	重心	noun
+すいしん	垂心	noun
+すいせん	垂線	noun
+すいちょくにとうぶんせん	垂直二等分線	noun
+せいたへんけい	正多角形	noun
+せいためんたい	正多面体	noun
+そうきょくきか	双曲幾何	noun
+そうきょくせん	双曲線	noun
+そうじ	相似	noun-adj
+たいしょうせい	対称性	noun
+たいせき	体積	noun
+たへんけい	多角形	noun
+ためんたい	多面体	noun
+だえん	楕円	noun
+ちゅうせん	中線	noun
+ちょうてん	頂点	noun
+とうきょへんかん	等距離変換	noun
+とーらす	トーラス	noun
+ないしん	内心	noun
+ないせつえん	内接円	noun
+ひゆーくりっどきか	非ユークリッド幾何	noun
+ぴたごらすのていり	ピタゴラスの定理	noun
+へん	辺	noun	common
+ほうぶつせん	放物線	noun
+めびうすのおび	メビウスの帯	noun
+めんせき	面積	noun
+ゆーくりっどきか	ユークリッド幾何	noun

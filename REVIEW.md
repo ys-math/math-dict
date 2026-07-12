@@ -7,7 +7,7 @@ but each is worth a human glance.
 ordinary Japanese word, so this entry will crowd the candidate list when you write
 normal prose. They are kept per the completeness decision; delete any that annoy you.
 
-**61 flagged / 623 entries**
+**67 flagged / 798 entries**
 
 | reading | word | source | why |
 |---|---|---|---|
@@ -15,14 +15,18 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | いこーる | = | `20-symbols.tsv:5` | collides with everyday Japanese |
 | うぇいゆ | ヴェイユ | `21-people.tsv:8` | ヴ — check the reading you'd type |
 | えぬ | ℕ | `20-symbols.tsv:24` | collides with everyday Japanese |
+| えん | 円 | `06-geometry.tsv:5` | collides with everyday Japanese |
 | えんちょう | 延長 | `00-logic-set.tsv:3` | collides with everyday Japanese |
 | かい | χ | `20-symbols.tsv:47` | collides with everyday Japanese |
 | かく | Ker | `20-symbols.tsv:104` | collides with everyday Japanese |
 | かく | 核 | `00-logic-set.tsv:4` | collides with everyday Japanese |
 | かける | × | `20-symbols.tsv:76` | collides with everyday Japanese |
 | かん | 環 | `04-algebra.tsv:14` | collides with everyday Japanese |
+| きか | 幾何 | `06-geometry.tsv:10` | collides with everyday Japanese |
 | きゅー | ℚ | `20-symbols.tsv:20` | collides with everyday Japanese |
 | きょうかい | 境界 | `03-topology.tsv:14` | collides with everyday Japanese |
+| きょく | 極 | `14-complex-analysis.tsv:7` | collides with everyday Japanese |
+| きょぶ | 虚部 | `14-complex-analysis.tsv:10` | collides with everyday Japanese |
 | きょり | 距離 | `03-topology.tsv:16` | collides with everyday Japanese |
 | ぐん | 群 | `04-algebra.tsv:20` | collides with everyday Japanese |
 | けい | 系 | `00-logic-set.tsv:10` | collides with everyday Japanese |
@@ -35,6 +39,7 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | しすう | 指数 | `10-arithmetic.tsv:11` | collides with everyday Japanese |
 | しゃ | 射 | `08-category-theory.tsv:13` | collides with everyday Japanese |
 | しゅばるつ | シュヴァルツ | `21-people.tsv:23` | ヴ — check the reading you'd type |
+| しゅばるつちょうかんすう | シュワルツ超関数 | `11-functional-analysis.tsv:9` | reading unverified |
 | しょうなり | < | `20-symbols.tsv:32` | collides with everyday Japanese |
 | しー | ℂ | `20-symbols.tsv:23` | collides with everyday Japanese |
 | じゅんじょ | 順序 | `00-logic-set.tsv:47` | collides with everyday Japanese |
@@ -62,6 +67,7 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | ふぁい | φ | `20-symbols.tsv:39` | collides with everyday Japanese |
 | ぶんかつ | 分割 | `00-logic-set.tsv:38` | collides with everyday Japanese |
 | ぶんさん | 分散 | `07-probability-statistics.tsv:32` | collides with everyday Japanese |
+| へん | 辺 | `06-geometry.tsv:45` | collides with everyday Japanese |
 | べき | 冪 | `10-arithmetic.tsv:22` | collides with everyday Japanese |
 | ほう | 法 | `05-number-theory.tsv:33` | collides with everyday Japanese |
 | ほむ | Hom | `20-symbols.tsv:105` | collides with everyday Japanese |
