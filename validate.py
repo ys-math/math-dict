@@ -95,6 +95,13 @@ def main() -> int:
         else:
             seen[key] = where
 
+        # The IME transliterates any kana input to katakana by itself, so an entry whose
+        # word is exactly its own reading in katakana can never fire — it is merged into
+        # the katakana candidate the IME was going to offer anyway. Harmless, but inert.
+        if word and all(c in KATAKANA for c in word) and reading == "".join(
+                chr(ord(c) - 0x60) if "ァ" <= c <= "ヶ" else c for c in word):
+            warnings.append((reading, word, where, "IMEが自前で変換できる（この項目は働かない）"))
+
         if "common" in flags or morae(reading) <= 2:
             warnings.append((reading, word, where, "collides with everyday Japanese"))
         if "low-confidence" in flags:
