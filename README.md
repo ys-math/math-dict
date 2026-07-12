@@ -1,102 +1,112 @@
 # math-dict
 
-日本語IME用の数学用語辞書です。
+A Japanese IME dictionary of mathematical terminology.
 
-日本語IMEは日常語の変換には強いものの、数学用語は苦手です。準同型写像や冪零元は変換できず、
-⊗ やグロタンディークに至っては候補にも挙がりません。この辞書はそこを補うもので、
-**Google 日本語入力 / Mozc、macOS 日本語入力、Microsoft IME、ATOK** の4形式で配布しています。
+[日本語版 README](README.ja.md)
 
-## インストール
+Japanese IMEs handle everyday language well but struggle with mathematics. They won't convert
+準同型写像 or 冪零元, and ⊗ and グロタンディーク don't come up at all. This dictionary fills that
+gap. It's distributed in four formats: **Google 日本語入力 / Mozc, macOS 日本語入力,
+Microsoft IME, and ATOK**.
 
-[`dist/`](dist/) からお使いのIME用のファイルをダウンロードしてください。クローンやビルドは
-不要です。
+## Installing
 
-| IME | ファイル | 取り込み方法 |
+Download the file for your IME from [`dist/`](dist/). No cloning or building required.
+
+| IME | File | How to import |
 |---|---|---|
 | **Google 日本語入力 / Mozc** | [`dist/google/math_dict_ja.txt`](dist/google/math_dict_ja.txt) | 辞書ツール → 管理 → 新規辞書にインポート |
-| **macOS 日本語入力** | [`dist/macos/math_dict_ja.plist`](dist/macos/math_dict_ja.plist) | システム設定 → キーボード → ユーザ辞書 にドラッグ＆ドロップ |
+| **macOS 日本語入力** | [`dist/macos/math_dict_ja.plist`](dist/macos/math_dict_ja.plist) | Drag and drop into システム設定 → キーボード → ユーザ辞書 |
 | **Microsoft IME** | [`dist/msime/math_dict_ja.txt`](dist/msime/math_dict_ja.txt) | 単語の登録 → ユーザー辞書ツール → ツール → テキストファイルからの登録 |
 | **ATOK** | [`dist/atok/math_dict_ja.txt`](dist/atok/math_dict_ja.txt) | 辞書ユーティリティ → ツール → ファイルから登録・削除 |
 
-収録語数は **1,074語** です。23分野（論理・集合、代数、位相、解析、圏論、可換環論、代数幾何ほか）
-のほか、数学記号97語、数学者名68名、ラテン文字表記24語を含みます。数学者名は
-`がろあ → ガロア / Galois` のように、カタカナとラテン文字の両方が候補に出ます。
+The dictionary contains **1,074 entries** spanning 23 fields (logic and set theory, algebra,
+topology, analysis, category theory, commutative algebra, algebraic geometry, and others), plus
+97 mathematical symbols, 68 mathematicians, and 24 Latin-script terms. Mathematicians are
+registered under both spellings, so `がろあ` offers ガロア and Galois alike.
 
-### 動作確認の状況
+### What has actually been tested
 
-現時点で、実際のIMEに取り込んで動作を確認できているのは Google 日本語入力のみです。他の3形式に
-ついては、文字コード・BOM・改行コード・品詞名・plistの構造といった形式面の検査しか行っていません。
-取り込みに失敗する場合はバグですので、Issue を立てていただけると助かります。
+So far, only the Google 日本語入力 build has been imported into a real IME and confirmed to work.
+The other three have been checked for structural correctness — encoding, BOM, line endings,
+part-of-speech names, plist structure — and nothing more. If one of them fails to import, that's
+a bug, and an issue would be welcome.
 
-## 収録の方針
+## What goes in
 
-登録してあるのは **正しい読み** であり、略語ではありません。「数学的帰納法」の読みは
-`すうがくてききのうほう` であって、`きのう` ではありません。短い読みで長い語を呼び出す方式は
-採用していません。日常語と衝突してしまい（`きのう` は「昨日」です）、普段の日本語入力を
-かえって使いにくくするためです。
+Entries use **the term's actual reading**, never an abbreviation. 数学的帰納法 is keyed
+`すうがくてききのうほう`, not `きのう`. Short triggers that expand into long terms are deliberately
+avoided: they collide with everyday vocabulary (`きのう` is 昨日) and make ordinary Japanese input
+worse.
 
-収録対象は、漢字熟語（準同型写像、極大イデアル）、記号（∀ ⊗ ℝ α）、サ変名詞、数学者名
-（ガロア、グロタンディーク）、ラテン文字表記の用語（well-defined、mod）です。
+The dictionary covers kanji compounds (準同型写像, 極大イデアル), symbols (∀ ⊗ ℝ α), サ変 nouns,
+mathematicians (ガロア, グロタンディーク), and Latin-script terms (well-defined, mod).
 
-## カタカナ語について
+## A note on katakana terms
 
-`こほもろじー` と入力して `コホモロジー` が出るのは、この辞書のおかげ **ではありません**。
-IMEにはもともと、かな入力をそのままカタカナに変換する機能があります。`こほもろじー` は
-`コホモロジー` へ一対一に転写できるため、**スペースキーで変換できます**。辞書側の項目は
-IMEが元から出すカタカナ候補と同じ文字列になるので、統合されて表に出てきません。
+If you type `こほもろじー` and get `コホモロジー`, that is **not** this dictionary at work. Japanese
+IMEs already convert kana input straight to katakana, and `こほもろじー` transliterates one-to-one
+into `コホモロジー` — so **pressing the space bar is all you need**. The dictionary entry produces
+exactly the same string the IME would have offered on its own, so it gets merged away and never
+surfaces.
 
-これに該当する語が **94語**（うち63語は数学者名のカタカナ表記）あります。実害はありませんが、
-実質的には機能していません。該当語は `REVIEW.md` に「IMEが自前で変換できる」として一覧して
-あります。
+**94 entries** fall into this category, 63 of them katakana spellings of mathematicians' names.
+They do no harm, but they do no work either. They are listed in `REVIEW.md` under
+「IMEが自前で変換できる」.
 
-辞書が実際に役に立つのは、IMEが自力では変換できない語です。準同型写像、冪零元、極大イデアルの
-ような漢字熟語のほか、`コホモロジー群`（カタカナと漢字の組み合わせなので単純な転写にならない）、
-`層コホモロジー`、数学者名のラテン文字表記（Galois、Grothendieck）などが該当します。残りの
-980語がこれにあたります。
+Where the dictionary genuinely helps is with terms the IME cannot produce by itself: kanji
+compounds like 準同型写像, 冪零元, and 極大イデアル, but also `コホモロジー群` (a katakana–kanji
+mix, so not a straight transliteration), `層コホモロジー`, and Latin spellings such as Galois and
+Grothendieck. That accounts for the remaining 980 entries.
 
-## 語を追加するには
+## Adding a term
 
-[`terms/`](terms/) の該当ファイルを編集してください。ここが唯一の原本で、`dist/` 以下は
-すべて生成物です。
+Edit the appropriate file under [`terms/`](terms/). That is the single source of truth; everything
+under `dist/` is generated.
 
 ```
-読み <TAB> 単語 <TAB> 品詞 <TAB> フラグ（任意）
+reading <TAB> word <TAB> part-of-speech <TAB> flags (optional)
 じゅんどうけい	準同型	noun
 ```
 
-品詞にはIMEに依存しない値を使います（`noun`、`noun-suru`（する接続）、`noun-adj`（な接続）、
-`person`、`symbol`、`latin`）。各IMEの品詞体系への変換はビルド側で行います。分野はファイル名から
-決まるため、行ごとに書く必要はありません。フラグは任意で、カンマ区切りで `common`（読みが日常語と
-衝突する）と `low-confidence`（読みに確認が必要）を指定できます。
+Parts of speech are IME-independent — `noun`, `noun-suru` (takes する), `noun-adj` (takes な),
+`person`, `symbol`, `latin` — and the build maps them onto each IME's own scheme. The field is
+determined by the filename, so there's no need to repeat it per line. Flags are optional and
+comma-separated: `common` (the reading collides with an everyday word) and `low-confidence` (the
+reading needs checking).
 
-編集したら、次を実行してください。
+After editing, run:
 
 ```sh
-python3 validate.py   # 形式の検査と REVIEW.md の再生成
-python3 build.py      # terms/ から dist/ を生成
+python3 validate.py   # checks the format, regenerates REVIEW.md
+python3 build.py      # generates dist/ from terms/
 ```
 
-どちらもCIで実行されます。加えてCIでは、コミットされている `dist/` が `terms/` から生成される
-内容と一致するかどうかも検査しています。生成物の更新漏れは、辞書を取り込んでも新しい語が入って
-いないという形でしか表面化せず、気づくのが遅れるためです。
+Both run in CI. CI additionally checks that the committed `dist/` matches what `terms/` actually
+builds to, because a stale build artifact only reveals itself when someone imports the dictionary
+and finds the new terms missing — by which point it has gone unnoticed for a while.
 
-`validate.py` は「読みのモーラ数は単語の漢字数以上」という規則で略語を弾きます。ただしこれは
-下限を見ているにすぎません。`きのう→数学的帰納法`（3モーラ / 6漢字）は検出できますが、
-`こゆう→固有値`（3モーラ / 3漢字）は通過してしまいます。CIが通ったことよりも、差分そのものを
-確認してください。
+`validate.py` rejects abbreviations using the rule that a reading must have at least as many morae
+as the word has kanji. This is only a lower bound. It catches `きのう→数学的帰納法` (3 morae, 6
+kanji) but lets `こゆう→固有値` (3 morae, 3 kanji) through. Read the diff rather than trusting a
+green CI run.
 
-日常語と衝突しやすい語や、読みが未確認の語は [REVIEW.md](REVIEW.md) にまとめてあります。
+Terms whose readings collide with everyday words, and terms whose readings are unverified, are
+collected in [REVIEW.md](REVIEW.md).
 
-## 注意
+## Caveat
 
-この辞書の語は言語モデルが原案を作成し、機械的な検査を通したものです。検査で検出できるのは
-形式的な誤り（不正な仮名、重複、カタカナ語と読みの不一致など）に限られ、実際にそれらは多数
-検出されました。しかし、**形式は正しいが実在しない語**は検査では検出できません。
+The entries in this dictionary were drafted by a language model and then checked mechanically. The
+checks catch formal errors — invalid kana, duplicates, katakana words whose reading doesn't match —
+and they caught a good number of them. What the checks cannot catch is a **term that is
+well-formed but does not exist**.
 
-読みが誤っている場合、その項目が変換候補に出てこないだけなので実害はありません。しかし
-**実在しない語は問題なく変換され、そのまま文章に紛れ込みます。** こちらのほうが厄介です。
-おかしな語を見つけた場合はバグですので、Issue を立てるか、該当行を削除してください。
+A wrong reading is harmless: the entry simply never appears as a conversion candidate. But a
+**fabricated term converts perfectly well and slips straight into your writing**, which is the
+more troublesome failure. If you come across a term that looks wrong, it's a bug — please open an
+issue, or just delete the line.
 
-## ライセンス
+## License
 
-[CC0 1.0](LICENSE)（パブリックドメイン）。用語とその読みの一覧にすぎないため、権利は主張しません。
+[CC0 1.0](LICENSE), public domain. It is a list of terms and their readings; there is no claim
+worth making over it.
