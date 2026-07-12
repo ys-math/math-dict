@@ -1,35 +1,46 @@
 # 論理・集合論 / Logic and set theory
 # reading	word	pos	flags
 えんちょう	延長	noun-suru	common
-かく	核	noun	common
 かかん	可換	noun-adj
 かかんずしき	可換図式	noun
+かく	核	noun	common
 かさん	可算	noun-adj
+かんとーるのたいかくせんろんぽう	カントールの対角線論法	noun
+かんとーるのていり	カントールの定理	noun
 きょうつうぶぶん	共通部分	noun
+ぎゃくしゃぞう	逆写像	noun
+ぎゃくぞう	逆像	noun
 くうしゅうごう	空集合	noun
 けい	系	noun	common
-ごうせいしゃぞう	合成写像	noun
 こうとうしゃぞう	恒等写像	noun
 こうり	公理	noun
+ごうせいしゃぞう	合成写像	noun
 しゃぞう	写像	noun
 しゅうごう	集合	noun-suru
+しゅれーだーべるんしゅたいんのていり	シュレーダー・ベルンシュタインの定理	noun
 しょうしゅうごう	商集合	noun
 しょうめい	証明	noun-suru
+じゅんじょ	順序	noun	common
+じゅんじょすう	順序数	noun
 すうがくてききのうほう	数学的帰納法	noun
 せいげん	制限	noun-suru	common
 せんたくこうり	選択公理	noun
+ぜんしゃ	全射	noun
+ぜんたんしゃ	全単射	noun
 ぞう	像	noun	common
 ぞく	族	noun	common
 たいぐう	対偶	noun
-だいひょうげん	代表元	noun
 たんしゃ	単射	noun
+だいひょうげん	代表元	noun
 ちょくせき	直積	noun
+つぉるんのほだい	ツォルンの補題	noun
 ていぎ	定義	noun-suru
 ていち	定値	noun
 ていり	定理	noun
 どうち	同値	noun
 どうちかんけい	同値関係	noun
 どうちるい	同値類	noun
+どもるがんのほうそく	ド・モルガンの法則	noun
 のうど	濃度	noun	common
 はいりほう	背理法	noun
 ひかさん	非可算	noun-adj
@@ -39,14 +50,7 @@
 べきしゅうごう	冪集合	noun
 ほしゅうごう	補集合	noun
 ほだい	補題	noun
-めいだい	命題	noun
 むじゅん	矛盾	noun-suru
-わしゅうごう	和集合	noun
-ぎゃくぞう	逆像	noun
-ぎゃくしゃぞう	逆写像	noun
-じゅんじょ	順序	noun	common
-じゅんじょすう	順序数	noun
-ぜんしゃ	全射	noun
-ぜんたんしゃ	全単射	noun
-つぉるんのほだい	ツォルンの補題	noun
+めいだい	命題	noun
 れんぞくたい	連続体	noun
+わしゅうごう	和集合	noun

@@ -4,6 +4,18 @@
 <array>
 	<dict>
 		<key>phrase</key>
+		<string>アイレンベルグ・スティーンロッドの公理</string>
+		<key>shortcut</key>
+		<string>あいれんべるぐすてぃーんろっどのこうり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アイレンベルグ・マクレーン空間</string>
+		<key>shortcut</key>
+		<string>あいれんべるぐまくれーんくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>Ext関手</string>
 		<key>shortcut</key>
 		<string>えくすとかんしゅ</string>
@@ -16,9 +28,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ガロアコホモロジー</string>
+		<key>shortcut</key>
+		<string>がろあこほもろじー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>キュネスの定理</string>
+		<key>shortcut</key>
+		<string>きゅねすのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>境界写像</string>
 		<key>shortcut</key>
 		<string>きょうかいしゃぞう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>グロタンディークのスペクトル系列</string>
+		<key>shortcut</key>
+		<string>ぐろたんでぃーくのすぺくとるけいれつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -64,9 +94,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>セールのスペクトル系列</string>
+		<key>shortcut</key>
+		<string>せーるのすぺくとるけいれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>単体ホモロジー</string>
 		<key>shortcut</key>
 		<string>たんたいほもろじー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チェックコホモロジー</string>
+		<key>shortcut</key>
+		<string>ちぇっくこほもろじー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -91,6 +133,12 @@
 		<string>導来圏</string>
 		<key>shortcut</key>
 		<string>どうらいけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ド・ラームの定理</string>
+		<key>shortcut</key>
+		<string>どらーむのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -124,9 +172,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ホッホシルトコホモロジー</string>
+		<key>shortcut</key>
+		<string>ほっほしるとこほもろじー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ホモロジー群</string>
 		<key>shortcut</key>
 		<string>ほもろじーぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ポアンカレ双対性</string>
+		<key>shortcut</key>
+		<string>ぽあんかれそうついせい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -139,6 +199,12 @@
 		<string>余鎖複体</string>
 		<key>shortcut</key>
 		<string>よさふくたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>レライのスペクトル系列</string>
+		<key>shortcut</key>
+		<string>れらいのすぺくとるけいれつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -286,6 +352,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>アルティン・シュライアー拡大</string>
+		<key>shortcut</key>
+		<string>あるてぃんしゅらいあーかくだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>アーベル群</string>
 		<key>shortcut</key>
 		<string>あーべるぐん</string>
@@ -388,6 +460,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>クルル・シュミットの定理</string>
+		<key>shortcut</key>
+		<string>くるるしゅみっとのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>群</string>
 		<key>shortcut</key>
 		<string>ぐん</string>
@@ -403,6 +481,12 @@
 		<string>結合法則</string>
 		<key>shortcut</key>
 		<string>けつごうほうそく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ケーリーの定理</string>
+		<key>shortcut</key>
+		<string>けーりーのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -430,9 +514,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>シュヴァレー基底</string>
+		<key>shortcut</key>
+		<string>しゅばれーきてい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シュヴァレー群</string>
+		<key>shortcut</key>
+		<string>しゅばれーぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>商体</string>
 		<key>shortcut</key>
 		<string>しょうたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シローの定理</string>
+		<key>shortcut</key>
+		<string>しろーのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -481,6 +583,12 @@
 		<string>剰余群</string>
 		<key>shortcut</key>
 		<string>じょうよぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ジョルダン・ヘルダーの定理</string>
+		<key>shortcut</key>
+		<string>じょるだんへるだーのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -640,15 +748,39 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ハッセの原理</string>
+		<key>shortcut</key>
+		<string>はっせのげんり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>標数</string>
 		<key>shortcut</key>
 		<string>ひょうすう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヴィット環</string>
+		<key>shortcut</key>
+		<string>びっとかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>不変部分群</string>
 		<key>shortcut</key>
 		<string>ふへんぶぶんぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>フロベニウス自己同型</string>
+		<key>shortcut</key>
+		<string>ふろべにうすじこどうけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ブラウアー群</string>
+		<key>shortcut</key>
+		<string>ぶらうあーぐん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -694,6 +826,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ラグランジュの定理</string>
+		<key>shortcut</key>
+		<string>らぐらんじゅのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>類数</string>
 		<key>shortcut</key>
 		<string>るいすう</string>
@@ -718,6 +856,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>アーベル多様体</string>
+		<key>shortcut</key>
+		<string>あーべるたようたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>因子</string>
 		<key>shortcut</key>
 		<string>いんし</string>
@@ -736,6 +880,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>カラビ・ヤウ多様体</string>
+		<key>shortcut</key>
+		<string>からびやうたようたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>概型</string>
 		<key>shortcut</key>
 		<string>がいけい</string>
@@ -748,15 +898,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>グロタンディーク・リーマン・ロッホの定理</string>
+		<key>shortcut</key>
+		<string>ぐろたんでぃーくりーまんろっほのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>構造層</string>
 		<key>shortcut</key>
 		<string>こうぞうそう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>小平消滅定理</string>
+		<key>shortcut</key>
+		<string>こだいらしょうめつていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>固有射</string>
 		<key>shortcut</key>
 		<string>こゆうしゃぞう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>志村多様体</string>
+		<key>shortcut</key>
+		<string>しむらたようたい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -793,6 +961,12 @@
 		<string>切断</string>
 		<key>shortcut</key>
 		<string>せつだん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>セール双対</string>
+		<key>shortcut</key>
+		<string>せーるそうつい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -838,9 +1012,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ネロン模型</string>
+		<key>shortcut</key>
+		<string>ねろんもけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>広中の特異点解消</string>
+		<key>shortcut</key>
+		<string>ひろなかのとくいてんかいしょう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ピカール群</string>
 		<key>shortcut</key>
 		<string>ぴかーるぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ファルティングスの定理</string>
+		<key>shortcut</key>
+		<string>ふぁるてぃんぐすのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -856,6 +1048,30 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ベズーの定理</string>
+		<key>shortcut</key>
+		<string>べずーのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ホッジ予想</string>
+		<key>shortcut</key>
+		<string>ほっじよそう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>モーデル・ヴェイユの定理</string>
+		<key>shortcut</key>
+		<string>もーでるべいゆのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヤコビ多様体</string>
+		<key>shortcut</key>
+		<string>やこびたようたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>有効因子</string>
 		<key>shortcut</key>
 		<string>ゆうこういんし</string>
@@ -865,6 +1081,12 @@
 		<string>リーマン・ロッホの定理</string>
 		<key>shortcut</key>
 		<string>りーまんろっほのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>レフシェッツの超平面定理</string>
+		<key>shortcut</key>
+		<string>れふしぇっつのちょうへいめんていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -895,6 +1117,12 @@
 		<string>一点コンパクト化</string>
 		<key>shortcut</key>
 		<string>いってんこんぱくとか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ウリゾーンの補題</string>
+		<key>shortcut</key>
+		<string>うりぞーんのほだい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -931,6 +1159,12 @@
 		<string>可分</string>
 		<key>shortcut</key>
 		<string>かぶん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カントール集合</string>
+		<key>shortcut</key>
+		<string>かんとーるしゅうごう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1000,6 +1234,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ザイフェルト・ファン・カンペンの定理</string>
+		<key>shortcut</key>
+		<string>ざいふぇるとふぁんかんぺんのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>集積点</string>
 		<key>shortcut</key>
 		<string>しゅうせきてん</string>
@@ -1009,6 +1249,12 @@
 		<string>商空間</string>
 		<key>shortcut</key>
 		<string>しょうくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ジョルダン曲線定理</string>
+		<key>shortcut</key>
+		<string>じょるだんきょくせんていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1057,6 +1303,12 @@
 		<string>第二可算</string>
 		<key>shortcut</key>
 		<string>だいにかさん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チコノフの定理</string>
+		<key>shortcut</key>
+		<string>ちこのふのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1120,6 +1372,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ブラウワーの不動点定理</string>
+		<key>shortcut</key>
+		<string>ぶらうわーのふどうてんていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>分離公理</string>
 		<key>shortcut</key>
 		<string>ぶんりこうり</string>
@@ -1147,6 +1405,12 @@
 		<string>閉包</string>
 		<key>shortcut</key>
 		<string>へいほう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ホップ・リノウの定理</string>
+		<key>shortcut</key>
+		<string>ほっぷりのうのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1186,6 +1450,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>アルティン・リースの補題</string>
+		<key>shortcut</key>
+		<string>あるてぃんりーすのほだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>環準同型</string>
 		<key>shortcut</key>
 		<string>かんじゅんどうけい</string>
@@ -1216,9 +1486,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>クルルの単項イデアル定理</string>
+		<key>shortcut</key>
+		<string>くるるのたんこういであるていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>根基</string>
 		<key>shortcut</key>
 		<string>こんき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コーエン・マコーレー環</string>
+		<key>shortcut</key>
+		<string>こーえんまこーれーかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ゴレンシュタイン環</string>
+		<key>shortcut</key>
+		<string>ごれんしゅたいんかん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1294,6 +1582,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>中山の補題</string>
+		<key>shortcut</key>
+		<string>なかやまのほだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>入射加群</string>
 		<key>shortcut</key>
 		<string>にゅうしゃかぐん</string>
@@ -1303,6 +1597,24 @@
 		<string>ネーター環</string>
 		<key>shortcut</key>
 		<string>ねーたーかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ネーターの正規化補題</string>
+		<key>shortcut</key>
+		<string>ねーたーのせいきかほだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヒルベルトの基底定理</string>
+		<key>shortcut</key>
+		<string>ひるべるとのきていていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヒルベルトの零点定理</string>
+		<key>shortcut</key>
+		<string>ひるべるとのれいてんていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1321,6 +1633,12 @@
 		<string>冪根基</string>
 		<key>shortcut</key>
 		<string>べきこんき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヤコブソン根基</string>
+		<key>shortcut</key>
+		<string>やこぶそんこんき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1393,6 +1711,18 @@
 		<string>共変関手</string>
 		<key>shortcut</key>
 		<string>きょうへんかんしゅ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>グロタンディーク位相</string>
+		<key>shortcut</key>
+		<string>ぐろたんでぃーくいそう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>グロタンディーク宇宙</string>
+		<key>shortcut</key>
+		<string>ぐろたんでぃーくうちゅう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1552,6 +1882,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>フロイドの随伴関手定理</string>
+		<key>shortcut</key>
+		<string>ふろいどのずいはんかんしゅていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ベックのモナド性定理</string>
+		<key>shortcut</key>
+		<string>べっくのもなどせいていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>忘却関手</string>
 		<key>shortcut</key>
 		<string>ぼうきゃくかんしゅ</string>
@@ -1594,6 +1936,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ローヴェア理論</string>
+		<key>shortcut</key>
+		<string>ろーべありろん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>アフィン空間</string>
 		<key>shortcut</key>
 		<string>あふぃんくうかん</string>
@@ -1615,6 +1963,12 @@
 		<string>円錐曲線</string>
 		<key>shortcut</key>
 		<string>えんすいきょくせん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>オイラー線</string>
+		<key>shortcut</key>
+		<string>おいらーせん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1798,6 +2152,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>チェバの定理</string>
+		<key>shortcut</key>
+		<string>ちぇばのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>中線</string>
 		<key>shortcut</key>
 		<string>ちゅうせん</string>
@@ -1807,6 +2167,12 @@
 		<string>頂点</string>
 		<key>shortcut</key>
 		<string>ちょうてん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>デザルグの定理</string>
+		<key>shortcut</key>
+		<string>でざるぐのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1822,6 +2188,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ドロネー三角形分割</string>
+		<key>shortcut</key>
+		<string>どろねーさんかくけいぶんかつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>内心</string>
 		<key>shortcut</key>
 		<string>ないしん</string>
@@ -1831,6 +2203,18 @@
 		<string>内接円</string>
 		<key>shortcut</key>
 		<string>ないせつえん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パスカルの定理</string>
+		<key>shortcut</key>
+		<string>ぱすかるのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パップスの定理</string>
+		<key>shortcut</key>
+		<string>ぱっぷすのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1846,6 +2230,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヘロンの公式</string>
+		<key>shortcut</key>
+		<string>へろんのこうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>辺</string>
 		<key>shortcut</key>
 		<string>へん</string>
@@ -1855,6 +2245,18 @@
 		<string>放物線</string>
 		<key>shortcut</key>
 		<string>ほうぶつせん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ボロノイ図</string>
+		<key>shortcut</key>
+		<string>ぼろのいず</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>メネラウスの定理</string>
+		<key>shortcut</key>
+		<string>めねらうすのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1876,15 +2278,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>アインシュタイン計量</string>
+		<key>shortcut</key>
+		<string>あいんしゅたいんけいりょう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>埋め込み</string>
 		<key>shortcut</key>
 		<string>うめこみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>オイラー類</string>
+		<key>shortcut</key>
+		<string>おいらーるい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>可微分多様体</string>
 		<key>shortcut</key>
 		<string>かびぶんたようたい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カルタンの構造方程式</string>
+		<key>shortcut</key>
+		<string>かるたんのこうぞうほうていしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1906,6 +2326,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ガウス・ボンネの定理</string>
+		<key>shortcut</key>
+		<string>がうすぼんねのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>共変微分</string>
 		<key>shortcut</key>
 		<string>きょうへんびぶん</string>
@@ -1918,9 +2344,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>キリングベクトル場</string>
+		<key>shortcut</key>
+		<string>きりんぐべくとるば</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>楔積</string>
 		<key>shortcut</key>
 		<string>くさびせき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>クリストッフェル記号</string>
+		<key>shortcut</key>
+		<string>くりすとっふぇるきごう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1933,6 +2371,12 @@
 		<string>沈め込み</string>
 		<key>shortcut</key>
 		<string>しずめこみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シュティーフェル・ホイットニー類</string>
+		<key>shortcut</key>
+		<string>しゅてぃーふぇるほいっとにーるい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1996,9 +2440,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>チャーン類</string>
+		<key>shortcut</key>
+		<string>ちゃーんるい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ド・ラームコホモロジー</string>
 		<key>shortcut</key>
 		<string>どらむこほもろじー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ビアンキ恒等式</string>
+		<key>shortcut</key>
+		<string>びあんきこうとうしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2020,6 +2476,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>フロベニウスの定理</string>
+		<key>shortcut</key>
+		<string>ふろべにうすのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>平均曲率</string>
 		<key>shortcut</key>
 		<string>へいきんきょくりつ</string>
@@ -2032,9 +2494,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ホッジ分解</string>
+		<key>shortcut</key>
+		<string>ほっじぶんかい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ホッジ星作用素</string>
+		<key>shortcut</key>
+		<string>ほっじほしさようそ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ホモロジー</string>
 		<key>shortcut</key>
 		<string>ほもろじー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ポントリャーギン類</string>
+		<key>shortcut</key>
+		<string>ぽんとりゃーぎんるい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヤコビ場</string>
+		<key>shortcut</key>
+		<string>やこびば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2047,6 +2533,12 @@
 		<string>リッチ曲率</string>
 		<key>shortcut</key>
 		<string>りっちきょくりつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>リッチフロー</string>
+		<key>shortcut</key>
+		<string>りっちふろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2077,6 +2569,12 @@
 		<string>リーマン曲率</string>
 		<key>shortcut</key>
 		<string>りーまんきょくりつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>リーマン曲率テンソル</string>
+		<key>shortcut</key>
+		<string>りーまんきょくりつてんそる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -7588,6 +8086,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>カリー・ハワード対応</string>
+		<key>shortcut</key>
+		<string>かりーはわーどたいおう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>完全性</string>
 		<key>shortcut</key>
 		<string>かんぜんせい</string>
@@ -7624,6 +8128,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>クリーネの再帰定理</string>
+		<key>shortcut</key>
+		<string>くりーねのさいきていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>計算可能性</string>
 		<key>shortcut</key>
 		<string>けいさんかのうせい</string>
@@ -7648,6 +8158,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ゲーデルの完全性定理</string>
+		<key>shortcut</key>
+		<string>げーでるのかんぜんせいていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ゲーデルの不完全性定理</string>
 		<key>shortcut</key>
 		<string>げーでるのふかんぜんせいていり</string>
@@ -7669,6 +8185,18 @@
 		<string>公理的集合論</string>
 		<key>shortcut</key>
 		<string>こうりてきしゅうごうろん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コンパクト性定理</string>
+		<key>shortcut</key>
+		<string>こんぱくとせいていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コーエンの強制法</string>
+		<key>shortcut</key>
+		<string>こーえんのきょうせいほう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -7750,6 +8278,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>タルスキの定理</string>
+		<key>shortcut</key>
+		<string>たるすきのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チャーチ・チューリングのテーゼ</string>
+		<key>shortcut</key>
+		<string>ちゃーちちゅーりんぐのてーぜ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>チューリングマシン</string>
 		<key>shortcut</key>
 		<string>ちゅーりんぐましん</string>
@@ -7804,6 +8344,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ペアノの公理</string>
+		<key>shortcut</key>
+		<string>ぺあののこうり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>無矛盾性</string>
 		<key>shortcut</key>
 		<string>むむじゅんせい</string>
@@ -7819,6 +8365,12 @@
 		<string>モデル理論</string>
 		<key>shortcut</key>
 		<string>もでるりろん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ラッセルのパラドックス</string>
+		<key>shortcut</key>
+		<string>らっせるのぱらどっくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -7840,6 +8392,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>レーヴェンハイム・スコーレムの定理</string>
+		<key>shortcut</key>
+		<string>れーべんはいむすこーれむのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>論理式</string>
 		<key>shortcut</key>
 		<string>ろんりしき</string>
@@ -7849,6 +8407,30 @@
 		<string>論理結合子</string>
 		<key>shortcut</key>
 		<string>ろんりせつぞくし</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アイゼンシュタイン級数</string>
+		<key>shortcut</key>
+		<string>あいぜんしゅたいんきゅうすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アイゼンシュタイン整数</string>
+		<key>shortcut</key>
+		<string>あいぜんしゅたいんせいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アイゼンシュタインの既約判定法</string>
+		<key>shortcut</key>
+		<string>あいぜんしゅたいんのきやくはんていほう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>岩澤理論</string>
+		<key>shortcut</key>
+		<string>いわさわりろん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -7900,6 +8482,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>クロネッカー・ウェーバーの定理</string>
+		<key>shortcut</key>
+		<string>くろねっかーうぇーばーのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>偶数</string>
 		<key>shortcut</key>
 		<string>ぐうすう</string>
@@ -7912,6 +8500,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ゴールドバッハ予想</string>
+		<key>shortcut</key>
+		<string>ごーるどばっはよそう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>最小公倍数</string>
 		<key>shortcut</key>
 		<string>さいしょうこうばいすう</string>
@@ -7921,6 +8515,12 @@
 		<string>最大公約数</string>
 		<key>shortcut</key>
 		<string>さいだいこうやくすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>佐藤・テイト予想</string>
+		<key>shortcut</key>
+		<string>さとうていとよそう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -7945,6 +8545,12 @@
 		<string>整数</string>
 		<key>shortcut</key>
 		<string>せいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>セルバーグの篩</string>
+		<key>shortcut</key>
+		<string>せるばーぐのふるい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -7984,6 +8590,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>谷山・志村予想</string>
+		<key>shortcut</key>
+		<string>たにやましむらよそう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>代数体</string>
 		<key>shortcut</key>
 		<string>だいすうたい</string>
@@ -7993,6 +8605,12 @@
 		<string>代数的整数</string>
 		<key>shortcut</key>
 		<string>だいすうてきせいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チェビシェフの定理</string>
+		<key>shortcut</key>
+		<string>ちぇびしぇふのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8008,9 +8626,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ディリクレ指標</string>
+		<key>shortcut</key>
+		<string>でぃりくれしひょう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ディリクレの算術級数定理</string>
+		<key>shortcut</key>
+		<string>でぃりくれのさんじゅつきゅうすうていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>倍数</string>
 		<key>shortcut</key>
 		<string>ばいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>フェルマーの最終定理</string>
+		<key>shortcut</key>
+		<string>ふぇるまーのさいしゅうていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8032,9 +8668,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヴェイユ予想</string>
+		<key>shortcut</key>
+		<string>べいゆよそう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ペル方程式</string>
+		<key>shortcut</key>
+		<string>ぺるほうていしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>法</string>
 		<key>shortcut</key>
 		<string>ほう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ミンコフスキーの定理</string>
+		<key>shortcut</key>
+		<string>みんこふすきーのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8044,9 +8698,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>メビウス関数</string>
+		<key>shortcut</key>
+		<string>めびうすかんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>メビウスの反転公式</string>
+		<key>shortcut</key>
+		<string>めびうすのはんてんこうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>メルセンヌ素数</string>
+		<key>shortcut</key>
+		<string>めるせんぬそすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>約数</string>
 		<key>shortcut</key>
 		<string>やくすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヤコビ記号</string>
+		<key>shortcut</key>
+		<string>やこびきごう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8062,6 +8740,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ラングランズ・プログラム</string>
+		<key>shortcut</key>
+		<string>らんぐらんずぷろぐらむ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>リーマンゼータ関数</string>
 		<key>shortcut</key>
 		<string>りーまんぜーたかんすう</string>
@@ -8074,9 +8758,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ルジャンドル記号</string>
+		<key>shortcut</key>
+		<string>るじゃんどるきごう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>連分数</string>
 		<key>shortcut</key>
 		<string>れんぶんすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>エゴロフの定理</string>
+		<key>shortcut</key>
+		<string>えごろふのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8107,6 +8803,12 @@
 		<string>加法性</string>
 		<key>shortcut</key>
 		<string>かほうせい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カラテオドリの拡張定理</string>
+		<key>shortcut</key>
+		<string>からておどりのかくちょうていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8158,9 +8860,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>トネリの定理</string>
+		<key>shortcut</key>
+		<string>とねりのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ハール測度</string>
 		<key>shortcut</key>
 		<string>はーるそくど</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ハーンの分解定理</string>
+		<key>shortcut</key>
+		<string>はーんのぶんかいていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヴィタリの被覆補題</string>
+		<key>shortcut</key>
+		<string>びたりのひふくほだい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8206,9 +8926,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>リース・マルコフ・角谷の定理</string>
+		<key>shortcut</key>
+		<string>りーすまるこふかくたにのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>リーマン積分</string>
 		<key>shortcut</key>
 		<string>りーまんせきぶん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ルジンの定理</string>
+		<key>shortcut</key>
+		<string>るじんのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8224,15 +8956,45 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ルベーグの微分定理</string>
+		<key>shortcut</key>
+		<string>るべーぐのびぶんていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>一様分布</string>
 		<key>shortcut</key>
 		<string>いちようぶんぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>伊藤積分</string>
+		<key>shortcut</key>
+		<string>いとうせきぶん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>伊藤の補題</string>
+		<key>shortcut</key>
+		<string>いとうのほだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ウィーナー過程</string>
+		<key>shortcut</key>
+		<string>うぃーなーかてい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>回帰分析</string>
 		<key>shortcut</key>
 		<string>かいきぶんせき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カイ二乗分布</string>
+		<key>shortcut</key>
+		<string>かいにじょうぶんぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8284,6 +9046,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ガウス分布</string>
+		<key>shortcut</key>
+		<string>がうすぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ガンマ分布</string>
+		<key>shortcut</key>
+		<string>がんまぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>幾何分布</string>
 		<key>shortcut</key>
 		<string>きかぶんぷ</string>
@@ -8299,6 +9073,24 @@
 		<string>共分散</string>
 		<key>shortcut</key>
 		<string>きょうぶんさん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>クラメール・ラオの不等式</string>
+		<key>shortcut</key>
+		<string>くらめーるらおのふとうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コルモゴロフの0-1法則</string>
+		<key>shortcut</key>
+		<string>こるもごろふのぜろいちほうそく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コーシー分布</string>
+		<key>shortcut</key>
+		<string>こーしーぶんぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8344,6 +9136,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>スチューデントのt分布</string>
+		<key>shortcut</key>
+		<string>すちゅーでんとのてぃーぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>正規分布</string>
 		<key>shortcut</key>
 		<string>せいきぶんぷ</string>
@@ -8359,6 +9157,18 @@
 		<string>大数の法則</string>
 		<key>shortcut</key>
 		<string>たいすうのほうそく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チェビシェフの不等式</string>
+		<key>shortcut</key>
+		<string>ちぇびしぇふのふとうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チャップマン・コルモゴロフの方程式</string>
+		<key>shortcut</key>
+		<string>ちゃっぷまんこるもごろふのほうていしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8380,6 +9190,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ネイマン・ピアソンの補題</string>
+		<key>shortcut</key>
+		<string>ねいまんぴあそんのほだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>標準偏差</string>
 		<key>shortcut</key>
 		<string>ひょうじゅんへんさ</string>
@@ -8389,6 +9205,12 @@
 		<string>標本</string>
 		<key>shortcut</key>
 		<string>ひょうほん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>フィッシャー情報量</string>
+		<key>shortcut</key>
+		<string>ふぃっしゃーじょうほうりょう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8410,9 +9232,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ベータ分布</string>
+		<key>shortcut</key>
+		<string>べーたぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ボレル・カンテリの補題</string>
+		<key>shortcut</key>
+		<string>ぼれるかんてりのほだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ポアソン分布</string>
 		<key>shortcut</key>
 		<string>ぽあそんぶんぷ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>マルコフの不等式</string>
+		<key>shortcut</key>
+		<string>まるこふのふとうしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8443,6 +9283,12 @@
 		<string>尤度</string>
 		<key>shortcut</key>
 		<string>ゆうど</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>レヴィ過程</string>
+		<key>shortcut</key>
+		<string>れびかてい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8632,6 +9478,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>クラトフスキーの定理</string>
+		<key>shortcut</key>
+		<string>くらとふすきーのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>グラフ</string>
 		<key>shortcut</key>
 		<string>ぐらふ</string>
@@ -8641,6 +9493,18 @@
 		<string>経路</string>
 		<key>shortcut</key>
 		<string>けいろ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ケーニヒの定理</string>
+		<key>shortcut</key>
+		<string>けーにひのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ケーリーの公式</string>
+		<key>shortcut</key>
+		<string>けーりーのこうしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8680,6 +9544,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>セメレディの定理</string>
+		<key>shortcut</key>
+		<string>せめれでぃのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>全域木</string>
 		<key>shortcut</key>
 		<string>ぜんいきき</string>
@@ -8695,6 +9565,24 @@
 		<string>頂点集合</string>
 		<key>shortcut</key>
 		<string>ちょうてんしゅうごう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ディラックの定理</string>
+		<key>shortcut</key>
+		<string>でぃらっくのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ディルワースの定理</string>
+		<key>shortcut</key>
+		<string>でぃるわーすのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>トゥラーンの定理</string>
+		<key>shortcut</key>
+		<string>とぅらーんのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8776,6 +9664,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ホールの定理</string>
+		<key>shortcut</key>
+		<string>ほーるのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>母関数</string>
 		<key>shortcut</key>
 		<string>ぼかんすう</string>
@@ -8794,6 +9688,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>メンガーの定理</string>
+		<key>shortcut</key>
+		<string>めんがーのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>有向グラフ</string>
 		<key>shortcut</key>
 		<string>ゆうこうぐらふ</string>
@@ -8803,6 +9703,18 @@
 		<string>四色定理</string>
 		<key>shortcut</key>
 		<string>よんしょくていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ラムゼー数</string>
+		<key>shortcut</key>
+		<string>らむぜーすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ラムゼーの定理</string>
+		<key>shortcut</key>
+		<string>らむぜーのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8896,9 +9808,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>クロネッカー積</string>
+		<key>shortcut</key>
+		<string>くろねっかーせき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>グラム行列</string>
+		<key>shortcut</key>
+		<string>ぐらむぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>グラム・シュミットの正規直交化</string>
+		<key>shortcut</key>
+		<string>ぐらむしゅみっとのせいきちょっこうか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>計量</string>
 		<key>shortcut</key>
 		<string>けいりょう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ケーリー・ハミルトンの定理</string>
+		<key>shortcut</key>
+		<string>けーりーはみるとんのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8941,6 +9877,18 @@
 		<string>射影</string>
 		<key>shortcut</key>
 		<string>しゃえい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シューア分解</string>
+		<key>shortcut</key>
+		<string>しゅーあぶんかい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シルベスターの慣性法則</string>
+		<key>shortcut</key>
+		<string>しるべすたーのかんせいほうそく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -9148,6 +10096,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>トープリッツ行列</string>
+		<key>shortcut</key>
+		<string>とーぷりっつぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>内積</string>
 		<key>shortcut</key>
 		<string>ないせき</string>
@@ -9172,6 +10126,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヴァンデルモンド行列</string>
+		<key>shortcut</key>
+		<string>ばんでるもんどぎょうれつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>冪零行列</string>
 		<key>shortcut</key>
 		<string>べきれいぎょうれつ</string>
@@ -9187,6 +10147,12 @@
 		<string>ベクトル空間</string>
 		<key>shortcut</key>
 		<string>べくとるくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ムーア・ペンローズ逆行列</string>
+		<key>shortcut</key>
+		<string>むーあぺんろーずぎゃくぎょうれつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -9250,6 +10216,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>キリング形式</string>
+		<key>shortcut</key>
+		<string>きりんぐけいしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>クレブシュ・ゴルダン係数</string>
+		<key>shortcut</key>
+		<string>くれぶしゅごるだんけいすう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>群の表現</string>
 		<key>shortcut</key>
 		<string>ぐんのひょうげん</string>
@@ -9292,6 +10270,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ジョルダン・シュヴァレー分解</string>
+		<key>shortcut</key>
+		<string>じょるだんしゅばれーぶんかい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>随伴表現</string>
 		<key>shortcut</key>
 		<string>ずいはんひょうげん</string>
@@ -9328,6 +10312,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヴァーマ加群</string>
+		<key>shortcut</key>
+		<string>ばーまかぐん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>表現</string>
 		<key>shortcut</key>
 		<string>ひょうげん</string>
@@ -9346,9 +10336,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>フロベニウスの相互律</string>
+		<key>shortcut</key>
+		<string>ふろべにうすのそうごりつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>フーリエ解析</string>
 		<key>shortcut</key>
 		<string>ふーりえかいせき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ボレル・ヴェイユの定理</string>
+		<key>shortcut</key>
+		<string>ぼれるべいゆのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -9358,15 +10360,45 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヤング図形</string>
+		<key>shortcut</key>
+		<string>やんぐずけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヤング盤</string>
+		<key>shortcut</key>
+		<string>やんぐばん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ユニタリ表現</string>
 		<key>shortcut</key>
 		<string>ゆにたりひょうげん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>リトルウッド・リチャードソン則</string>
+		<key>shortcut</key>
+		<string>りとるうっどりちゃーどそんそく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ルート系</string>
 		<key>shortcut</key>
 		<string>るーとけい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ワイルの指標公式</string>
+		<key>shortcut</key>
+		<string>わいるのしひょうこうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アダマールの三円定理</string>
+		<key>shortcut</key>
+		<string>あだまーるのさんえんていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -9385,6 +10417,12 @@
 		<string>解析接続</string>
 		<key>shortcut</key>
 		<string>かいせきせつぞく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カソラティ・ワイエルシュトラスの定理</string>
+		<key>shortcut</key>
+		<string>かそらてぃわいえるしゅとらすのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -9442,6 +10480,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>シュヴァルツ・クリストッフェル変換</string>
+		<key>shortcut</key>
+		<string>しゅばるつくりすとっふぇるへんかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シュヴァルツの補題</string>
+		<key>shortcut</key>
+		<string>しゅばるつのほだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>真性特異点</string>
 		<key>shortcut</key>
 		<string>しんせいとくいてん</string>
@@ -9484,6 +10534,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ピカールの定理</string>
+		<key>shortcut</key>
+		<string>ぴかーるのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>複素数</string>
 		<key>shortcut</key>
 		<string>ふくそすう</string>
@@ -9514,9 +10570,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ミッタク・レフラーの定理</string>
+		<key>shortcut</key>
+		<string>みったくれふらーのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>メビウス変換</string>
 		<key>shortcut</key>
 		<string>めびうすへんかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>モレラの定理</string>
+		<key>shortcut</key>
+		<string>もれらのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -9544,15 +10612,39 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>リーマンの写像定理</string>
+		<key>shortcut</key>
+		<string>りーまんのしゃぞうていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>リーマン面</string>
 		<key>shortcut</key>
 		<string>りーまんめん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ルーシェの定理</string>
+		<key>shortcut</key>
+		<string>るーしぇのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ローラン展開</string>
 		<key>shortcut</key>
 		<string>ろーらんてんかい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アスコリ・アルツェラの定理</string>
+		<key>shortcut</key>
+		<string>あすこりあるつぇらのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>イェンセンの不等式</string>
+		<key>shortcut</key>
+		<string>いぇんせんのふとうしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -9616,6 +10708,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ガウスの発散定理</string>
+		<key>shortcut</key>
+		<string>がうすのはっさんていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>級数</string>
 		<key>shortcut</key>
 		<string>きゅうすう</string>
@@ -9652,6 +10750,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>グリーンの定理</string>
+		<key>shortcut</key>
+		<string>ぐりーんのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>原始関数</string>
 		<key>shortcut</key>
 		<string>げんしかんすう</string>
@@ -9667,6 +10771,12 @@
 		<string>勾配</string>
 		<key>shortcut</key>
 		<string>こうばい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コーシー・シュワルツの不等式</string>
+		<key>shortcut</key>
+		<string>こーしーしゅわるつのふとうしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -9802,6 +10912,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ダルブーの定理</string>
+		<key>shortcut</key>
+		<string>だるぶーのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>中間値の定理</string>
 		<key>shortcut</key>
 		<string>ちゅうかんちのていり</string>
@@ -9862,6 +10978,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ハイネ・ボレルの定理</string>
+		<key>shortcut</key>
+		<string>はいねぼれるのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>発散</string>
 		<key>shortcut</key>
 		<string>はっさん</string>
@@ -9910,6 +11032,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヘルダーの不等式</string>
+		<key>shortcut</key>
+		<string>へるだーのふとうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>変曲点</string>
 		<key>shortcut</key>
 		<string>へんきょくてん</string>
@@ -9940,9 +11068,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ボルツァーノ・ワイエルシュトラスの定理</string>
+		<key>shortcut</key>
+		<string>ぼるつぁのわいえるしゅとらすのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>マクローリン展開</string>
 		<key>shortcut</key>
 		<string>まくろーりんてんかい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ミンコフスキーの不等式</string>
+		<key>shortcut</key>
+		<string>みんこふすきーのふとうしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -9976,6 +11116,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ライプニッツの公式</string>
+		<key>shortcut</key>
+		<string>らいぷにっつのこうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ラプラシアン</string>
 		<key>shortcut</key>
 		<string>らぷらしあん</string>
@@ -9994,6 +11140,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>リーマン・スティルチェス積分</string>
+		<key>shortcut</key>
+		<string>りーまんするちぇすせきぶん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>零集合</string>
 		<key>shortcut</key>
 		<string>れいしゅうごう</string>
@@ -10009,6 +11161,18 @@
 		<string>ロピタルの定理</string>
 		<key>shortcut</key>
 		<string>ろぴたるのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ロルの定理</string>
+		<key>shortcut</key>
+		<string>ろるのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ワイエルシュトラスの近似定理</string>
+		<key>shortcut</key>
+		<string>わいえるしゅとらすのきんじていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -10039,6 +11203,18 @@
 		<string>可算</string>
 		<key>shortcut</key>
 		<string>かさん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カントールの対角線論法</string>
+		<key>shortcut</key>
+		<string>かんとーるのたいかくせんろんぽう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カントールの定理</string>
+		<key>shortcut</key>
+		<string>かんとーるのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -10099,6 +11275,12 @@
 		<string>集合</string>
 		<key>shortcut</key>
 		<string>しゅうごう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シュレーダー・ベルンシュタインの定理</string>
+		<key>shortcut</key>
+		<string>しゅれーだーべるんしゅたいんのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -10234,6 +11416,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ド・モルガンの法則</string>
+		<key>shortcut</key>
+		<string>どもるがんのほうそく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>濃度</string>
 		<key>shortcut</key>
 		<string>のうど</string>
@@ -10342,9 +11530,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>クレイン・ミルマンの定理</string>
+		<key>shortcut</key>
+		<string>くれいんみるまんのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ゲルファント・ナイマルクの定理</string>
+		<key>shortcut</key>
+		<string>げるふぁんとないまるくのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>コンパクト作用素</string>
 		<key>shortcut</key>
 		<string>こんぱくとさようそ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>佐藤超関数</string>
+		<key>shortcut</key>
+		<string>さとうちょうかんすう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -10363,6 +11569,12 @@
 		<string>弱位相</string>
 		<key>shortcut</key>
 		<string>じゃくいそう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ストーン・ワイエルシュトラスの定理</string>
+		<key>shortcut</key>
+		<string>すとーんわいえるしゅとらすのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -10468,15 +11680,51 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>バナッハ・アラオグルの定理</string>
+		<key>shortcut</key>
+		<string>ばなっはあらおぐるのていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>バナッハ空間</string>
 		<key>shortcut</key>
 		<string>ばなっはくうかん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>バナッハの不動点定理</string>
+		<key>shortcut</key>
+		<string>ばなっはのふどうてんていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パーセバルの等式</string>
+		<key>shortcut</key>
+		<string>ぱーせばるのとうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ヒルベルト空間</string>
 		<key>shortcut</key>
 		<string>ひるべるとくうかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヒルベルト・シュミット作用素</string>
+		<key>shortcut</key>
+		<string>ひるべるとしゅみっとさようそ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>フォン・ノイマン環</string>
+		<key>shortcut</key>
+		<string>ふぉんのいまんかん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>フレドホルム作用素</string>
+		<key>shortcut</key>
+		<string>ふれどほるむさようそ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -10498,6 +11746,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ベッセルの不等式</string>
+		<key>shortcut</key>
+		<string>べっせるのふとうしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>有界作用素</string>
 		<key>shortcut</key>
 		<string>ゆうかいさようそ</string>
@@ -10513,6 +11767,12 @@
 		<string>リースの表現定理</string>
 		<key>shortcut</key>
 		<string>りーすのひょうげんていり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>リース・フィッシャーの定理</string>
+		<key>shortcut</key>
+		<string>りーすふぃっしゃーのていり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

@@ -20,9 +20,9 @@ Download the file for your IME from [`dist/`](dist/). No cloning or building req
 | **Microsoft IME** | [`dist/msime/math_dict_ja.txt`](dist/msime/math_dict_ja.txt) | 単語の登録 → ユーザー辞書ツール → ツール → テキストファイルからの登録 |
 | **ATOK** | [`dist/atok/math_dict_ja.txt`](dist/atok/math_dict_ja.txt) | 辞書ユーティリティ → ツール → ファイルから登録・削除 |
 
-The dictionary contains **1,076 entries** spanning 23 fields (logic and set theory, algebra,
+The dictionary contains **1,964 entries** spanning 23 fields (logic and set theory, algebra,
 topology, analysis, category theory, commutative algebra, algebraic geometry, and others), plus
-97 mathematical symbols, 68 mathematicians, and 24 Latin-script terms. Mathematicians are
+97 mathematical symbols, 397 mathematicians, and 24 Latin-script terms. Mathematicians are
 registered under both spellings, so `がろあ` offers ガロア and Galois alike.
 
 ### What has actually been tested
@@ -51,7 +51,7 @@ exactly the same string the IME would have offered on its own, so it adds no can
 not already there. (Whether registering it nudges that candidate up the ranking is not something
 we have measured; assume it does nothing.)
 
-**94 entries** fall into this category, 63 of them katakana spellings of mathematicians' names.
+**305 entries** fall into this category, 270 of them katakana spellings of mathematicians' names.
 They are kept for completeness — a dictionary of mathematicians that omitted アーベル because the
 IME can spell it would be a strange dictionary — and they are counted, but not itemized, in
 `REVIEW.md` under 「IMEが自前で変換できる項目」.
@@ -63,8 +63,9 @@ like plain katakana.
 
 Where the dictionary genuinely helps is with terms the IME cannot produce by itself: kanji
 compounds like 準同型写像, 冪零元, and 極大イデアル, but also `コホモロジー群` (a katakana–kanji
-mix, so not a straight transliteration), `層コホモロジー`, and Latin spellings such as Galois and
-Grothendieck. That accounts for the remaining 982 entries.
+mix, so not a straight transliteration), `層コホモロジー`, `クリストッフェル記号`, kanji names like
+高木貞治, and Latin spellings such as Galois and Grothendieck. That accounts for the remaining
+1,659 entries.
 
 ## Adding a term
 
