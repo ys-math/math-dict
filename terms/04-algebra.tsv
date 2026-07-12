@@ -1,0 +1,39 @@
+# 代数学 / Algebra
+# reading	word	pos	flags
+いである	イデアル	noun
+えんざん	演算	noun-suru
+かかいぐん	可解群	noun
+かかんかん	可換環	noun
+かくだいたい	拡大体	noun
+かん	環	noun	common
+がろあぐん	ガロア群	noun
+きょくだいいである	極大イデアル	noun
+ぐん	群	noun	common
+けつごうほうそく	結合法則	noun
+こうかんし	交換子	noun
+こうかんほうそく	交換法則	noun
+さよう	作用	noun-suru	common
+じゅんかいぐん	巡回群	noun
+じゅんどうけい	準同型	noun
+しょうたい	商体	noun
+じょうよかん	剰余環	noun
+じょうよぐん	剰余群	noun
+せいいき	整域	noun
+せいき	正規	noun-adj	common
+せいきぶぶんぐん	正規部分群	noun
+せいへいほう	整閉包	noun
+ぜんしょうかん	全商環	noun
+そいである	素イデアル	noun
+たい	体	noun	common
+だいすうてきへいほう	代数的閉包	noun
+たいしょうぐん	対称群	noun
+たこうしきかん	多項式環	noun
+たんこういである	単項イデアル	noun
+ちゅうしん	中心	noun	common
+どうけい	同型	noun
+にこうえんざん	二項演算	noun
+ぶんかいたい	分解体	noun
+ぶんすうたい	分数体	noun
+ぶんぱいほうそく	分配法則	noun
+ひょうすう	標数	noun
+ゆうげんたい	有限体	noun

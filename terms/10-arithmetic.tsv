@@ -1,0 +1,28 @@
+# 算術・初等代数 / Arithmetic and elementary algebra
+# reading	word	pos	flags
+かいじょう	階乗	noun
+かほう	加法	noun
+けいすう	係数	noun
+げんぽう	減法	noun
+こん	根	noun	common
+ぜったいち	絶対値	noun
+ぜろ	零	noun	common
+せい	正	noun	common
+しすう	指数	noun	common
+しそくえんざん	四則演算	noun
+じょう	乗	noun	common
+じょうほう	乗法	noun
+じょほう	除法	noun
+ぎゃくすう	逆数	noun
+ていすう	定数	noun
+てい	底	noun	common
+へいほう	平方	noun
+へいほうこん	平方根	noun
+へんすう	変数	noun
+べき	冪	noun
+みちすう	未知数	noun
+むげんだい	無限大	noun
+りっぽう	立方	noun
+りっぽうこん	立方根	noun
+るいじょう	累乗	noun
+れい	零	noun	common
