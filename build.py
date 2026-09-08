@@ -19,7 +19,7 @@ DIST = ROOT / "dist"
 
 # Google IME / Mozc publishes its full POS list in the dictionary tool.
 GOOGLE = {"noun": "名詞", "noun-suru": "名詞サ変", "noun-adj": "名詞形動",
-          "person": "人名", "symbol": "記号", "latin": "アルファベット"}
+          "person": "人名", "latin": "アルファベット"}
 
 # MS-IME and ATOK: only 名詞 and 人名 are confidently in both published 品詞 lists,
 # so everything else degrades to 名詞 rather than risk a rejected row.

@@ -1,0 +1,27 @@
+# 可換環論 / Commutative ring theory
+# reading	word	pos	flags
+いである	イデアル	noun
+かかん	可換	noun-adj
+かかんかん	可換環	noun
+きょくだいいである	極大イデアル	noun
+ぐんじゅんどうけい	群準同型	noun
+こうとうしゃぞう	恒等写像	noun
+こんき	根基	noun
+しんのいである	真のイデアル	noun
+じこじゅんどうけい	自己準同型	noun
+じこじゅんどうけいかん	自己準同型環	noun
+じょうほうたんいげん	乗法単位元	noun
+じょうよかん	剰余環	noun
+すぺっく	Spec	latin
+せいいき	整域	noun
+せいぶん	成分	noun	common
+せんけいしゃぞう	線形写像	noun
+そいである	素イデアル	noun
+なかやまただし	Nakayama	person
+ぶぶんかん	部分環	noun
+ほうがんしゃぞう	包含写像	noun
+ほむ	Hom	latin
+まっぷ	Map	latin	low-confidence
+ゆうげんせいかぐん	有限生成加群	noun
+よいんしぎょうれつ	余因子行列	noun
+れいかん	零環	noun

@@ -1,0 +1,56 @@
+# 代数的K理論 / Algebraic K-theory
+# reading	word	pos	flags
+あーべるぐん	アーベル群	noun
+いちいせい	一意性	noun
+いめーじ	Im	latin
+うぇるでふぁいんど	well-defined	latin
+かかんものいど	可換モノイド	noun
+かぐん	加群	noun
+かーねる	Ker	latin
+きてい	基底	noun
+きのうけい	帰納系	noun
+きょうしゅうしゅうごう	共終集合	noun
+きょうやく	共役	noun
+ぎょうれつ	行列	noun
+ぐろたんでぃーく	Grothendieck	person
+ぐろたんでぃーく	グロタンディーク	person
+ぐろたんでぃーくぐん	グロタンディーク群	noun
+けつごうてき	結合的	noun-adj
+さよう	作用	noun-suru	common
+しぜんすう	自然数	noun
+しゃえい	射影	noun-suru
+しゃえいかぐん	射影加群	noun
+しゅうごう	集合	noun-suru
+しょうしゃぞう	商写像	noun
+じゅんどうけい	準同型	noun
+じゆうかぐん	自由加群	noun
+じーえる	GL	latin
+せいげん	制限	noun-suru	common
+せいげんげん	生成元	noun
+せいそく	正則	noun-adj
+せんたくこうり	選択公理	noun
+ぜんしゃ	全射	noun
+ぜんしゃじゅんどうけい	全射準同型	noun
+そんざいせい	存在性	noun
+たんかんぜんれつ	短完全列	noun
+たんしゃ	単射	noun
+ちょくわいんし	直和因子	noun
+ちょくわぶんかい	直和分解	noun
+どうけい	同型	noun
+どうち	同値	noun
+どうちるい	同値類	noun
+にこうえんざん	二項演算	noun
+ひょうげんぎょうれつ	表現行列	noun
+ひょうじゅんきてい	標準基底	noun
+ひょうじゅんてき	標準的	noun-adj	common
+ふへんせい	普遍性	noun
+ぶぶんかぐん	部分加群	noun
+ぷろじぇ	Proj	latin	low-confidence
+べきとうぎょうれつ	冪等行列	noun
+ものいどじゅんどうけい	モノイド準同型	noun
+ものいどどうけい	モノイド同型	noun
+もりた	Morita	person
+ゆうげんせい	有限生成	noun
+ゆうげんせいせいしゃえいかぐん	有限生成射影加群	noun
+ゆうこうしゅうごう	有向集合	noun
+れとらくと	レトラクト	noun

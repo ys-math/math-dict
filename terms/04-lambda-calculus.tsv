@@ -1,0 +1,26 @@
+# ラムダ計算 / Lambda calculus
+# reading	word	pos	flags
+あるふぁすてっぷ	アルファステップ	noun
+あるふぁへんかん	アルファ変換	noun
+いちいてき	一意的	noun-adj
+いちすてっぷべーたかんやく	1ステップベータ簡約	noun
+かさんしゅうごう	可算集合	noun
+かた	型	noun	common
+かんやく	簡約	noun-suru
+きそく	規則	noun	common
+きていがた	基底型	noun	low-confidence
+きのうてき	帰納的	noun-adj
+こうり	公理	noun
+しよう	仕様	noun	common
+じゅんすいがたしすてむ	純粋型システム	noun	low-confidence
+すいいてき	推移的	noun-adj
+そーと	ソート	noun
+たんじゅんがたつきらむだけいさん	単純型付きラムダ計算	noun	low-confidence
+どうちかんけい	同値関係	noun
+にこうかんけい	二項関係	noun
+はんしゃてき	反射的	noun-adj
+へんすう	変数	noun
+べーたかんやく	ベータ簡約	noun
+べーたへんかん	ベータ変換	noun
+らむだけいさん	ラムダ計算	noun
+らむだこう	ラムダ項	noun

@@ -1,0 +1,54 @@
+# Strings harvest.py found in math-study that are not terminology.
+#
+# Kept so a rerun after a new chapter shows the handful of genuinely new
+# candidates instead of re-proposing all of these. Three kinds live here:
+# prose scaffolding the author writes constantly (存在, 任意, 仮定), terms
+# whose mathematical sense is not distinct from their everyday one (定義,
+# 計算, 対応), and segmentation artifacts — 〜全体 constructions, and
+# truncations left behind by inline math (項関係 from 2項関係, 級多様体 from
+# $C^{\infty}$級多様体, 単純型付 from 単純型付き). The repaired forms are in
+# terms/*.tsv; the broken ones are here so they stay dead.
+#
+# Delete a line to reconsider it on the next run.
+存在
+包含
+仮定
+行列全体
+証明
+両辺
+右下
+同様
+拡大
+環上
+追加
+任意
+以下
+自然変換全体
+要素
+データ
+以上
+圏, 関手, 自然変換
+実際
+小さい
+局所的
+形
+米田の補題と普遍性
+錐全体
+以降
+素イデアル全体
+条件
+最小
+項関係
+ステップ
+変換
+定義
+表記
+計算
+記法
+単純型付
+変数全体
+自由変数全体
+級多様体
+級写像
+保証
+対応

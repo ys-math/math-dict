@@ -1,0 +1,62 @@
+# 圏論 / Category theory
+# reading	word	pos	flags
+あいでぃー	id	latin	low-confidence
+いふ	iff	latin
+おっぷ	op	latin	low-confidence
+おぶ	Ob	latin	low-confidence
+かんしゅ	関手	noun
+かんしゅけん	関手圏	noun
+かんび	完備	noun-adj
+きょうへんかんしゅ	共変関手	noun
+きょくげん	極限	noun
+きょくしょしょうけん	局所小圏	noun
+きょくしょてきにちいさいけん	局所的に小さい圏	noun
+ぎゃくしゃぞう	逆写像	noun
+けつごうりつ	結合律	noun
+けん	圏	noun	common
+こうとうしゃ	恒等射	noun
+こど	cod	latin	low-confidence
+こーん	Cone	latin	low-confidence
+ごうせい	合成	noun-suru
+しいき	始域	noun
+しぜんどうけい	自然同型	noun
+しぜんへんかん	自然変換	noun
+したいしょう	始対象	noun
+しゃ	射	noun	common
+しゃぞう	写像	noun
+しゅういき	終域	noun
+しゅうたいしょう	終対象	noun
+しょうけん	小圏	noun
+しんぐるとん	シングルトン	noun
+すい	錐	noun	common
+すいかんしゅ	錐関手	noun
+ずいはん	随伴	noun
+ずしき	図式	noun
+せきけん	積圏	noun
+ぜんたんしゃ	全単射	noun
+そうかんしゅ	双関手	noun
+たいしょう	対象	noun	common
+たんい	単位	noun	common
+ちいさいけん	小さい圏	noun
+ちょうてん	頂点	noun
+ていかんしゅ	定関手	noun	low-confidence
+ていすうかんしゅ	定数関手	noun	low-confidence
+ていずしきかんしゅ	定図式関手	noun	low-confidence
+どうけいしゃ	同型射	noun
+どむ	dom	latin	low-confidence
+なっと	Nat	latin	low-confidence
+ひだりずいはん	左随伴	noun
+ひょうげん	表現	noun-suru	common
+ひょうげんかのうかんしゅ	表現可能関手	noun
+ふへんげん	普遍元	noun
+ふへんつい	普遍対	noun	low-confidence
+ほだい	補題	noun
+みぎずいはん	右随伴	noun
+みぎずいはんかんしゅ	右随伴関手	noun
+もる	Mor	latin	low-confidence
+ようそのけん	要素の圏	noun
+よたんい	余単位	noun
+よねだ	米田	person
+よねだ	Yoneda	person
+よねだのほだい	米田の補題	noun
+れいたいしょう	零対象	noun

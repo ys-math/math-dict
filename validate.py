@@ -16,7 +16,7 @@ from pathlib import Path
 TERMS = Path(__file__).parent / "terms"
 REVIEW = Path(__file__).parent / "REVIEW.md"
 
-POS = {"noun", "noun-suru", "noun-adj", "person", "symbol", "latin"}
+POS = {"noun", "noun-suru", "noun-adj", "person", "latin"}
 FLAGS = {"common", "low-confidence"}
 
 # Small kana carry no mora of their own (っ does, so it is not listed here).
