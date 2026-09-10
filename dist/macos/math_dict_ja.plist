@@ -934,6 +934,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>反対圏</string>
+		<key>shortcut</key>
+		<string>はんたいけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>反変関手</string>
+		<key>shortcut</key>
+		<string>はんぺんかんしゅ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>左随伴</string>
 		<key>shortcut</key>
 		<string>ひだりずいはん</string>

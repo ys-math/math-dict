@@ -17,19 +17,23 @@
 | **Microsoft IME** | [`dist/msime/math_dict_ja.txt`](dist/msime/math_dict_ja.txt) | 単語の登録 → ユーザー辞書ツール → ツール → テキストファイルからの登録 |
 | **ATOK** | [`dist/atok/math_dict_ja.txt`](dist/atok/math_dict_ja.txt) | 辞書ユーティリティ → ツール → ファイルから登録・削除 |
 
-収録語数は **177 語**です。math-study の `tex/` 以下のディレクトリと 1 対 1 に対応するファイルに分かれています。
+収録語数は **179 語**です。math-study の `tex/` 以下のディレクトリと 1 対 1 に対応するファイルに分かれています。
 
 | ファイル | 対応する原典 | 語数 |
 |---|---|---:|
 | [`terms/00-algebraic-k-theory.tsv`](terms/00-algebraic-k-theory.tsv) | `tex/algebraic_k_theory/` | 54 |
-| [`terms/01-category-theory.tsv`](terms/01-category-theory.tsv) | `tex/category_theory/` | 60 |
+| [`terms/01-category-theory.tsv`](terms/01-category-theory.tsv) | `tex/category_theory/` | 62 |
 | [`terms/02-commutative-ring-theory.tsv`](terms/02-commutative-ring-theory.tsv) | `tex/commutative_ring_theory/` | 25 |
 | [`terms/03-galois-theory.tsv`](terms/03-galois-theory.tsv) | `tex/galois_theory/` | 1 |
 | [`terms/04-lambda-calculus.tsv`](terms/04-lambda-calculus.tsv) | `tex/lambda_calculus/` | 24 |
 | [`terms/05-manifold.tsv`](terms/05-manifold.tsv) | `tex/manifold/` | 7 |
 | [`terms/06-topology.tsv`](terms/06-topology.tsv) | `tex/topology/` | 6 |
 
-内訳は名詞 134 語、形容動詞 12 語、サ変名詞 7 語、数学者名 7 名（米田、グロタンディーク、ハウスドルフ、Nakayama、Morita、Yoneda、Grothendieck）、ラテン文字表記 17 語（原典で実際に使われている作用素名 `Hom` `Ker` `Im` `Ob` `Mor` `dom` `cod` `id` `GL` `Cone` `Nat` `op` `Proj` `Spec` `Map` と `iff`、`well-defined`）です。
+`tex/` には `differential_geometry/` と `symplectic_manifold/` もありますが、章の中身はまだ空です。
+対応するファイルはまだ作っていません。`harvest.py` は対応表に無いディレクトリを見つけると名前を表示するので、
+新しい話題が黙って抜け落ちることはありません。
+
+内訳は名詞 136 語、形容動詞 12 語、サ変名詞 7 語、数学者名 7 名（米田、グロタンディーク、ハウスドルフ、Nakayama、Morita、Yoneda、Grothendieck）、ラテン文字表記 17 語（原典で実際に使われている作用素名 `Hom` `Ker` `Im` `Ob` `Mor` `dom` `cod` `id` `GL` `Cone` `Nat` `op` `Proj` `Spec` `Map` と `iff`、`well-defined`）です。
 
 **数学記号は収録していません。** ℝ・∀・⊗ は入っておらず、品詞 `symbol` 自体を廃止したので、`validate.py` が記号の行をエラーとして弾きます。ギリシャ文字を含む語はカタカナで表記しています（ラムダ計算、ベータ簡約、アルファ変換）。
 
@@ -51,7 +55,7 @@
 
 `ほもとぴー` から `ホモトピー` が出るのは、この辞書の働きではありません。IME は仮名入力をそのままカタカナに変換できるので、これらの項目は IME が元から出す候補と同じ文字列を返すだけです。**8 語**がこれに当たります（イデアル、グロタンディーク、シングルトン、ソート、ハウスドルフ、ホモトピー、レトラクト、アルファステップ）。件数だけ [REVIEW.md](REVIEW.md) の「IMEが自前で変換できる項目」に記載しています。
 
-残る 169 語は実際に働きます。恒等射・冪等行列・局所的に小さい圏 のような漢字語、`グロタンディーク群`・`コンパクト開位相` のようなカタカナと漢字の混在、`Hom`・`well-defined` のようなラテン文字表記です。
+残る 171 語は実際に働きます。恒等射・冪等行列・局所的に小さい圏 のような漢字語、`グロタンディーク群`・`コンパクト開位相` のようなカタカナと漢字の混在、`Hom`・`well-defined` のようなラテン文字表記です。
 
 ## 語の追加方法
 
@@ -82,7 +86,7 @@ python3 build.py              # terms/ から dist/ を生成する
 
 ## 注意事項
 
-**語そのものは実在します。**すべて `.tex` から拾ったものなので、存在しない語が紛れ込むことはありません。**問題は読みです。**math-study にルビは無いため、読みは以前の版から引き継いだもの（81 語）か、生成したもの（96 語）のいずれかです。うち 17 語は `low-confidence` を付けて [REVIEW.md](REVIEW.md) に挙げてあります。特に怪しいのはラテン文字の作用素名で、`Ob`・`Mor`・`dom`・`cod`・`Proj` には定まった日本語の読みがありません。
+**語そのものは実在します。**すべて `.tex` から拾ったものなので、存在しない語が紛れ込むことはありません。**問題は読みです。**math-study にルビは無いため、読みは以前の版から引き継いだもの（81 語）か、生成したもの（98 語）のいずれかです。うち 17 語は `low-confidence` を付けて [REVIEW.md](REVIEW.md) に挙げてあります。特に怪しいのはラテン文字の作用素名で、`Ob`・`Mor`・`dom`・`cod`・`Proj` には定まった日本語の読みがありません。
 
 読みの誤りはその項目が変換候補に出てこないだけですが、見かけたら不具合です。[Issue](../../issues) を立てるか、該当行を直してください。
 

@@ -129,6 +129,14 @@ def main() -> int:
               file=sys.stderr)
         return 1
 
+    # math-study grows new topics, and an unmapped one would be skipped in silence —
+    # the dictionary would keep claiming to cover the corpus while missing a subject.
+    unmapped = sorted(d.name for d in tex.iterdir()
+                      if d.is_dir() and d.name not in SUBJECTS)
+    if unmapped:
+        print(f"note: tex/ has topics SUBJECTS does not map: {', '.join(unmapped)}",
+              file=sys.stderr)
+
     known = set() if "--all" in sys.argv[1:] else verdicts()
     # term → subject dir → count. A term used in two chapters belongs to the file
     # for the one that uses it most; ties break alphabetically, via max()'s stability.

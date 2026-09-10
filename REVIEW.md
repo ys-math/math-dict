@@ -7,7 +7,7 @@ but each is worth a human glance.
 ordinary Japanese word, so this entry will crowd the candidate list when you write
 normal prose. They are kept per the completeness decision; delete any that annoy you.
 
-**37 flagged / 177 entries**
+**37 flagged / 179 entries**
 
 | reading | word | source | why |
 |---|---|---|---|
@@ -39,14 +39,14 @@ normal prose. They are kept per the completeness decision; delete any that annoy
 | どむ | dom | `01-category-theory.tsv:46` | collides with everyday Japanese |
 | どむ | dom | `01-category-theory.tsv:46` | reading unverified |
 | なっと | Nat | `01-category-theory.tsv:47` | reading unverified |
-| ひょうげん | 表現 | `01-category-theory.tsv:49` | collides with everyday Japanese |
+| ひょうげん | 表現 | `01-category-theory.tsv:51` | collides with everyday Japanese |
 | ひょうじゅんてき | 標準的 | `00-algebraic-k-theory.tsv:45` | collides with everyday Japanese |
-| ふへんつい | 普遍対 | `01-category-theory.tsv:52` | reading unverified |
+| ふへんつい | 普遍対 | `01-category-theory.tsv:54` | reading unverified |
 | ぷろじぇ | Proj | `00-algebraic-k-theory.tsv:48` | reading unverified |
 | ほむ | Hom | `02-commutative-ring-theory.tsv:23` | collides with everyday Japanese |
 | まっぷ | Map | `02-commutative-ring-theory.tsv:24` | reading unverified |
-| もる | Mor | `01-category-theory.tsv:56` | collides with everyday Japanese |
-| もる | Mor | `01-category-theory.tsv:56` | reading unverified |
+| もる | Mor | `01-category-theory.tsv:58` | collides with everyday Japanese |
+| もる | Mor | `01-category-theory.tsv:58` | reading unverified |
 | れんぞく | 連続 | `06-topology.tsv:6` | collides with everyday Japanese |
 
 ## IMEが自前で変換できる項目

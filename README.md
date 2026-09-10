@@ -21,19 +21,23 @@ Download the file for your IME from [`dist/`](dist/). No cloning or building req
 | **Microsoft IME** | [`dist/msime/math_dict_ja.txt`](dist/msime/math_dict_ja.txt) | 単語の登録 → ユーザー辞書ツール → ツール → テキストファイルからの登録 |
 | **ATOK** | [`dist/atok/math_dict_ja.txt`](dist/atok/math_dict_ja.txt) | 辞書ユーティリティ → ツール → ファイルから登録・削除 |
 
-The dictionary contains **177 entries**, one file per subject in math-study's `tex/`:
+The dictionary contains **179 entries**, one file per subject in math-study's `tex/`:
 
 | file | source | entries |
 |---|---|---:|
 | [`terms/00-algebraic-k-theory.tsv`](terms/00-algebraic-k-theory.tsv) | `tex/algebraic_k_theory/` | 54 |
-| [`terms/01-category-theory.tsv`](terms/01-category-theory.tsv) | `tex/category_theory/` | 60 |
+| [`terms/01-category-theory.tsv`](terms/01-category-theory.tsv) | `tex/category_theory/` | 62 |
 | [`terms/02-commutative-ring-theory.tsv`](terms/02-commutative-ring-theory.tsv) | `tex/commutative_ring_theory/` | 25 |
 | [`terms/03-galois-theory.tsv`](terms/03-galois-theory.tsv) | `tex/galois_theory/` | 1 |
 | [`terms/04-lambda-calculus.tsv`](terms/04-lambda-calculus.tsv) | `tex/lambda_calculus/` | 24 |
 | [`terms/05-manifold.tsv`](terms/05-manifold.tsv) | `tex/manifold/` | 7 |
 | [`terms/06-topology.tsv`](terms/06-topology.tsv) | `tex/topology/` | 6 |
 
-That is 134 plain nouns, 12 な-adjectives, 7 サ変 nouns, 7 mathematicians (米田, グロタンディーク,
+`tex/` also holds `differential_geometry/` and `symplectic_manifold/`, whose chapters are still
+empty stubs. Neither has a file here yet, and `harvest.py` prints a note naming any topic it does
+not map so a new one cannot be skipped in silence.
+
+That is 136 plain nouns, 12 な-adjectives, 7 サ変 nouns, 7 mathematicians (米田, グロタンディーク,
 Nakayama, Morita, Yoneda, Grothendieck, ハウスドルフ) and 17 Latin-script terms — the operator
 names actually used in the sources (`Hom` `Ker` `Im` `Ob` `Mor` `dom` `cod` `id` `GL` `Cone` `Nat`
 `op` `Proj` `Spec` `Map`) plus `iff` and `well-defined`.
@@ -77,7 +81,7 @@ IME would have offered anyway. **8 entries** fall into this category — イデ�
 シングルトン, ソート, ハウスドルフ, ホモトピー, レトラクト, アルファステップ. They are counted, but
 not itemized, in `REVIEW.md` under 「IMEが自前で変換できる項目」.
 
-The other 169 do real work: kanji compounds like 恒等射, 冪等行列 and 局所的に小さい圏, katakana–kanji
+The other 171 do real work: kanji compounds like 恒等射, 冪等行列 and 局所的に小さい圏, katakana–kanji
 mixes like `グロタンディーク群` and `コンパクト開位相`, and Latin spellings such as `Hom` and
 `well-defined`.
 
@@ -127,7 +131,7 @@ collected in [REVIEW.md](REVIEW.md).
 The terms are real: each one was lifted from a `.tex` file, so a fabricated term cannot get in.
 **The readings are a different matter.** math-study has no furigana, so every reading was either
 carried over from an earlier hand-checked version of this dictionary (81 of them) or generated
-(96). 17 are marked `low-confidence` and listed in `REVIEW.md`; the Latin operator names are the
+(98). 17 are marked `low-confidence` and listed in `REVIEW.md`; the Latin operator names are the
 shakiest of them, since `Ob`, `Mor`, `dom`, `cod` and `Proj` have no settled Japanese reading.
 
 A wrong reading is harmless — the entry simply never appears as a conversion candidate. But if you
