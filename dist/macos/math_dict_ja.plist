@@ -10,6 +10,66 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>アーベル圏</string>
+		<key>shortcut</key>
+		<string>あーべるけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>エピ射</string>
+		<key>shortcut</key>
+		<string>えぴしゃ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>加法圏</string>
+		<key>shortcut</key>
+		<string>かほうけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>前加法圏</string>
+		<key>shortcut</key>
+		<string>ぜんかほうけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>2項積</string>
+		<key>shortcut</key>
+		<string>にこうせき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>平行対</string>
+		<key>shortcut</key>
+		<string>へいこうつい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>平行対の圏</string>
+		<key>shortcut</key>
+		<string>へいこうついのけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>モノ射</string>
+		<key>shortcut</key>
+		<string>ものしゃ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>余核</string>
+		<key>shortcut</key>
+		<string>よかく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>零射</string>
+		<key>shortcut</key>
+		<string>れいしゃ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>アルファステップ</string>
 		<key>shortcut</key>
 		<string>あるふぁすてっぷ</string>
@@ -604,6 +664,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>積閉集合</string>
+		<key>shortcut</key>
+		<string>せきへいしゅうごう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>線形写像</string>
 		<key>shortcut</key>
 		<string>せんけいしゃぞう</string>
@@ -670,6 +736,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>アイレンベルグムーア圏</string>
+		<key>shortcut</key>
+		<string>あいれんべるぐむーあけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>iff</string>
 		<key>shortcut</key>
 		<string>いふ</string>
@@ -685,6 +757,18 @@
 		<string>Ob</string>
 		<key>shortcut</key>
 		<string>おぶ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>可換図式</string>
+		<key>shortcut</key>
+		<string>かかんずしき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Kan拡張</string>
+		<key>shortcut</key>
+		<string>かんかくちょう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -736,6 +820,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>クライスリ圏</string>
+		<key>shortcut</key>
+		<string>くらいすりけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>結合律</string>
 		<key>shortcut</key>
 		<string>けつごうりつ</string>
@@ -769,6 +859,12 @@
 		<string>合成</string>
 		<key>shortcut</key>
 		<string>ごうせい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>合成関手</string>
+		<key>shortcut</key>
+		<string>ごうせいかんしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -832,6 +928,30 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>自己関手</string>
+		<key>shortcut</key>
+		<string>じこかんしゅ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>自己関手圏</string>
+		<key>shortcut</key>
+		<string>じこかんしゅけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>自由関手</string>
+		<key>shortcut</key>
+		<string>じゆうかんしゅ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>乗法</string>
+		<key>shortcut</key>
+		<string>じょうほう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>錐</string>
 		<key>shortcut</key>
 		<string>すい</string>
@@ -880,9 +1000,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ただ1つ</string>
+		<key>shortcut</key>
+		<string>ただひとつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>単位</string>
 		<key>shortcut</key>
 		<string>たんい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>単位元</string>
+		<key>shortcut</key>
+		<string>たんいげん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>単位射</string>
+		<key>shortcut</key>
+		<string>たんいしゃ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>代数</string>
+		<key>shortcut</key>
+		<string>だいすう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -934,6 +1078,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>反対関手</string>
+		<key>shortcut</key>
+		<string>はんたいかんしゅ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>反対圏</string>
 		<key>shortcut</key>
 		<string>はんたいけん</string>
@@ -949,6 +1099,18 @@
 		<string>左随伴</string>
 		<key>shortcut</key>
 		<string>ひだりずいはん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>左ヒゲ結合</string>
+		<key>shortcut</key>
+		<string>ひだりひげけつごう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>評価関手</string>
+		<key>shortcut</key>
+		<string>ひょうかかんしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -970,6 +1132,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>普遍射</string>
+		<key>shortcut</key>
+		<string>ふへんしゃ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>普遍対</string>
 		<key>shortcut</key>
 		<string>ふへんつい</string>
@@ -979,6 +1147,12 @@
 		<string>補題</string>
 		<key>shortcut</key>
 		<string>ほだい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>忘却関手</string>
+		<key>shortcut</key>
+		<string>ぼうきゃくかんしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -994,6 +1168,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>右ヒゲ結合</string>
+		<key>shortcut</key>
+		<string>みぎひげけつごう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>モナド</string>
+		<key>shortcut</key>
+		<string>もなど</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>Mor</string>
 		<key>shortcut</key>
 		<string>もる</string>
@@ -1003,6 +1189,12 @@
 		<string>要素の圏</string>
 		<key>shortcut</key>
 		<string>ようそのけん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>余極限</string>
+		<key>shortcut</key>
+		<string>よきょくげん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

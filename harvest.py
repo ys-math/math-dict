@@ -33,6 +33,7 @@ SUBJECTS = {
     "lambda_calculus": "04-lambda-calculus",
     "manifold": "05-manifold",
     "topology": "06-topology",
+    "homological_algebra": "07-homological-algebra",
 }
 
 # Greek read as part of the term rather than as a symbol: λ計算 is ラムダ計算 when

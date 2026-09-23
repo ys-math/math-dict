@@ -7,51 +7,54 @@ but each is worth a human glance.
 ordinary Japanese word, so this entry will crowd the candidate list when you write
 normal prose. They are kept per the completeness decision; delete any that annoy you.
 
-**37 flagged / 179 entries**
+**40 flagged / 211 entries**
 
 | reading | word | source | why |
 |---|---|---|---|
 | あいでぃー | id | `01-category-theory.tsv:3` | reading unverified |
-| いふ | iff | `01-category-theory.tsv:4` | collides with everyday Japanese |
-| おっぷ | op | `01-category-theory.tsv:5` | reading unverified |
-| おぶ | Ob | `01-category-theory.tsv:6` | collides with everyday Japanese |
-| おぶ | Ob | `01-category-theory.tsv:6` | reading unverified |
+| いふ | iff | `01-category-theory.tsv:5` | collides with everyday Japanese |
+| おっぷ | op | `01-category-theory.tsv:6` | reading unverified |
+| おぶ | Ob | `01-category-theory.tsv:7` | collides with everyday Japanese |
+| おぶ | Ob | `01-category-theory.tsv:7` | reading unverified |
 | かた | 型 | `04-lambda-calculus.tsv:8` | collides with everyday Japanese |
+| かんかくちょう | Kan拡張 | `01-category-theory.tsv:9` | reading unverified |
 | きそく | 規則 | `04-lambda-calculus.tsv:10` | collides with everyday Japanese |
 | きていがた | 基底型 | `04-lambda-calculus.tsv:11` | reading unverified |
-| けん | 圏 | `01-category-theory.tsv:16` | collides with everyday Japanese |
-| こど | cod | `01-category-theory.tsv:18` | collides with everyday Japanese |
-| こど | cod | `01-category-theory.tsv:18` | reading unverified |
-| こーん | Cone | `01-category-theory.tsv:19` | reading unverified |
+| けん | 圏 | `01-category-theory.tsv:20` | collides with everyday Japanese |
+| こど | cod | `01-category-theory.tsv:22` | collides with everyday Japanese |
+| こど | cod | `01-category-theory.tsv:22` | reading unverified |
+| こーん | Cone | `01-category-theory.tsv:24` | reading unverified |
 | さよう | 作用 | `00-algebraic-k-theory.tsv:19` | collides with everyday Japanese |
-| しゃ | 射 | `01-category-theory.tsv:25` | collides with everyday Japanese |
+| しゃ | 射 | `01-category-theory.tsv:30` | collides with everyday Japanese |
 | しよう | 仕様 | `04-lambda-calculus.tsv:14` | collides with everyday Japanese |
 | じゅんすいがたしすてむ | 純粋型システム | `04-lambda-calculus.tsv:15` | reading unverified |
-| すい | 錐 | `01-category-theory.tsv:31` | collides with everyday Japanese |
+| じょうほう | 乗法 | `01-category-theory.tsv:39` | collides with everyday Japanese |
+| すい | 錐 | `01-category-theory.tsv:40` | collides with everyday Japanese |
 | せいげん | 制限 | `00-algebraic-k-theory.tsv:28` | collides with everyday Japanese |
 | せいぶん | 成分 | `02-commutative-ring-theory.tsv:17` | collides with everyday Japanese |
-| たいしょう | 対象 | `01-category-theory.tsv:38` | collides with everyday Japanese |
-| たんい | 単位 | `01-category-theory.tsv:39` | collides with everyday Japanese |
+| たいしょう | 対象 | `01-category-theory.tsv:47` | collides with everyday Japanese |
+| ただひとつ | ただ1つ | `01-category-theory.tsv:48` | collides with everyday Japanese |
+| たんい | 単位 | `01-category-theory.tsv:49` | collides with everyday Japanese |
 | たんじゅんがたつきらむだけいさん | 単純型付きラムダ計算 | `04-lambda-calculus.tsv:18` | reading unverified |
-| ていかんしゅ | 定関手 | `01-category-theory.tsv:42` | reading unverified |
-| ていすうかんしゅ | 定数関手 | `01-category-theory.tsv:43` | reading unverified |
-| ていずしきかんしゅ | 定図式関手 | `01-category-theory.tsv:44` | reading unverified |
-| どむ | dom | `01-category-theory.tsv:46` | collides with everyday Japanese |
-| どむ | dom | `01-category-theory.tsv:46` | reading unverified |
-| なっと | Nat | `01-category-theory.tsv:47` | reading unverified |
-| ひょうげん | 表現 | `01-category-theory.tsv:51` | collides with everyday Japanese |
+| ていかんしゅ | 定関手 | `01-category-theory.tsv:55` | reading unverified |
+| ていすうかんしゅ | 定数関手 | `01-category-theory.tsv:56` | reading unverified |
+| ていずしきかんしゅ | 定図式関手 | `01-category-theory.tsv:57` | reading unverified |
+| どむ | dom | `01-category-theory.tsv:59` | collides with everyday Japanese |
+| どむ | dom | `01-category-theory.tsv:59` | reading unverified |
+| なっと | Nat | `01-category-theory.tsv:60` | reading unverified |
+| ひょうげん | 表現 | `01-category-theory.tsv:67` | collides with everyday Japanese |
 | ひょうじゅんてき | 標準的 | `00-algebraic-k-theory.tsv:45` | collides with everyday Japanese |
-| ふへんつい | 普遍対 | `01-category-theory.tsv:54` | reading unverified |
+| ふへんつい | 普遍対 | `01-category-theory.tsv:71` | reading unverified |
 | ぷろじぇ | Proj | `00-algebraic-k-theory.tsv:48` | reading unverified |
-| ほむ | Hom | `02-commutative-ring-theory.tsv:23` | collides with everyday Japanese |
-| まっぷ | Map | `02-commutative-ring-theory.tsv:24` | reading unverified |
-| もる | Mor | `01-category-theory.tsv:58` | collides with everyday Japanese |
-| もる | Mor | `01-category-theory.tsv:58` | reading unverified |
+| ほむ | Hom | `02-commutative-ring-theory.tsv:24` | collides with everyday Japanese |
+| まっぷ | Map | `02-commutative-ring-theory.tsv:25` | reading unverified |
+| もる | Mor | `01-category-theory.tsv:78` | collides with everyday Japanese |
+| もる | Mor | `01-category-theory.tsv:78` | reading unverified |
 | れんぞく | 連続 | `06-topology.tsv:6` | collides with everyday Japanese |
 
 ## IMEが自前で変換できる項目
 
-**8 entries.** The word is exactly its own reading in katakana, so the
+**9 entries.** The word is exactly its own reading in katakana, so the
 IME already offers that string and the entry adds no new candidate. Nothing to decide
 here — they are listed only so the count stays visible.
 
@@ -62,10 +65,11 @@ here — they are listed only so the count stays visible.
 | あるふぁすてっぷ | アルファステップ | `04-lambda-calculus.tsv:3` |
 | いである | イデアル | `02-commutative-ring-theory.tsv:3` |
 | ぐろたんでぃーく | グロタンディーク | `00-algebraic-k-theory.tsv:16` |
-| しんぐるとん | シングルトン | `01-category-theory.tsv:30` |
+| しんぐるとん | シングルトン | `01-category-theory.tsv:35` |
 | そーと | ソート | `04-lambda-calculus.tsv:17` |
 | はうすどるふ | ハウスドルフ | `05-manifold.tsv:8` |
 | ほもとぴー | ホモトピー | `06-topology.tsv:5` |
+| もなど | モナド | `01-category-theory.tsv:77` |
 | れとらくと | レトラクト | `00-algebraic-k-theory.tsv:56` |
 
 </details>
